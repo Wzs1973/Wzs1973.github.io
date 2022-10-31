@@ -356,9 +356,10 @@
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
+      "playerType":1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/top97_1.jar"
     },
     {
       "key": "csp_AliPS",
