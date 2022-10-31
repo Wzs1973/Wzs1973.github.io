@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/wzs1973/test/raw/branch/master/Bili/哔哩哔哩.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/Bili/Bili.json"
     },
     {
       "key": "csp_Kunyu77",
@@ -74,15 +74,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/ts%20.jar"
-    },
-    {
-      "key": "csp_Anfuns",
-      "name": "Anfuns[SP]",
-      "type": 3,
-      "api": "csp_Anfuns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_Fantuan",
@@ -525,20 +516,6 @@
       "ext": "https://notabug.org/wzs888/test/raw/master/JS/小品网.js"
     },    
     {
-      "key": "drpy_js_猫了个咪",
-      "name": "猫了个咪[JS]",
-      "type": 3,
-      "api": "https://notabug.org/wzs888/test/raw/master/libs/drpy.min.js",
-      "ext": "https://notabug.org/wzs888/test/raw/master/JS/猫了个咪.js"
-    },
-    {
-      "key": "drpy_js_养端",
-      "name": "养端视频[JS]",
-      "type": 3,
-      "api": "https://notabug.org/wzs888/test/raw/master/libs/drpy.min.js",
-      "ext": "https://notabug.org/wzs888/test/raw/master/JS/养端.js"
-    },
-    {
       "key": "csp_xb_玄天",
       "name": "玄天影院[R]",
       "type": 3,
@@ -909,16 +886,6 @@
       "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XYQ/万能影院.json"
     },
     {
-      "key":"csp_XYQBiu_涩播",
-      "name":"涩播合集[XY]",
-      "type":3,
-      "api":"csp_XYQBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XYQ/涩播.json"
-    },    
-    {
       "key": "北雁资源",
       "name": "北雁资源[CJ]",
       "type": 1,
@@ -1001,14 +968,6 @@
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key":"影库资源",
-      "name":"影库资源[CJ]",
-      "type":1,
-      "api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-      "searchable":1,
-      "quickSearch":1
     },
     {
       "key": "csp_PushAgent",
