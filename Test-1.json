@@ -4,8 +4,6 @@
  {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
  {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
- "dr_count": 119,
- "mode": 2,
  "spider": "https://wzs1973.github.io/JAR/tang.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c",
  "sites": [
   {
