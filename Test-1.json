@@ -86,14 +86,14 @@
       "jar":"https://wzs1973.github.io/JAR/tang.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
     },
     {
-      "key": "csp_Lib",
-      "name": "Libvio[SP]",
+      "key": "csp_KanSJ",
+      "name": "看视界[SP]",
       "type": 3,
-      "api": "csp_Lib",
+      "api": "csp_KanSJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://wzs1973.github.io/JAR/tang.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/custom_spider.jar;md5;AE86A4B7FB27BB883300E73631C7051D"
     },
     {
       "key": "csp_Fantuan",
@@ -416,11 +416,11 @@
       "ext": "https://wzs1973.github.io/JS/独播库.js"
     },
     {
-      "key": "drpy_js_兰花影院",
-      "name": "兰花影院[JS]",
+      "key": "drpy_js_艾旦影视",
+      "name": "艾旦影视[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/兰花影院.js"
+      "ext": "https://wzs1973.github.io/JS/艾旦影视.js"
     },
     {
       "key": "drpy_js_优酷",
