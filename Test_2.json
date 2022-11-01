@@ -23,21 +23,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/1029pz/json/bilibili.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "🅱看演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "clan://tvboxhh/1029pz/json/Biliych.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/Bili/Bili.json"
     },
     {
       "key": "douban",
-      "name": "🅱豆瓣荐片┃推荐首页",
+      "name": "🅱豆瓣荐片",
       "type": 4,
       "api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod",
       "searchable": 0,
@@ -613,6 +603,36 @@
       "filterable": 1,
       "ext": "https://wzs1973.github.io/JS/小宝影视.js"
     },
+    {
+      "key": "drpy_js_大猪蹄子",
+      "name": "大猪蹄子[JS]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/JS/大猪蹄子.js"
+    },
+    {
+      "key": "drpy_js_米宝影院",
+      "name": "米宝影院[JS]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/JS/米宝影院.js"
+    },
+    {
+      "key": "drpy_js_兰花影院",
+      "name": "兰花影院[JS]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/JS/兰花影院.js"
+    },    
     {
       "key": "drpy_js_小宝影院",
       "name": "小宝影院[JS]",
