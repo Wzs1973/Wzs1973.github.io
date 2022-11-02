@@ -201,15 +201,6 @@
       "filterable": 1
     },
     {
-      "key":"csp_Dy555",
-      "name":"三五电影[SP]",
-      "type":3,
-      "api":"csp_Dy555",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
       "key":"csp_Jianying",
       "name":"简影视频[SP]",
       "api":"csp_JianYing",
@@ -380,7 +371,7 @@
     },
     {
       "key": "csp_Upyunso",
-      "name": "易搜",
+      "name": "云搜",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
@@ -428,13 +419,6 @@
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/DJ音乐.js"
-    }, 
-    {
-      "key": "drpy_js_抓饭体育",
-      "name": "抓饭体育[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/抓饭体育.js"
     }, 
     {
       "key": "drpy_js_菜狗",
