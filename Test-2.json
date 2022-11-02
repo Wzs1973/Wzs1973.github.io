@@ -347,6 +347,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://wzs1973.github.io/xBPQ/酷狗MV.json"
+    },    
+    {
+      "key": "csp_xBPQ_抓饭体育",
+      "name": "抓饭体育[xB]",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/抓饭体育.json"
     },
     {
       "key": "csp_Gitcafe",
