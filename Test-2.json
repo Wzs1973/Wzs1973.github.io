@@ -626,6 +626,20 @@
       "ext": "https://wzs1973.github.io/JS/海盗听书.js"
     },
     {
+      "key": "drpy_js_回响影视",
+      "name": "回响影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/影魔.js",
+      "ext": "https://wzs1973.github.io/JS/回响影视.js"
+    },
+    {
+      "key": "drpy_js_歪片星球",
+      "name": "歪片星球[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/影魔.js",
+      "ext": "https://wzs1973.github.io/JS/歪片星球.js"
+    },    
+    {
       "key":"bdys",
       "name":"哔嘀磁力[BD]",
       "type":3,
