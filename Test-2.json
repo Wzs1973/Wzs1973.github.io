@@ -542,13 +542,6 @@
       "ext": "https://wzs1973.github.io/JS/凌云影视.js"
     },    
     {
-      "key": "drpy_js_LIBVIO",
-      "name": "LIBVIO[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/LIBVIO.js"
-    },   
-    {
       "key": "drpy_js_秋霞",
       "name": "秋霞影院[JS]",
       "type": 3,
@@ -562,13 +555,6 @@
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/真不卡.js"
     },    
-    {
-      "key": "drpy_js_鸭奈飞",
-      "name": "鸭奈飞[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/鸭奈飞.js"
-    },
     {
       "key": "drpy_js_ 尘落影视",
       "name": "尘落影视[JS]",
@@ -629,14 +615,14 @@
       "key": "drpy_js_回响影视",
       "name": "回响影视[JS]",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/影魔.js",
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/回响影视.js"
     },
     {
       "key": "drpy_js_歪片星球",
       "name": "歪片星球[JS]",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/影魔.js",
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/歪片星球.js"
     },    
     {
