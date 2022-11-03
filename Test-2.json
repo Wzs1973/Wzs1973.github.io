@@ -674,7 +674,17 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"
-    },   
+    },
+    {
+      "key":"csp_XYQHiker_柠檬电视",
+      "name":" 柠檬电视[XY]",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQHiker/电视直播.json"
+    },    
     {
       "key":"csp_XYQHiker_魔戒影院",
       "name":" 魔戒影院[XY]",
