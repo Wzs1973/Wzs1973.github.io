@@ -192,15 +192,6 @@
       "filterable": 1
     },
     {
-      "key":"csp_Lib",
-      "name": "LIBVIO[SP]",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key":"csp_Jianying",
       "name":"简影视频[SP]",
       "api":"csp_JianYing",
@@ -540,12 +531,19 @@
       "ext": "https://wzs1973.github.io/JS/米宝影院.js"
     },
     {
-      "key": "drpy_js_玄天",
-      "name": "玄天影视[JS]",
+      "key": "drpy_js_9U电影",
+      "name": "9U电影[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/玄天.js"
-    },        
+      "ext": "https://wzs1973.github.io/JS/9U电影.js"
+    },
+    {
+      "key": "drpy_js_555影视",
+      "name": "三五电影[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/555影视.js"
+    },    
     {
       "key": "drpy_js_有声小说吧",
       "name": "有声小说[JS]",
@@ -721,6 +719,14 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key":"量子资源",
+      "name":"量子资源[CJ]",
+      "type":1,
+      "api":"http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
     },
     {
       "key":"卧龙资源",
