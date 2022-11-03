@@ -129,6 +129,72 @@
       "filterable": 1
     },
     {
+      "key": "Lib",
+      "name": "Libvio[SP]",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "78d057e4d03e47cb62dce13d69b41d6f",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key":"Yanet",
+      "name":"鸭奶飞[SP]",
+      "type":3,
+      "api":"csp_Dora",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"a369b1f623fe86605f1b029f0cf66349",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key": "Dy555",
+      "name": "三五电影[SP]",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "f41992bd740145ed58cb212dc0876582",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key": "Tbook",
+      "name": "听书网[SP]",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "d16d1517e9eaad9909cb35c55ba0b784",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"    
+    },
+    {
+      "key":"Pang",
+      "name":"胖虎影视[SP]",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"c41fdb671b20925c76fa9b6ff8bad027",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"     
+    },
+    {
+      "key":"Tian",
+      "name":"天天视频[SP]",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"bdc1c75081e5e477189a463baa47e392",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
       "key": "csp_Bdys01",
       "name": "哔嘀影视[SP]",
       "type": 3,
@@ -348,7 +414,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "c3895f91c81741959c22feb5fe3a5def",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
     },
     {
       "key": "csp_AliPS",
@@ -358,7 +425,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "csp_Upyunso",
@@ -368,7 +435,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "csp_Yiso",
@@ -378,7 +445,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "csp_Zhaozy",
@@ -388,7 +455,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "drpy_js_听书网",
@@ -768,7 +835,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     }
   ],
   "spider": "https://wzs1973.github.io/JAR/vob.jar;md5;5F8FC214F8BDA7598A1C4387F7062F2E",
