@@ -131,50 +131,6 @@
       "jar":"https://wzs1973.github.io/JAR/cs.txt"
     },
     {
-      "key": "Dy555",
-      "name": "三五电影[SP]",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "f41992bd740145ed58cb212dc0876582",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
-      "key": "Tbook",
-      "name": "听书网[SP]",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "d16d1517e9eaad9909cb35c55ba0b784",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"    
-    },
-    {
-      "key":"Pang",
-      "name":"胖虎影视[SP]",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"c41fdb671b20925c76fa9b6ff8bad027",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"     
-    },
-    {
-      "key":"Tian",
-      "name":"天天视频[SP]",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"bdc1c75081e5e477189a463baa47e392",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
       "key": "csp_Bdys01",
       "name": "哔嘀影视[SP]",
       "type": 3,
