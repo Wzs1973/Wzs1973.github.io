@@ -24,8 +24,7 @@
       "type": 3,
       "api": "csp_Nbys",
       "searchable": 1,
-      "filterable": 1,
-      "ext": "1"
+      "filterable": 1
     },
     {
       "key": "玩偶",
