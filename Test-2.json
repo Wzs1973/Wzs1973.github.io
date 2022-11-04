@@ -600,6 +600,27 @@
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/双十电影.js"
+    }, 
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "胖虎影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/胖虎影视.js"
+    },
+    {
+      "key": "drpy_js_稀饭影视",
+      "name": "稀饭影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/稀饭影视.js"
+    },
+    {
+      "key": "drpy_js_首播影院",
+      "name": "首播影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/首播影院.js"
     },    
     {
       "key":"bdys",
@@ -739,7 +760,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "playUrl": "",
-      "categories": [
+      "categories":[
         "电影",
         "国产剧",
         "港台剧",
