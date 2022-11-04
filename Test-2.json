@@ -39,15 +39,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_DY1010",
-      "name": "双十电影[SP]",
-      "type": 3,
-      "api": "csp_DY1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Nkdy",
       "name": "南柯电影[SP]",
       "type": 3,
@@ -393,7 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "dfa902b5dced4b1596ae805c64ecc0d2"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "csp_AliPS",
@@ -403,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "dfa902b5dced4b1596ae805c64ecc0d2"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "csp_Upyunso",
@@ -413,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "8c8a58fa97c205ff222de3685497742c"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "csp_Yiso",
@@ -423,7 +414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "csp_Zhaozy",
@@ -433,7 +424,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "dfa902b5dced4b1596ae805c64ecc0d2"
+      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
     },
     {
       "key": "drpy_js_听书网",
@@ -602,6 +593,13 @@
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/歪片星球.js"
+    },
+    {
+      "key": "drpy_js_双十电影",
+      "name": "双十电影[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/双十电影.js"
     },    
     {
       "key":"bdys",
