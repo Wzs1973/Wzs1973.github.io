@@ -3,9 +3,15 @@
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
-      "name": "直播",
-      "type": 0,
-      "url": "https://wzs1973.github.io/JS/18/TW.txt"
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9KUy8xOC9UVy50eHQ="
+          ]
+        }
+      ]
     }
   ],
   "sites": [
