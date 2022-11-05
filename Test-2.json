@@ -968,6 +968,11 @@
       "url":"https://vip.fuqizhishi.com/?v="
     },
     {
+      "name":"rx2",
+      "type":1,
+      "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+    },    
+    {
       "name": "南云",
       "type": 1,
       "url": "https://hc.izny.cn/json.php?url=",
