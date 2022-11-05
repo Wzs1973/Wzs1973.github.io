@@ -2,7 +2,7 @@
   "sites": [
     {
       "key":"Tian",
-      "name":"天天",
+      "name":"天天[SP]",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -12,7 +12,7 @@
     },
     {
       "key": "Zjdr",
-      "name": "追剧达人",
+      "name": "追剧[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -22,7 +22,7 @@
     },
     {
       "key": "Yanet",
-      "name": "鸭奶飞",
+      "name": "鸭奶飞[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -32,7 +32,7 @@
     },
     {
       "key":"Pang",
-      "name":"胖虎",
+      "name":"胖虎[SP]",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -41,8 +41,18 @@
       "ext":"c41fdb671b20925c76fa9b6ff8bad027"
     },
     {
+      "key":"Hei",
+      "name":"石榴[SP]",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"3bff500c8b1e06c052a1b0f1f7a62b45"
+    },    
+    {
       "key": "Lgyy",
-      "name": "蓝光",
+      "name": "蓝光[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -52,7 +62,7 @@
     },
     {
       "key": "Smdyy",
-      "name": "神马",
+      "name": "神马[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -62,7 +72,7 @@
     },
     {
       "key": "Ddys",
-      "name": "低端",
+      "name": "低端[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -72,7 +82,7 @@
     },
     {
       "key": "AppTT",
-      "name": "图图",
+      "name": "图图[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -82,7 +92,7 @@
     },
     {
       "key": "IKan",
-      "name": "爱看",
+      "name": "爱看[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -92,7 +102,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "快看",
+      "name": "快看[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -102,7 +112,7 @@
     },
     {
       "key": "Kunyu77",
-      "name": "七七",
+      "name": "七七[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -112,7 +122,7 @@
     },
     {
       "key": "Auete",
-      "name": "奥特",
+      "name": "奥特[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -122,7 +132,7 @@
     },
     {
       "key": "Tbook",
-      "name": "听书网",
+      "name": "听书[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -132,7 +142,7 @@
     },
     {
       "key": "Bili",
-      "name": "哔哩",
+      "name": "哔哩[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -142,7 +152,7 @@
     },
     {
       "key":"AList",
-      "name": "AList",
+      "name": "AList[网盘]",
       "type": 3,
       "api":"csp_AList",
       "searchable":1,
@@ -150,7 +160,7 @@
     },
     {
       "key": "Cokemv",
-      "name": "可乐",
+      "name": "可乐[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -160,7 +170,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "厂长",
+      "name": "厂长[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -170,7 +180,7 @@
     },
     {
       "key":"Zxzj",
-      "name":"在线",
+      "name":"在线[SP]",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -180,7 +190,7 @@
     },
     {
       "key": "LiteApple",
-      "name": "苹果",
+      "name": "苹果[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -190,7 +200,7 @@
     },
     {
       "key": "SP360",
-      "name": "SP360",
+      "name": "360[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -200,7 +210,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "纸条",
+      "name": "纸条[网盘]",
       "type": "3",
       "api": "csp_Gitcafe",
       "searchable": "1",
@@ -210,7 +220,7 @@
     },
     {
       "key": "Lib",
-      "name": "Libvio",
+      "name": "Libvio[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -220,7 +230,7 @@
     },
     {
       "key": "Dy555",
-      "name": "555",
+      "name": "555[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -230,7 +240,7 @@
     },
     {
       "key": "Xiaoh",
-      "name": "Xiaoh",
+      "name": "Xiaoh[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -240,7 +250,7 @@
     },
     {
       "key": "If101",
-      "name": "101",
+      "name": "101[SP]",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -250,7 +260,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "资源",
+      "name": "资源[搜索]",
       "type": "3",
       "api": "csp_Zhaozy",
       "searchable": "1",
@@ -260,7 +270,7 @@
     },
     {
       "key": "AliPS",
-      "name": "盘搜",
+      "name": "盘搜[搜索]",
       "type": "3",
       "api": "csp_AliPS",
       "searchable": "1",
@@ -270,7 +280,7 @@
     },
     {
       "key": "push_agent",
-      "name": "PushAgent",
+      "name": "推送",
       "type": "3",
       "api": "csp_PushAgent",
       "searchable": "1",
