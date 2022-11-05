@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://wzs1973.github.io/JAR/tang.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
+      "plugin":"https://wzs1973.github.io/JAR/ts.jar"
     },
     {
       "key": "csp_Smdyy",
@@ -92,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://wzs1973.github.io/JAR/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
+      "plugin":"https://wzs1973.github.io/JAR/ts.jar"
     },
     {
       "key": "csp_KanSJ",
@@ -302,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://wzs1973.github.io/JAR/ts.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c"
+      "plugin":"https://wzs1973.github.io/JAR/ts.jar"
     },
     {
       "key": "csp_IQIYI",
@@ -359,7 +359,7 @@
       "playerType":1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/top97_1.jar"
+      "plugin": "https://wzs1973.github.io/JAR/top.jar"
     },
     {
       "key": "csp_AliPS",
