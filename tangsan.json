@@ -31,6 +31,16 @@
       "ext": "a369b1f623fe86605f1b029f0cf66349"
     },
     {
+      "key":"Pang",
+      "name":"胖虎",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"c41fdb671b20925c76fa9b6ff8bad027"
+    },
+    {
       "key": "Lgyy",
       "name": "蓝光",
       "type": "3",
@@ -124,11 +134,11 @@
       "key": "Bili",
       "name": "哔哩",
       "type": "3",
-      "api": "csp_Bili",
+      "api": "csp_Dora",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "clan://tvboxhh/1029tangsan/json/bili.json"
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"
     },
     {
       "key": "Cokemv",
@@ -149,6 +159,16 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "8ee655f702d0d21f3643504783babbc3"
+    },
+    {
+      "key":"Zxzj",
+      "name":"在线",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
       "key": "LiteApple",
@@ -178,7 +198,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "clan://tvboxhh/1029tangsan/json/alitoken.json"
+      "ext": "a52cc59d21374117858c0dccb4b3c117"
     },
     {
       "key": "Lib",
@@ -228,7 +248,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "clan://tvboxhh/1029tangsan/json/alitoken.json"
+      "ext": "a52cc59d21374117858c0dccb4b3c117"
     },
     {
       "key": "AliPS",
@@ -238,17 +258,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "clan://tvboxhh/1029tangsan/json/alitoken.json"
-    },
-    {
-      "key": "Zxzj",
-      "name": "在线",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "23a412dda32885ae2bcb97b956cd7ad4"
+      "ext": "a52cc59d21374117858c0dccb4b3c117"
     },
     {
       "key": "push_agent",
@@ -258,7 +268,7 @@
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "clan://tvboxhh/1029tangsan/json/alitoken.json"
+      "ext": "a52cc59d21374117858c0dccb4b3c117"
     }
   ],
   "lives": [
@@ -654,5 +664,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "clan://tvboxhh/1029tangsan/cs.txt"
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "spider": "https://wzs1973.github.io/JAR/cs.jar"
 }
