@@ -66,6 +66,24 @@
       "filterable": 1
     },
     {
+      "key":"csp_Dy1010",
+      "name":"双十电影[SP]",
+      "type":3,
+      "api":"csp_Dy1010",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_Lib",
+      "name":"LIBVIO[SP]",
+      "type":3,
+      "api":"csp_Lib",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key": "csp_Fantuan",
       "name": "饭团影视[SP]",
       "type": 3,
@@ -93,13 +111,14 @@
       "filterable": 1
     },
     {
-      "key": "csp_Ddys",
-      "name": "低端影视[SP]",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key":"csp_Ddrk",
+      "name":"低端影视[SP]",
+      "type":3,
+      "api":"csp_Ddrk",
+      "click":"ddys.tv;#vjsp > button",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
     },
     {
       "key": "csp_AppTT",
@@ -114,10 +133,12 @@
       "key": "csp_IKan",
       "name": "爱看影视[SP]",
       "type": 3,
-      "api": "csp_IKan",
+      "api": "csp_Dora",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
     },
     {
       "key":"Yanet",
@@ -128,6 +149,50 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"a369b1f623fe86605f1b029f0cf66349",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key":"Tbook",
+      "name":"听书网[SP]",
+      "type":3,
+      "api":"csp_Dora",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"d16d1517e9eaad9909cb35c55ba0b784",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key":"Pang",
+      "name":"胖虎影视[SP]",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"c41fdb671b20925c76fa9b6ff8bad027",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key":"Tian",
+      "name":"天天视频[SP]",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"bdc1c75081e5e477189a463baa47e392",
+      "jar":"https://wzs1973.github.io/JAR/cs.txt"
+    },
+    {
+      "key":"Hei",
+      "name":"石榴影视[SP]",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"3bff500c8b1e06c052a1b0f1f7a62b45",
       "jar":"https://wzs1973.github.io/JAR/cs.txt"
     },
     {
@@ -282,7 +347,8 @@
       "api": "csp_IQIYI",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://wzs1973.github.io/JAR/top.jar"
     },
     {
       "key": "csp_QQ",
@@ -291,7 +357,8 @@
       "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://wzs1973.github.io/JAR/top.jar"
     },
     {
       "key": "csp_MGTV",
@@ -300,7 +367,8 @@
       "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://wzs1973.github.io/JAR/top.jar"
     },
     {
       "key": "csp_xBPQ_电视直播",
@@ -577,6 +645,34 @@
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/首播影院.js"
+    },
+    {
+      "key": "drpy_js_欧帝影院",
+      "name": "欧帝影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/欧帝影院.js"
+    },
+    {
+      "key": "drpy_js_艾菲影视",
+      "name": "艾菲影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/艾菲影视.js"
+    },
+    {
+      "key": "drpy_js_视觉影院",
+      "name": "视觉影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/视觉影院.js"
+    },    
+    {
+      "key": "drpy_js_落攻阁影视",
+      "name": "落攻阁[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/落攻阁影视.js"
     },    
     {
       "key":"bdys",
@@ -810,7 +906,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     }
   ],
-  "spider": "https://wzs1973.github.io/JAR/xo1102.jar;md5;C4BA98711FAC35DAFF17780D0817F5DC",
+  "spider": "https://wzs1973.github.io/JAR/Test-1.jar;md5;CFD37FEBF4E6AE415DE48355A9431550",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
