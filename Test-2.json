@@ -347,7 +347,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "02f69e0ba673e328ef49b5fb98dd4601"
+      "ext": "02f69e0ba673e328ef49b5fb98dd4601",
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
     },
     {
       "key": "csp_Upyunso",
@@ -357,17 +358,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
     },
     {
-      "key": "csp_Yiso",
+      "key": "csp_Yisou",
       "name": "易搜",
       "type": 3,
-      "api": "csp_Yiso",
+      "api": "csp_Yisou",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
     },
     {
       "key": "csp_Zhaozy",
@@ -377,7 +380,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "02f69e0ba673e328ef49b5fb98dd4601"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
     },
     {
       "key": "drpy_js_听书网",
