@@ -1,3 +1,90 @@
+﻿﻿央视频道,#genre#
+CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
+CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-3综艺,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-3综艺,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV4国际,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8
+CCTV-5体育,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+赛事,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-3综艺,http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8?xtkg
+CCTV-6电影,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-6电影,http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+CCTV-7军事,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8电视剧,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-5体育,http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV-8电视剧,http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+CCTV-9纪录,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10科教,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-10科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-12社会,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-12社会,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-5+赛事,http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV-10科教,http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+CCTV-14少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-14少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+CCTV13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-14少儿,http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+CCTV-17农业,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+CCTV-17农业,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-17农业,http://39.134.115.163:8080/PLTV/88888910/224/3221225909/index.m3u8
+CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
+CCTV3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+CCTV7,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV8,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+CCTV-16奥林,http://39.134.115.163:8080/PLTV/88888910/224/3221226230/index.m3u8
+CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV10,http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+CCTV11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV12,http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+CCTV12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+CCTV14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+CCTV8,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+CCTV4,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+CCTV2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV9,http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV17,http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+CCTV12,http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+CCTV央视文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
+CGTN记录,http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8
+CGTN,http://117.148.179.174/PLTV/88888888/224/3221231592/index.m3u8
+CGTN法语,http://117.148.179.156/PLTV/88888888/224/3221231550/index.m3u8
+CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CETV1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
+CETV3,http://117.148.179.136/PLTV/88888888/224/3221231543/index.m3u8
+CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
+新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+CETV2,http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
+CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+新华英语,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
+CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+CIBN综合,http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8
+CIBN真人秀,http://211.94.219.178:18080/PLTV/68/224/3221226416/index.m3u8
+CIBN微电影,http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
+CIBN经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
+CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
+CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
+CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
+CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
 📰0909新聞,#genre#
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -672,7 +759,27 @@ SNH48剧场[1280*720]],http://117.148.179.139/PLTV/88888888/224/3221231622/index
 热歌辣妹49,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghd_x4gUouPyVbw.mp4
 热歌辣妹50,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9ueb4gUolq2JyQY.mp4
 
-
+测试频道_5566,#genre#
+松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
+松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+彩虹电影,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+Happy,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
+JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+惊艳电影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+K,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
+LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+1#,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
+2#,https://video2.51daao.com/btt1/2021/01/20210128/3wDXV6Je/index.m3u8
+3#,https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
+4#,https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
+5#,https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
 限制級,#genre#
 少妇偷情,http://m3u8.jiertai.cn/620504edd10558059c64c07a61a90003dc43eab4.m3u8
 少妇乱伦,http://m3u8.jiertai.cn/448c998cea804485e32a89a528f94f530974fef5.m3u8
@@ -943,78 +1050,6 @@ AI人形機器女友,https://v4.jiufanrj.com/20220404/tteDlbFL/2000kb/hls/index.
 善良的小姨子,https://v1.goulexizuo.com/20210521/CJHI8Tbk/2000kb/hls/index.m3u8
 嫖错妓,https://v1.goulexizuo.com/20210515/KwwoAOwo/2000kb/hls/index.m3u8
 诈骗报复,https://v1.goulexizuo.com/20210512/hRFGrIab/2000kb/hls/index.m3u8
-
-外國頻道,#genre#
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
-AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
-AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-C01,https://video.caomin5168.com/20181211/by6FqaXu/index.m3u8
-C02,https://video2.caomin5168.com/20190627/tzwwaB7U/index.m3u8
-C03,https://video2.caomin5168.com/20190603/ypPXP1s7/index.m3u8
-C04,https://video1.91pandian.com/20190930/6tAAY4fC/index.m3u8
-C05,https://video.caomin5168.com/20190510/3OnSrxlA/index.m3u8
-C06,https://video2.caomin5168.com/20190418/A8Iv6XG6/index.m3u8
-C09,https://video1.91pandian.com/20190927/PRxPzDyR/index.m3u8
-C10,https://video1.91pandian.com/20190924/8hsMoUN3/index.m3u8
-C11,https://video.caomin5168.com/20190416/F14m0VfI/index.m3u8
-C12,https://video.caomin5168.com/20181227/lCBKb4gN/index.m3u8
-C13,https://video2.caomin5168.com/20190804/UkKSKV3K/index.m3u8
-C14,https://video.caomin5168.com/20190117/Urlhp1Vi/index.m3u8
-C15,https://video1.91pandian.com/20190910/qDMRvcS4/index.m3u8
-C17,https://video2.caomin5168.com/20190609/ypYWfMFw/index.m3u8
-C19,https://video.caomin5168.com/20190219/iZb7mp8U/index.m3u8
-C20,https://video2.caomin5168.com/20190716/RBrUQEML/index.m3u8
-C21,https://video.caomin5168.com/20190413/flvAz0HI/index.m3u8
-C22,https://video1.91pandian.com/20190921/MNXmGYgs/index.m3u8
-C23,https://video.caomin5168.com/20190505/i6r4qDJX/index.m3u8
-C24,https://video2.caomin5168.com/20190509/mWRZABS3/index.m3u8
-C27,https://video2.caomin5168.com/20190708/qcX8xtLw/index.m3u8
-C28,https://video.caomin5168.com/20190421/LtPpig2m/index.m3u8
-C29,https://video2.caomin5168.com/20190708/qQ7I01HL/index.m3u8
-C30,https://video2.caomin5168.com/20190730/8JS0MC3n/index.m3u8
-C31,https://video.caomin5168.com/20190510/EsHZaVEV/index.m3u8
-C32,https://video.caomin5168.com/20190501/2lUXqy8m/index.m3u8
-C34,https://video.caomin5168.com/20190209/0kqKCLAi/index.m3u8
-C35,https://video.caomin5168.com/20190523/AVriTn2I/index.m3u8
-C36,https://video.caomin5168.com/20181130/w0Hprk1z/index.m3u8
-C37,https://video2.caomin5168.com/20190728/PBSS4YH8/index.m3u8
-C38,https://video.caomin5168.com/20181012/0QdIs77z/index.m3u8
-C39,https://video.caomin5168.com/20190516/CtJLkU9S/index.m3u8
-C40,https://video.caomin5168.com/20181118/MUpF254u/index.m3u8
-C41,https://video.caomin5168.com/20181120/qLz99prf/index.m3u8
-C42,https://video1.91pandian.com/20190916/iXU8WBjk/index.m3u8
-C43,https://video1.91pandian.com/20190917/5OppyamZ/index.m3u8
-C44,https://video.caomin5168.com/20190507/ERiPdCIX/index.m3u8
-C45,https://video.caomin5168.com/20190502/CwLdtE92/index.m3u8
-C46,https://video.caomin5168.com/20181102/HKPj3O3Q/index.m3u8
-C47,https://video2.caomin5168.com/20190531/e0ry3GHU/index.m3u8
-C48,https://video.caomin5168.com/20190515/brNpHtFi/index.m3u8
-C49,https://video.caomin5168.com/20190511/FBdOkIQa/index.m3u8
-C50,https://video.caomin5168.com/20190516/ENBIPxAj/index.m3u8
-C51,https://video.caomin5168.com/20190515/ZYbQ45pW/index.m3u8
-
 成人頻道,#genre#
 松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
