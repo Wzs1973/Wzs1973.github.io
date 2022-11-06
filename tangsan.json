@@ -151,14 +151,6 @@
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/Bili/Bili.json"
     },
     {
-      "key":"AList",
-      "name": "AList[网盘]",
-      "type": 3,
-      "api":"csp_AList",
-      "searchable":1,
-      "ext": "https://wzs1973.github.io/alist.json"
-    },
-    {
       "key": "Cokemv",
       "name": "可乐[SP]",
       "type": "3",
@@ -209,26 +201,6 @@
       "ext": "9248c57eb22ace4a3431fbd1a979465f"
     },
     {
-      "key": "Gitcafe",
-      "name": "纸条[网盘]",
-      "type": "3",
-      "api": "csp_Gitcafe",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "a52cc59d21374117858c0dccb4b3c117"
-    },
-    {
-      "key": "Lib",
-      "name": "Libvio[SP]",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "78d057e4d03e47cb62dce13d69b41d6f"
-    },
-    {
       "key": "Dy555",
       "name": "555[SP]",
       "type": "3",
@@ -239,24 +211,32 @@
       "ext": "f41992bd740145ed58cb212dc0876582"
     },
     {
-      "key": "Xiaoh",
-      "name": "Xiaoh[SP]",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "0842c1d2a8534ec62fb3a3ed848851a7"
-    },
+      "key":"AList",
+      "name": "AList[网盘]",
+      "type": 3,
+      "api":"csp_AList",
+      "searchable":1,
+      "ext": "https://wzs1973.github.io/alist.json"
+    },    
     {
-      "key": "If101",
-      "name": "101[SP]",
+      "key": "Gitcafe",
+      "name": "纸条[网盘]",
       "type": "3",
-      "api": "csp_Dora",
+      "api": "csp_Gitcafe",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "13441dbe4dee12dafffb93c56ec3e9e4"
+      "ext": "a52cc59d21374117858c0dccb4b3c117"
+    },    
+    {
+      "key": "AliPS",
+      "name": "盘搜[网盘]",
+      "type": "3",
+      "api": "csp_AliPS",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "a52cc59d21374117858c0dccb4b3c117"
     },
     {
       "key": "Zhaozy",
@@ -267,17 +247,452 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "a52cc59d21374117858c0dccb4b3c117"
+    },    
+    {
+      "key": "drpy_js_小品网",
+      "name": "小品网[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/小品网.js"
     },
     {
-      "key": "AliPS",
-      "name": "盘搜[搜索]",
-      "type": "3",
-      "api": "csp_AliPS",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "a52cc59d21374117858c0dccb4b3c117"
+      "key": "drpy_js_DJ音乐",
+      "name": "DJ音乐[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/DJ音乐.js"
+    }, 
+    {
+      "key": "drpy_js_菜狗",
+      "name": "搜狗视频[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/菜狗.js"
+    },   
+    {
+      "key": "drpy_js_独播库",
+      "name": "独播库[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/独播库.js"
     },
+    {
+      "key": "drpy_js_小宝影视",
+      "name": "小宝影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/小宝影视.js"
+    },
+    {
+      "key": "drpy_js_小宝影院",
+      "name": "小宝影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/小宝影院.js"
+    },
+    {
+      "key": "drpy_js_量子影视",
+      "name": "量子影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/量子影视.js"
+    },
+    {
+      "key": "drpy_js_555影视",
+      "name": "5️⃣555电影[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/555影视.js"
+    },    
+    {
+      "key": "drpy_js_天天视频",
+      "name": "天天视频[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/天天视频.js"
+    },        
+    {
+      "key": "drpy_js_星辰(首图2)",
+      "name": "星辰影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/星辰(首图2).js"
+    },
+    {
+      "key": "drpy_js_大猪蹄子",
+      "name": "大猪蹄子[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/大猪蹄子.js"
+    },    
+    {
+      "key": "drpy_js_凌云影视",
+      "name": "凌云影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/凌云影视.js"
+    },    
+    {
+      "key": "drpy_js_秋霞",
+      "name": "秋霞影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/秋霞.js"
+    },
+    {
+      "key": "drpy_js_ 真不卡",
+      "name": "不卡影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/真不卡.js"
+    },    
+    {
+      "key": "drpy_js_ 尘落影视",
+      "name": "尘落影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/尘落影视.js"
+    },
+    {
+      "key": "drpy_js_番茄影视",
+      "name": "番茄影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/番茄影视.js"
+    },   
+    {
+      "key": "drpy_js_子子影视",
+      "name": "子子影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/子子影视.js"
+    },
+    {
+      "key": "drpy_js_米宝影院",
+      "name": "米宝影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/米宝影院.js"
+    },
+    {
+      "key": "drpy_js_9U电影",
+      "name": "9U电影[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/9U电影.js"
+    },
+    {
+      "key": "drpy_js_555影视",
+      "name": "三五电影[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/555影视.js"
+    },    
+    {
+      "key": "drpy_js_有声小说吧",
+      "name": "有声小说[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/有声小说吧.js"
+    },    
+    {
+      "key": "drpy_js_海盗听书",
+      "name": "海盗听书[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/海盗听书.js"
+    },
+    {
+      "key": "drpy_js_回响影视",
+      "name": "回响影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/回响影视.js"
+    },
+    {
+      "key": "drpy_js_歪片星球",
+      "name": "歪片星球[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/歪片星球.js"
+    },
+    {
+      "key": "drpy_js_双十电影",
+      "name": "双十电影[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/双十电影.js"
+    }, 
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "胖虎影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/胖虎影视.js"
+    },
+    {
+      "key": "drpy_js_稀饭影视",
+      "name": "稀饭影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/稀饭影视.js"
+    },
+    {
+      "key": "drpy_js_首播影院",
+      "name": "首播影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/首播影院.js"
+    },
+    {
+      "key": "drpy_js_欧帝影院",
+      "name": "欧帝影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/欧帝影院.js"
+    },
+    {
+      "key": "drpy_js_艾菲影视",
+      "name": "艾菲影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/艾菲影视.js"
+    },
+    {
+      "key": "drpy_js_视觉影院",
+      "name": "视觉影院[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/视觉影院.js"
+    },    
+    {
+      "key": "drpy_js_落攻阁影视",
+      "name": "落攻阁[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/落攻阁影视.js"
+    },    
+    {
+      "key":"bdys",
+      "name":"哔嘀磁力[BD]",
+      "type":3,
+      "api":"csp_XPbd",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://agit.ai/wzs1973/test/raw/branch/master/XPbd/磁力.json"
+    },
+    {
+      "key":"csp_biubiu_骚火电影",
+      "name":"骚火电影[XB]",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XB/骚火电影.json"
+    },   
+    {
+      "key":"csp_XBiubiu_2345",
+      "name":"2345影视[XB]",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://wzs1973.github.io/XB/2345影视.json"
+    },
+    {
+      "key":"csp_biubiu_酷云影院",
+      "name":"酷云影院[XB]",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://wzs1973.github.io/XB/酷云影院.json"
+    },
+    {
+      "key":"csp_xpath_9eguoyu",
+      "name": "九亿国语[XP]",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"
+    },
+    {
+      "key":"csp_XYQHiker_柠檬电视",
+      "name":" 柠檬电视[XY]",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQHiker/电视直播.json"
+    },    
+    {
+      "key":"csp_XYQHiker_魔戒影院",
+      "name":" 魔戒影院[XY]",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQHiker/魔戒影院.json"
+    },
+    {
+      "key":"csp_XYQHiker_影视之家",
+      "name":"影视之家[XY]",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQHiker/影视之家.json"
+    },    
+    {
+      "key":"csp_XYQHiker_冷曦影视",
+      "name":"冷曦影视[XY]",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQHiker/冷曦影视.json"
+    },
+    {
+      "key":"csp_XYQHiker_heihei",
+      "name":"嘿嘿影视[XY]",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://wzs1973.github.io/XYQHiker/嘿嘿视频.json"
+    },
+    {
+      "key":"csp_XYQBiu_凌云影视",
+      "name":"凌云影视[XY]",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQBiu/凌云影视.json"
+    },
+    {
+      "key":"csp_XYQBiu_万能影院",
+      "name":"万能影院[XY]",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/XYQBiu/万能影院.json"
+    },
+    {
+      "key":"百度资源",
+      "name":"百度资源[CJ]",
+      "type":1,
+      "api":"https://api.apibdzy.com/api.php/provide/vod?ac=list",
+      "searchable":1,
+      "filterable":0,
+      "categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]
+    },
+    {
+      "key": "北雁资源",
+      "name": "北雁资源[CJ]",
+      "type": 1,
+      "api": "https://zy.beiyan.cc:4433/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "",
+      "categories":[
+        "电影",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "多多",
+      "name": "多多影视[CJ]",
+      "type": 1,
+      "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "红牛资源",
+      "name": "红牛资源[CJ]",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key":"量子资源",
+      "name":"量子资源[CJ]",
+      "type":1,
+      "api":"http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"卧龙资源",
+      "name":"卧龙资源[CJ]",
+      "type":1,
+      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key": "樱花资源",
+      "name": "樱花资源[CJ]",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key":"番茄资源",
+      "name":"番茄资源[CJ]",
+      "type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/",
+      "playUrl":"https://dp.fqplayer.com/dplayer/?url=",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key": "影图影视",
+      "name": "影图影视[CJ]",
+      "type": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },    
     {
       "key": "push_agent",
       "name": "推送",
