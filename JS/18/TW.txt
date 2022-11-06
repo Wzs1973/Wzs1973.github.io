@@ -1,4 +1,7 @@
-🐍动物世界,#genre#
+
+Z頻道,mitv://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
+Z頻道,P2p://ns2.hellotvvod.com:9906/3a3e760703fe4c6d9dd3d4e3cd0ae87b
+动物世界,#genre#
 彩蛇之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
 蛇类大观园,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
 深海潜伏的猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
