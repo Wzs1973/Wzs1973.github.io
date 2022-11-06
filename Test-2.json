@@ -39,7 +39,7 @@
     },
 	  {
       "key": "搭配",
-      "name": "着装搭配",
+      "name": "着装搭配[SP]",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
