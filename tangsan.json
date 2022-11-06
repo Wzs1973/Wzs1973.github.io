@@ -151,24 +151,24 @@
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/Bili/Bili.json"
     },
     {
-      "key": "csp_Bili",
+      "key": "搭讪",
       "name": "搭讪[SP]",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://wzs1973.github.io/Bili/dashan.json"
+      "api": "csp_Dora",
+      "searchable": "0",
+      "quickSearch": "0",
+      "filterable": "1",
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/Bili/dashan.json"
     },
     {
       "key": "搭配",
       "name": "搭配[SP]",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://wzs1973.github.io/Bili/duodapei.json"
+      "api": "csp_Dora",
+      "searchable": "0",
+      "quickSearch": "0",
+      "filterable": "1",
+      "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/Bili/duodapei.json"
     },    
     {
       "key": "Cokemv",
