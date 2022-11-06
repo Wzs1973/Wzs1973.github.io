@@ -28,6 +28,26 @@
       "ext": "https://wzs1973.github.io/Bili/Bili.json"
     },
     {
+      "key": "csp_Bili",
+      "name": "搭讪技巧[SP]",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/Bili/dashan.json"
+    },
+	  {
+      "key": "搭配",
+      "name": "着装搭配",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/Bili/duodapei.json"
+    },    
+    {
       "key": "csp_Kunyu77",
       "name": "酷云七七[SP]",
       "type": 3,
@@ -191,6 +211,24 @@
       "filterable": 1
     },
     {
+      "key": "csp_Lib",
+      "name": "LIBVIO[SP]",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Dy555",
+      "name": "5️⃣555电影[SP]",
+      "type": 3,
+      "api": "csp_Dy555",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "csp_Juhuang",
       "name": "剧荒影院[SP]",
       "type": 3,
@@ -331,7 +369,7 @@
     },
     {
       "key": "csp_Gitcafe",
-      "name": "阿里纸条",
+      "name": "纸条[阿里]",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
@@ -342,7 +380,7 @@
     },
     {
       "key": "csp_AliPS",
-      "name": "阿里盘搜",
+      "name": "盘搜[阿里]",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -351,8 +389,18 @@
       "ext": "5e8a0d48c3f4486a843351c716c1af66"
     },
     {
+      "key": "csp_Upyunso",
+      "name": "云搜[网盘]",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "5e8a0d48c3f4486a843351c716c1af66"
+    },    
+    {
       "key": "csp_Yisou",
-      "name": "易搜",
+      "name": "易搜[网盘]",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
@@ -363,14 +411,13 @@
     },
     {
       "key": "csp_Zhaozy",
-      "name": "找资源",
+      "name": "资源[网盘]",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66"
     },
     {
       "key": "drpy_js_听书网",
@@ -511,14 +558,7 @@
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/9U电影.js"
-    },
-    {
-      "key": "drpy_js_555影视",
-      "name": "三五电影[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/555影视.js"
-    },    
+    },   
     {
       "key": "drpy_js_有声小说吧",
       "name": "有声小说[JS]",
@@ -835,7 +875,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     }
   ],
-  "spider": "https://wzs1973.github.io/JAR/xo1102.jar;md5;c4ba98711fac35daff17780d0817f5dc",
+  "spider": "https://wzs1973.github.io/JAR/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
