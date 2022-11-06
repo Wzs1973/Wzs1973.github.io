@@ -337,7 +337,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "02f69e0ba673e328ef49b5fb98dd4601"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://wzs1973.github.io/JAR/ali.jar;md5;80864B82F24CE766F771C80841062EBE"
     },
     {
       "key": "csp_AliPS",
@@ -347,8 +348,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "02f69e0ba673e328ef49b5fb98dd4601",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66",
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
     },
     {
       "key": "csp_Upyunso",
@@ -359,7 +360,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
     },
     {
       "key": "csp_Yisou",
@@ -370,7 +371,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
     },
     {
       "key": "csp_Zhaozy",
@@ -381,7 +382,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar"
+      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
     },
     {
       "key": "drpy_js_听书网",
