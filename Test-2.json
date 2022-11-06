@@ -128,61 +128,6 @@
       "filterable": 1
     },
     {
-      "key":"Yanet",
-      "name":"鸭奶飞[SP]",
-      "type":3,
-      "api":"csp_Dora",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"a369b1f623fe86605f1b029f0cf66349",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
-      "key":"Tbook",
-      "name":"听书网[SP]",
-      "type":3,
-      "api":"csp_Dora",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"d16d1517e9eaad9909cb35c55ba0b784",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
-      "key":"Pang",
-      "name":"胖虎影视[SP]",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"c41fdb671b20925c76fa9b6ff8bad027",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
-      "key":"Tian",
-      "name":"天天视频[SP]",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"bdc1c75081e5e477189a463baa47e392",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
-      "key":"Hei",
-      "name":"石榴影视[SP]",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"3bff500c8b1e06c052a1b0f1f7a62b45",
-      "jar":"https://wzs1973.github.io/JAR/cs.txt"
-    },
-    {
       "key": "csp_Bdys01",
       "name": "哔嘀影视[SP]",
       "type": 3,
@@ -392,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "dfa902b5dced4b1596ae805c64ecc0d2"
+      "ext": "02f69e0ba673e328ef49b5fb98dd4601"
     },
     {
       "key": "csp_AliPS",
@@ -402,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "dfa902b5dced4b1596ae805c64ecc0d2"
+      "ext": "02f69e0ba673e328ef49b5fb98dd4601"
     },
     {
       "key": "csp_Upyunso",
@@ -432,7 +377,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def"
+      "ext": "02f69e0ba673e328ef49b5fb98dd4601"
     },
     {
       "key": "drpy_js_听书网",
