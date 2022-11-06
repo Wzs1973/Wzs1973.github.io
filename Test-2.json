@@ -348,19 +348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
-    },
-    {
-      "key": "csp_Upyunso",
-      "name": "云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+      "ext": "5e8a0d48c3f4486a843351c716c1af66"
     },
     {
       "key": "csp_Yisou",
