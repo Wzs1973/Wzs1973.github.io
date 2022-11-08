@@ -450,6 +450,13 @@
       "ext": "https://wzs1973.github.io/JS/回响影视.js"
     },
     {
+      "key": "drpy_js_BD影视",
+      "name": "BD影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/BD影视.js"
+    },    
+    {
       "key": "drpy_js_歪片星球",
       "name": "歪片星球[JS]",
       "type": 3,
