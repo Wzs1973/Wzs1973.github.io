@@ -240,24 +240,34 @@
     },    
     {
       "key": "Gitcafe",
-      "name": "纸条[网盘]",
+      "name": "纸条[云盘]",
       "type": "3",
       "api": "csp_Gitcafe",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
-      "ext": "a52cc59d21374117858c0dccb4b3c117"
+      "ext": "998c79f4f189435090049164d503e4e3"
     },    
     {
+      "key": "YiSo",
+      "name": "易搜[云盘]",
+      "type": "3",
+      "api": "csp_YiSo",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "998c79f4f189435090049164d503e4e3"
+    },
+    {
       "key": "AliPS",
-      "name": "盘搜[网盘]",
+      "name": "盘搜[云盘]",
       "type": "3",
       "api": "csp_AliPS",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
       "ext": "a52cc59d21374117858c0dccb4b3c117"
-    },
+    },    
     {
       "key": "Zhaozy",
       "name": "资源[搜索]",
@@ -1118,5 +1128,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://wzs1973.github.io/JAR/cs.jar;md5;E58E0466B1BA6AD7F9B39898DA6A3CF0"
+  "spider": "https://wzs1973.github.io/JAR/cs.jar;md5;C5AE54AF10B1426204A374B9B67546DE"
 }
