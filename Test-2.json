@@ -1,11 +1,11 @@
 {
   "sites": [
     {
-      "key": "drpy_js_荐片",
-      "name": "🅱影视推荐",
+      "key": "drpy_js_豆瓣",
+      "name": "🅱豆瓣荐片",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/荐片.js"
+      "ext": "https://wzs1973.github.io/JS/drpy.js"
     },
     {
       "key":"csp_Alist",
@@ -338,16 +338,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_xBPQ_电视直播",
-      "name": "电视直播[xB]",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"分类\":\"电视直播$ys.html#\",\"主页url\":\"http://www.lu1.cc/c/tv/sjtv/\",\"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",\"图片\":\"http://\",\"播放图片\":\"http://\",\"线路合并\":\"1\"}"
-    },
-    {
       "key": "csp_xBPQ_酷狗MV",
       "name": "酷狗音乐[xB]",
       "type": 3,
@@ -375,8 +365,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/ali.jar;md5;80864B82F24CE766F771C80841062EBE"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "csp_AliPS",
@@ -386,7 +375,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "csp_Upyunso",
@@ -396,7 +385,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },    
     {
       "key": "csp_Yisou",
@@ -406,8 +395,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://wzs1973.github.io/JAR/搜索.jar;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"
+      "ext": "c3895f91c81741959c22feb5fe3a5def",
     },
     {
       "key": "csp_Zhaozy",
@@ -417,7 +405,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "5e8a0d48c3f4486a843351c716c1af66"
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
     },
     {
       "key": "drpy_js_听书网",
@@ -875,7 +863,7 @@
       "ext": "c3895f91c81741959c22feb5fe3a5def"
     }
   ],
-  "spider": "https://wzs1973.github.io/JAR/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
+  "spider": "https://wzs1973.github.io/JAR/ccc.jar;md5;7fdf839e36aa18bc1dd09d911b564e06",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
