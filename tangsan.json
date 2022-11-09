@@ -359,6 +359,13 @@
       "ext": "https://wzs1973.github.io/JS/星辰(首图2).js"
     },
     {
+      "key": "drpy_js_金曼影视",
+      "name": "金曼影视[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/金曼影视.js"
+    },    
+    {
       "key": "drpy_js_大猪蹄子",
       "name": "大猪蹄子[JS]",
       "type": 3,
