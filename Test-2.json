@@ -394,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+      "ext": "3b28e78aa50f4d05943e8169c021d9b1"
     },
     {
       "key": "csp_AliPS",
@@ -405,7 +405,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+      "ext": "3b28e78aa50f4d05943e8169c021d9b1"
     },
     {
       "key":"csp_FindZY",
@@ -414,7 +414,8 @@
       "api":"csp_FindZY",
       "searchable":1,
       "quickSearch":1,
-      "filterable":0
+      "filterable":0,
+      "ext": "3b28e78aa50f4d05943e8169c021d9b1"
     },
     {
       "key": "csp_Upyunso",
@@ -425,7 +426,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+      "ext": "3b28e78aa50f4d05943e8169c021d9b1"
     },    
     {
       "key": "csp_Yisou",
@@ -436,7 +437,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+      "ext": "3b28e78aa50f4d05943e8169c021d9b1"
     },
     {
       "key": "csp_Zhaozy",
@@ -447,7 +448,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+      "ext": "3b28e78aa50f4d05943e8169c021d9b1"
     },
     {
       "key": "drpy_js_听书网",
