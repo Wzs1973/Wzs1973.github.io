@@ -1152,7 +1152,7 @@ LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 3#,https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
 4#,https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
 5#,https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
-限制級,#genre#
+限制級_5566,#genre#
 少妇偷情,http://m3u8.jiertai.cn/620504edd10558059c64c07a61a90003dc43eab4.m3u8
 少妇乱伦,http://m3u8.jiertai.cn/448c998cea804485e32a89a528f94f530974fef5.m3u8
 厚裤袜足交,http://m3u8.jiertai.cn/3b910095cb55663753a48dcaba6d9cf6c96764d4.m3u8
@@ -1214,7 +1214,7 @@ LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 女教师,http://m3u8.jiertai.cn/b9c9ac9b3cb2b51436151df141b3fb87.m3u8
 黑丝,https://video.km7p7.xyz/uploads/2022-02-04/31435887/4c8644db3375b21be8263921469d9a58_wm.mp4
 
-成人點播,#genre#
+成人點播_5566,#genre#
 叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
 鮑魚游戲-孟若羽[960*544][960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
 肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
@@ -1264,7 +1264,7 @@ AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60b
 成人 4[1920*1080],http://125.227.210.55:9055/VideoInput/play.ts
 成人 5[1920*1080],http://125.227.210.55:9062/VideoInput/play.ts
 
-91(A片),#genre#
+91(A片)_5566,#genre#
 黑丝女秘书-粉色情人[1280*720]],https://v4.jiufanrj.com/20220416/aoTAQDDg/2000kb/hls/index.m3u8
 淫肉搜查官[1280*720]],https://v4.jiufanrj.com/20220416/UJDWOX2u/2000kb/hls/index.m3u8
 网红中国零食体验[1280*720]],https://v4.jiufanrj.com/20220404/TQWfR8UC/2000kb/hls/index.m3u8
@@ -1422,7 +1422,7 @@ AI人形機器女友,https://v4.jiufanrj.com/20220404/tteDlbFL/2000kb/hls/index.
 善良的小姨子,https://v1.goulexizuo.com/20210521/CJHI8Tbk/2000kb/hls/index.m3u8
 嫖错妓,https://v1.goulexizuo.com/20210515/KwwoAOwo/2000kb/hls/index.m3u8
 诈骗报复,https://v1.goulexizuo.com/20210512/hRFGrIab/2000kb/hls/index.m3u8
-成人頻道,#genre#
+成人頻道_5566,#genre#
 松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
 松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
@@ -1489,7 +1489,7 @@ LAA-0004性愛瑜伽,https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/29199fe
 大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 美麗的奴隸,https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
 
-麻豆電影,#genre#
+麻豆電影_5566,#genre#
 補新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 補新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
 補新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
