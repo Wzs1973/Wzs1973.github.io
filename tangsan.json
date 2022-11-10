@@ -364,7 +364,7 @@
       "name": "天天视频[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-       "searchable": 2,
+      "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,     
       "ext": "https://wzs1973.github.io/JS/天天视频.js"
@@ -374,7 +374,7 @@
       "name": "鸭奈飞[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-       "searchable": 2,
+      "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,     
       "ext": "https://wzs1973.github.io/JS/鸭奈飞.js"
@@ -464,7 +464,7 @@
       "name": "子子影视[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-       "searchable": 2,
+      "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,     
       "ext": "https://wzs1973.github.io/JS/子子影视.js"
@@ -584,7 +584,7 @@
       "name": "首播影院[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-        "searchable": 2,
+      "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,    
       "ext": "https://wzs1973.github.io/JS/首播影院.js"
@@ -614,7 +614,7 @@
       "name": "视觉影院[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-       "searchable": 2,
+      "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,     
       "ext": "https://wzs1973.github.io/JS/视觉影院.js"
@@ -755,7 +755,7 @@
       "type":1,
       "api":"https://api.apibdzy.com/api.php/provide/vod?ac=list",
       "searchable":1,
-      "filterable":0,
+      "filterable":1,
       "categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]
     },
     {
