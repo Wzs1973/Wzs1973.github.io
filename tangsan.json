@@ -239,7 +239,37 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "78d057e4d03e47cb62dce13d69b41d6f"
-    },    
+    },
+    {
+      "key": "csp_IQIYI",
+      "name": "爱奇艺[SP]",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E"    
+    },
+    {
+      "key": "csp_QQ",
+      "name": "腾讯视频[SP]",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E"
+    },
+    {
+      "key": "csp_MGTV",
+      "name": "芒果TV[SP]",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E"
+    },
     {
       "key":"AList",
       "name": "AList[网盘]",
@@ -333,11 +363,14 @@
       "ext": "https://wzs1973.github.io/JS/小宝影视.js"
     },
     {
-      "key": "drpy_js_小宝影院",
-      "name": "小宝影院[JS]",
+      "key": "drpy_js_浮生半日",
+      "name": "浮生半日[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/小宝影院.js"
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,       
+      "ext": "https://wzs1973.github.io/JS/浮生半日.js"
     },
     {
       "key": "drpy_js_量子影视",
@@ -934,6 +967,16 @@
       "name":"rx2",
       "type":1,
       "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
+    },
+    {
+      "name":"tvjx",
+      "type":1,
+      "url":"http://42.157.128.38:5612/tvjx/?url="
+    },
+    {
+      "name":"酷享影视",
+      "type":1,
+      "url":"http://pandown.pro/app/kxjx.php?url="
     },    
     {
       "name": "南云",
@@ -1265,5 +1308,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://wzs1973.github.io/JAR/cs.jar;md5;C5AE54AF10B1426204A374B9B67546DE"
+  "spider": "https://wzs1973.github.io/JAR/cs.jar;md5;f16e0facb2b93a7043ac21a96b45b610"
 }
