@@ -5,7 +5,7 @@
       "name": "🅱豆瓣荐片",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/drpy.js"
+      "ext": "https://wzs1973.github.io/JS/豆瓣.js"
     },
     {
       "key":"csp_Alist",
@@ -893,7 +893,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def"
+      "ext": "69355eb2358747f49889c444126ef089"
     }
   ],
   "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E",
