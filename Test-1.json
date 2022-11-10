@@ -769,6 +769,11 @@
       "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
+      "name":"TV解析",
+      "type":1,
+      "url":"http://42.157.128.38:5612/tvjx/?url="
+    },     
+    {
       "name":"全网",
       "type":1,
       "url":"http://jx.nikucms.com/pc/index6.php?url="
