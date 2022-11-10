@@ -646,9 +646,19 @@
       "api":"csp_XBiubiu",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1,
+      "filterable":0,
       "ext":"https://wzs1973.github.io/XB/骚火电影.json"
-    },   
+    },
+    {
+      "key":"csp_biubiu_鸭奈菲",
+      "name":"鸭奈菲[XB]",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://wzs1973.github.io/XB/鸭奈菲.json"
+    },    
     {
       "key":"csp_XBiubiu_2345",
       "name":"2345影视[XB]",
@@ -676,7 +686,7 @@
       "api":"csp_XPathMacFilter",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1,
+      "filterable":0,
       "ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"
     },
     {
@@ -748,7 +758,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://wzs1973.github.io/XYQBiu/万能影院.json"
-    },
+    },  
     {
       "key":"百度资源",
       "name":"百度资源[CJ]",
