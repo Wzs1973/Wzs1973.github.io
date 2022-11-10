@@ -394,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def"
+      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
     {
       "key": "csp_AliPS",
@@ -405,7 +405,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "69355eb2358747f49889c444126ef089"
+      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
+    },
+    {
+      "key":"csp_FindZY",
+      "name":"盘搜2",
+      "type":3,
+      "api":"csp_FindZY",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
     },
     {
       "key": "csp_Upyunso",
@@ -416,29 +425,29 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "69355eb2358747f49889c444126ef089"
+      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },    
     {
       "key": "csp_Yisou",
-      "name": "易搜[网盘]",
+      "name": "易搜[云盘]",
       "type": 3,
       "api": "csp_Yisou",
       "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "69355eb2358747f49889c444126ef089"
+      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
     {
       "key": "csp_Zhaozy",
-      "name": "资源[网盘]",
+      "name": "资源[云盘]",
       "type": 3,
       "api": "csp_Zhaozy",
       "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "69355eb2358747f49889c444126ef089"
+      "ext": "8f0b3f0dc1834f309f077ea5549e99a8"
     },
     {
       "key": "drpy_js_听书网",
