@@ -890,13 +890,14 @@
       "name": "阿里推送[PS]",
       "type": 3,
       "api": "csp_PushAgent",
+      "playerType":1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "998c79f4f189435090049164d503e4e3"
     }
   ],
-  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;521BBFFB1BB48F5D45E516A799DF9F44",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;89C9EAEC380DC16EC274B772346270BA",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
