@@ -269,30 +269,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
-    },
-    {
-      "key": "yisou",
-      "name": "宜搜[云盘]",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
-    },
-    {
-      "key": "upyunsou",
-      "name": "Up云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "c3895f91c81741959c22feb5fe3a5def",
-      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
-    },   
+    },  
     {
       "key":"AList",
       "name": "AList[网盘]",
@@ -346,6 +323,9 @@
       "name": "小品网[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,       
       "ext": "https://wzs1973.github.io/JS/小品网.js"
     },
     {
@@ -353,6 +333,9 @@
       "name": "DJ音乐[JS]",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,       
       "ext": "https://wzs1973.github.io/JS/DJ音乐.js"
     }, 
     {
@@ -504,16 +487,6 @@
       "quickSearch": 0,
       "filterable": 0,     
       "ext": "https://wzs1973.github.io/JS/子子影视.js"
-    },
-    {
-      "key": "drpy_js_米宝影院",
-      "name": "米宝影院[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,      
-      "ext": "https://wzs1973.github.io/JS/米宝影院.js"
     },
     {
       "key": "drpy_js_9U电影",
@@ -947,7 +920,7 @@
       "url": "Sequence"
     },
     {
-      "name":"HF影视",
+      "name":"HF",
       "type":1,
       "url":"http://119.91.206.244:9999/jx/hfys.php?url="
     },
@@ -957,19 +930,9 @@
       "url":"https://json.freejx.in/?url="
     },
     {
-      "name":"爱酷影视",
+      "name":"爱酷",
       "type":1,
       "url":"https://json.freejx.in/?url="
-    },
-    {
-      "name":"很牛逼",
-      "type":1,
-      "url":"http://rxjx.kuanjv.com/allm3u8.php?url="
-    },
-    {
-      "name":"全网",
-      "type":1,
-      "url":"http://jx.nikucms.com/pc/index6.php?url="
     },
     {
       "name":"刚刚",
@@ -987,7 +950,7 @@
       "url":"http://42.157.128.38:5612/tvjx/?url="
     },
     {
-      "name":"酷享影视",
+      "name":"酷享",
       "type":1,
       "url":"http://pandown.pro/app/kxjx.php?url="
     },    
