@@ -244,21 +244,21 @@
       "key": "drpy_js_养端",
       "name": "🔞养端（DRPY）",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%85%BB%E7%AB%AF.js"
+      "ext": "https://wzs1973.github.io/JS/18/养端.js"
     },
     {
       "key": "drpy_js_吸瓜",
       "name": "🔞吸瓜[请使用365解析]",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%90%B8%E7%93%9C.js"
+      "ext": "https://wzs1973.github.io/JS/18/吸瓜.js"
     },
     {
       "key": "kd",
@@ -329,15 +329,6 @@
       "ext": "{\r\n    \"规则名\": \"PPT\",\r\n    \"请求头参数\":\"MOBILE_UA\",\r\n    \"网页编码格式\":\"UTF-8\",\r\n    \"图片是否需要代理\":\"0\",\r\n    \"是否开启获取首页数据\":\"0\",\r\n    \"分类起始页码\": \"1\",\r\n    \"分类链接\": \"https://www.ptt.sex/c/{cateId}/p/{catePg}\",\r\n\r\n    \"分类名称\": \"精品海外&國產情色&國產自拍&國產精品&亞洲情色&中文字幕&歐美極品&日本無碼&日本有碼&強姦亂倫&騎兵有碼&歐美性愛&主播直播&日韓無碼&制服誘惑&國產自拍&網紅主播&歐美精品&動漫精品&人妻熟女&國產視頻&蘿莉少女&三級倫理&國產主播&歐美情色&亞洲無碼&無碼專區&巨乳美乳&自拍偷拍&熟女人妻&成人動漫&亞洲有碼&制服師生&日本倫理&其他亞洲&韓國倫理&女同性戀&國產館視&步兵無碼&美女主播&偷拍自拍&名優中字&日韓有碼&空姐模特&動漫卡通&女神學生&巨乳中文&國產偷拍&國模私拍&國產原創&嬌妻素人&國產情侶&金髮幼齒&主播大秀&抖陰視頻&人妻系列&國產倫理&精品海外&調教中文&美熟少婦&國產名人&亂倫中文&自慰群交&職場同事&福利姬視&日韓精品&制服中文&人妻中文&韓國極品&男同視頻&卡通動漫&出軌中文&制服絲襪&歐美倫理&亂倫無碼&人妖視頻&歐美其他&中字館視&強姦無碼&美乳巨乳&人妻無碼&制服無碼&無碼中文&香港倫理&成人動畫&VR有碼&大秀視頻&國產亂倫&鄰家人妻&風騷寡婦&精品推薦&韓國明星&野合車震&韓國精品&主播精選&童顏巨乳&素人館視&絕美少女&巨乳系列&獨家DM&AI換臉&口交視頻&有碼番號&VIP視&長腿絲襪&無碼館視&精品短視&SM重口&巨乳無碼&精彩時刻&HEY誘&SM重味&歐美館視&高潮噴吹&日韓綜合&動漫里番&制服黑絲&歐美系列&[國產偷&[國產自&有碼視頻&HEYZ&強姦中文&網曝門事&激情口交&歐美激情&SM捆綁&[日韓無&[中文字&[歐美無&絲襪美腿&韓國唯美&自慰系列&3P合輯&有碼專區&絲襪長腿&國產直播&歐美視頻&教師學生&同性同志&多人群交&自淫系列&動漫館視&拳交系列&韓美眉主&無碼國產&JAV高&日韓經典&嫩妹福利&角色扮演&無碼破解&變態調教&[日韓有&非亞洲視&韓國主播&海外明星&微拍福利&顏射系列&女同性愛&高清華語&倫理影片&無碼偷拍&口爆顏射&中文偷拍&精彩劇情&明星換臉&人獸性交&無碼人妻&中文無碼&極騷蘿莉&無碼變態&中文出軌&歐美風情&歐美MM&[卡通動&[三級劇&狼友探花&麻豆原創&明星淫夢&歐美劇情&無碼學生&網拍嫩模&國產女奴&三級自慰&中文強姦&中文有碼&中文人妻&口交潮吹&中文制服&變態捆綁&動漫肉番&無碼巨乳&主播自拍&破解視頻&首次亮相&倫理綜藝&無碼亂倫&特色視頻&名優寫真&名人明星&中文群交&無碼強姦&91大神&明星偶像&制服職場&口交顏射&JAV館&日韓倫理&中文亂倫&名優綜藝&重咸口味&明星門事&國產女王&潮吹噴射&傳媒原創&無碼港台&中文動畫&美女寫真&無碼動畫&日韓劇情&探花尋花&倫理三級&三級館視&VR無碼&視頻倫理&VR影院&日韓主播&三上悠亞&國產門事&無碼自淫&仁科百華&精選口爆&美顏巨乳&無碼群交&長澤梓視&三級劇情&港台劇情&顏射瞬間&小視頻視&美女模特&原紗央莉&小鳥醬專&變態SM&SM調教&天海翼視&韓國專區\",\r\n    \"分类名称替换词\": \"387&119&263&249&22&48&266&270&269&13&261&52&303&259&92&347&88&260&86&23&304&103&84&268&265&64&254&93&98&267&274&105&272&45&287&44&115&295&288&264&278&37&258&5&149&250&292&277&31&316&15&66&262&253&25&101&285&388&16&8&251&290&33&6&27&275&291&289&57&29&130&19&248&286&283&147&199&297&46&111&43&282&293&61&87&18&89&252&273&14&140&54&24&55&305&125&301&109&99&97&357&110&321&312&138&296&36&243&83&319&123&106&298&96&229&366&362&131&336&337&271&124&30&58&134&328&81&340&335&334&169&56&100&126&197&121&209&232&128&152&129&79&302&80&59&211&73&329&313&221&70&363&338&50&158&358&306&136&132&242&120&210&369&203&220&69&141&227&204&142&239&207&307&236&341&339&201&200&163&324&214&318&71&143&217&228&205&215&206&361&315&212&208&219&135&309&226&213&40&198&218&231&314&365&202&374&299&150&225&60&144&230&72&244&370&216&237&76&241&320&384&367&300&34&148&308&317&382&233&223&379&151&378&224&380&276&325&67&310&364&376&74&234&375&381&164\",\r\n    \r\n    \"筛选数据\":{},\r\n    \"分类截取模式\": \"1\",\r\n    \"分类列表数组规则\": \"#videos&&.card\",\r\n    \"分类片单是否Jsoup写法\":\"1\",\r\n    \"分类片单标题\": \"img&&alt\",\r\n    \"分类片单链接\": \"a&&href\",\r\n    \"分类片单图片\": \"img&&data-src\",\r\n    \"分类片单副标题\":\"span&&Text\",\r\n    \"分类片单链接加前缀\": \"https://www.ptt.sex\",\r\n    \"分类片单链接加后缀\": \"\",\r\n    \"搜索请求头参数\":\"User-Agent$MOBILE_UA\",\r\n    \"搜索链接\": \"https://www.ptt.sex/keyword/{wd}/p/{pg}\",\r\n    \"搜索截取模式\": \"1\",\r\n    \"搜索列表数组规则\": \"#videos&&.card\",\r\n    \"搜索片单是否Jsoup写法\":\"1\",\r\n    \"搜索片单图片\": \"img&&data-src\",\r\n    \"搜索片单标题\": \"img&&alt\",\r\n    \"搜索片单链接\": \"a&&href\",\r\n    \"搜索片单副标题\":\"\",\r\n    \"搜索片单链接加前缀\": \"https://www.ptt.sex\",\r\n    \"搜索片单链接加后缀\": \"\",\r\n    \"链接是否直接播放\": \"0\",\r\n    \"直接播放链接加前缀\": \"\",\r\n    \"直接播放链接加后缀\": \"\",\r\n    \"直接播放直链视频请求头\": \"authority$ku.peizq.online#Referer$https://play.peizq.online\",\r\n    \"详情是否Jsoup写法\":\"1\",\r\n    \"类型详情\": \"\",\r\n    \"年代详情\": \"\",\r\n    \"地区详情\": \"\",\r\n    \"演员详情\": \"#w4&&.breadcrumb-item,1&&Text\",\r\n    \"简介详情\": \"meta,7&&content\",\r\n\r\n    \"线路列表数组规则\": \"head&&meta,9&&[property]\",\r\n    \"线路标题\": \"meta&&content\",\r\n    \r\n    \"播放列表数组规则\": \"head\",\r\n    \"选集列表数组规则\": \"meta,10&&[property]\",\r\n    \"选集标题链接是否Jsoup写法\":\"1\",\r\n    \"选集标题\": \"meta&&property\",\r\n    \"选集链接\": \"meta&&content\",\r\n    \"是否反转选集序列\": \"0\",\r\n    \"选集链接加前缀\": \"https://www.ptt.sex\",\r\n    \"选集链接加后缀\": \"\",\r\n\r\n    \"分析MacPlayer\":\"1\",\r\n\r\n    \"是否开启手动嗅探\":\"1\",\r\n    \"手动嗅探视频链接关键词\":\".m3u8\",\r\n    \"手动嗅探视频链接过滤词\":\".mp4\"\r\n}"
     },
     {
-      "key": "*AIvin",
-      "name": "AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_biubiu_掏爱撸",
       "name": "掏爱撸(XB)",
       "type": 3,
@@ -368,37 +359,10 @@
       "ext": "{\r\n\"author\":\"20220530\",\r\n\"name\": \"国产屋\",\r\n\"url\": \"https://guochanw98.top\",\r\n\"tihuan\": \"cnzz.com\",\r\n //\"User\": \"空\", //这个不用动，是个别网站播放需要请求头时才用到\r\n  \"User\": \"User-Agent:Dart/2.14 (dart:io)\",\r\n  \"shouye\": \"1\",\r\n\"fenlei\": \"最新$/index.php/index/index/page/1\",\r\n\"houzhui\": \".html\",\r\n\"shifouercijiequ\": \"0\",\r\n\"jiequqian\": \"空\",\r\n\"jiequhou\": \"空\",\r\n\"jiequshuzuqian\": \"class=\\\"video\\\"\",\r\n\"jiequshuzuhou\": \"</div>\",\r\n\"tupianqian\": \"src=\\\"\",\r\n\"tupianhou\": \"\\\"\",\r\n\"biaotiqian\": \"title=\\\"\",\r\n\"biaotihou\": \"\\\"\",\r\n\"lianjieqian\": \"href=\\\"\",\r\n\"lianjiehou\": \"\\\"\",\r\n\"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\": \"&limit=500\",\r\n\"sousuohouzhui\": \"/detail/\",\r\n\"ssmoshi\": \"0\",\r\n\"sousuoshifouercijiequ\": \"0\",\r\n\"jspic\": \"pic\",\r\n\"jsname\": \"name\",\r\n\"jsid\": \"id\",\r\n\"ssjiequqian\": \"空\",\r\n\"ssjiequhou\": \"空\",\r\n\"ssjiequshuzuqian\": \"空\",\r\n\"ssjiequshuzuhou\": \"空\",\r\n\"sstupianqian\": \"空\",\r\n\"sstupianhou\": \"空\",\r\n\"ssbiaotiqian\": \"空\",\r\n\"ssbiaotihou\": \"空\",\r\n\"sslianjieqian\": \"空\",\r\n\"sslianjiehou\": \"空\",\r\n\"bfshifouercijiequ\": \"0\",\r\n\"bfjiequqian\": \"<a\",\r\n\"bfjiequhou\": \"/a>\",\r\n\"bfjiequshuzuqian\": \"class=\\\"play\\\"\",\r\n\"bfjiequshuzuhou\": \"</div>\",\r\n\"zhuangtaiqian\": \"<h1\",\r\n\"zhuangtaihou\": \"/h1>\",\r\n\"daoyanqian\": \"空\",\r\n\"daoyanhou\": \"空\",\r\n\"zhuyanqian\": \"空\",\r\n\"zhuyanhou\": \"空\",\r\n\"juqingqian\": \"空\",\r\n\"juqinghou\": \"空\",\r\n\"bfyshifouercijiequ\": \"0\",\r\n\"bfyjiequqian\": \"空\",\r\n\"bfyjiequhou\": \"空\",\r\n\"bfyjiequshuzuqian\": \"<a\",\r\n\"bfyjiequshuzuhou\": \"/a>\",\r\n\"bfbiaotiqian\": \">\",\r\n\"bfbiaotihou\": \"<\",\r\n\"bflianjieqian\": \"href=\\\"\",\r\n\"bflianjiehou\": \"\\\"\"}"
     },
     {
-      "key": "csp_SP360",
-      "name": "91传媒",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "探探",
-      "name": "探探",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "(18+)环亚资源",
       "name": "(18+不错)环亚资源",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "(18+)速度资源",
-      "name": "(18+)速度资源",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -475,15 +439,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "yinlong",
-      "name": "银龙资源(已修复)",
-      "type": 0,
-      "api": "https://yinlong.tv/api.php/provide/vod/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "ap441i156dlyE",
@@ -692,16 +647,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "{\"name\": \"*酷云影院\",\r\n  \"url\": \"http://kuyun123.com/\",\r\n  \"tihuan\": \"cnzz.com\", \r\n  \"User\": \"空\", \r\n  \"shouye\": \"1\",\r\n\r\n  \"fenlei\": \"动作片$/type/-5-#喜剧片$/type/-6-#爱情片$/type/-7-#科幻片$/type/-8-#恐怖片$/type/-9-#剧情片$/type/-10-#战争片$/type/-11-#纪录片$/type/-22-#悬疑片$/type/-34-#犯罪片$/type/-35-#奇幻片$/type/-36-#邵氏经典$/type/-37-#国产剧$/type/-12-#香港剧$/type/-13-#台湾剧$/type/-14-#日本剧$/type/-15-#韩国剧$/type/-16-#欧美剧$/type/-17-#海外剧$/type/-18-#港台综艺$/type/-24-#日韩综艺$/type/-25-#欧美综艺$/type/-26-#国产动漫$/type/-28-#港台动漫$/type/-29-#日韩动漫$/type/-30-#欧美动漫$/type/-31-#海外动漫$/type/-32-#动漫电影$/type/-33-#理论片$/type/20-\",\r\n  \"houzhui\": \".html\",\r\n\r\n  \"shifouercijiequ\": \"0\", \r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\", \r\n  \"jiequshuzuqian\": \"class=\\\"media-wrapper\", \r\n  \"jiequshuzuhou\": \"</div>\",\r\n  \"tupianqian\": \"data-original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"alt=\\\"\", \r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\", \r\n  \"lianjiehou\": \"\\\"\", \r\n\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/voddetail/\", \r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"bfjiequshuzuqian\": \"id=\\\"playlist\", \r\n  \"bfjiequshuzuhou\": \"</ul>\", \r\n\r\n  \"zhuangtaiqian\": \"年代：</span>\",\r\n  \"zhuangtaihou\": \"</p>\",\r\n  \"daoyanqian\": \"导演：</span>\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"主演：</span>\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"简介：</span>\",\r\n  \"juqinghou\": \"</p>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<a\",\r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \">\",\r\n  \"bfbiaotihou\": \"<\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"}"
-    },
-    {
-      "key": "csp_biubiu_私人电影院",
-      "name": "🥒私人电影院（含三级）",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "{\"name\": \"*私人电影院\",\r\n  \"url\": \"http://www.19396.cc/\",\r\n  \"tihuan\": \"cnzz.com\", \r\n  \"User\": \"空\", \r\n  \"shouye\": \"1\",\r\n\r\n  \"fenlei\": \"电影$/index.php/vod/show/id/1/page/#电视剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#论理片$/index.php/vod/show/id/34/page/\", \r\n  \"houzhui\": \"/\",\r\n\r\n  \"shifouercijiequ\": \"0\", \r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\", \r\n  \"jiequshuzuqian\": \"class=\\\"stui-vodlist__item\", \r\n  \"jiequshuzuhou\": \"<span\",\r\n  \"tupianqian\": \"data-original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\", \r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\", \r\n  \"lianjiehou\": \"\\\"\", \r\n\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"/voddetail/\", \r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"stui-content__playlist\", \r\n  \"bfjiequshuzuhou\": \"</ul>\", \r\n\r\n  \"zhuangtaiqian\": \"年份：</span>\",\r\n  \"zhuangtaihou\": \"</a>\",\r\n  \"daoyanqian\": \"导演：</span>\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"主演：</span>\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"简介：</span>\",\r\n  \"juqinghou\": \"</a>\",\r\n\r\n  \"bfyshifouercijiequ\": \"0\", \r\n  \"bfyjiequqian\": \"空\", \r\n  \"bfyjiequhou\": \"空\", \r\n  \"bfyjiequshuzuqian\": \"<a\", \r\n  \"bfyjiequshuzuhou\": \"/a>\",\r\n  \"bfbiaotiqian\": \">\",\r\n  \"bfbiaotihou\": \"<\", \r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"}"
     },
     {
       "key": "csp_biubiu_不卡影院",
@@ -1052,16 +997,6 @@
       "ext": "{\"name\": \"黄仓库\",\r\n\"url\": \"http://773ck.cc/\",\r\n\"tihuan\": \"http://137ck.cc\",\r\n\"User\": \"空\",\r\n\"fenlei\": \"无码中文$/vodtype/8-#有码中文$/vodtype/9-#日本无码$/vodtype/10-#日本有码$/vodtype/7-#国产视频$/vodtype/15-#动漫$/vodtype/22-#欧美高清$/vodtype/21-\",\r\n\"houzhui\": \".html\",\r\n\"shifouercijiequ\": \"0\",\r\n\"jiequqian\": \"空\",\r\n\"jiequhou\": \"空\",\r\n\"jiequshuzuqian\": \"class=\\\"stui-vodlist__box\",\r\n\"jiequshuzuhou\": \"<span\",\r\n\"tupianqian\": \"data-original=\\\"\",\r\n\"tupianhou\": \"\\\"\",\r\n\"biaotiqian\": \"title=\\\"\",\r\n\"biaotihou\": \"\\\"\",\r\n\"lianjieqian\": \"href=\\\"\",\r\n\"lianjiehou\": \"\\\"\",\r\n\"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\": \"&limit=500\",\r\n\"sousuohouzhui\": \"/detail/\",\r\n\"ssmoshi\": \"1\",\r\n\"sousuoshifouercijiequ\": \"0\",\r\n\"jspic\": \"pic\",\r\n\"jsname\": \"name\",\r\n\"jsid\": \"id\",\r\n\"ssjiequqian\": \"空\",\r\n\"ssjiequhou\": \"空\",\r\n\"ssjiequshuzuqian\": \"空\",\r\n\"ssjiequshuzuhou\": \"空\",\r\n\"sstupianqian\": \"空\",\r\n\"sstupianhou\": \"空\",\r\n\"ssbiaotiqian\": \"空\",\r\n\"ssbiaotihou\": \"空\",\r\n\"sslianjieqian\": \"空\",\r\n\"sslianjiehou\": \"空\",\r\n\"bfshifouercijiequ\": \"0\",\r\n\"bfjiequqian\": \"空\",\r\n\"bfjiequhou\": \"空\",\r\n\"bfjiequshuzuqian\": \"class=\\\"stui-vodlist clearfix\",\r\n\"bfjiequshuzuhou\": \"</div>\",\r\n\"zhuangtaiqian\": \"时间：\",\r\n\"zhuangtaihou\": \"<div\",\r\n\"daoyanqian\": \"更新时间:<span>\",\r\n\"daoyanhou\": \"</p>\",\r\n\"zhuyanqian\": \"主演:<span>\",\r\n\"zhuyanhou\": \"</p>\",\r\n\"juqingqian\": \"剧情:<span>\",\r\n\"juqinghou\": \"</p>\",\r\n\"bfyshifouercijiequ\": \"0\",\r\n\"bfyjiequqian\": \"空\",\r\n\"bfyjiequhou\": \"空\",\r\n\"bfyjiequshuzuqian\": \"<a\",\r\n\"bfyjiequshuzuhou\": \"/a>\",\r\n\"bfbiaotiqian\": \">\",\r\n\"bfbiaotihou\": \"<\",\r\n\"bflianjieqian\": \"href=\\\"\",\r\n\"bflianjiehou\": \"\\\"\"}"
     },
     {
-      "key": "csp_biubiu_ b2c6t",
-      "name": "猫咪b2c6t",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "{\"name\": \"猫咪🔞\",\r\n\"url\": \"https://www.1b43e3a31494.com/\",\r\n\"tihuan\": \"cnzz.com\",\r\n\"User\": \"空\",\r\n\"fenlei\": \"猫咪推荐$/vip/list-猫咪推荐-#原创国产$/vip/list-原创国产-#制服淫穴$/vip/list-制服淫穴-#换脸AI区$/vip/list-换脸AI区#三级综艺$/vip/list-三级综艺-#次元动漫$/vip/list-次元动漫-#欧美大片$/vip/list-欧美大片-#同性人妖$/vip/list-同性人妖-#短视频$/shipin/list-短视频-#美女主播$/shipin/list-美女主播-#国产精品$/shipin/list-国产精品-#中文字幕$/shipin/list-中文字幕-#亚洲无码$/shipin/list-亚洲无码-#欧美精品$/shipin/list-欧美精品-#成人动漫$/shipin/list-成人动漫-#女优专辑$/shipin/list-女优专辑-\",\r\n\"houzhui\": \".html\",\r\n\"shifouercijiequ\": \"0\",\r\n\"jiequqian\": \"空\",\r\n\"jiequhou\": \"空\",\r\n\"jiequshuzuqian\": \"class=\\\"video-box box movie_list\",\r\n\"jiequshuzuhou\": \"<ul>\",\r\n\"tupianqian\": \"src=\\\"\",\r\n\"tupianhou\": \"\\\"\",\r\n\"biaotiqian\": \"title=\\\"\",\r\n\"biaotihou\": \"\\\"\",\r\n\"lianjieqian\": \"href=\\\"\",\r\n\"lianjiehou\": \"\\\"\",\r\n\"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\": \"&limit=500\",\r\n\"sousuohouzhui\": \"/detail/\",\r\n\"ssmoshi\": \"1\",\r\n\"sousuoshifouercijiequ\": \"0\",\r\n\"jspic\": \"pic\",\r\n\"jsname\": \"name\",\r\n\"jsid\": \"id\",\r\n\"ssjiequqian\": \"空\",\r\n\"ssjiequhou\": \"空\",\r\n\"ssjiequshuzuqian\": \"空\",\r\n\"ssjiequshuzuhou\": \"空\",\r\n\"sstupianqian\": \"空\",\r\n\"sstupianhou\": \"空\",\r\n\"ssbiaotiqian\": \"空\",\r\n\"ssbiaotihou\": \"空\",\r\n\"sslianjieqian\": \"空\",\r\n\"sslianjiehou\": \"空\",\r\n\"bfshifouercijiequ\": \"0\",\r\n\"bfjiequqian\": \"空\",\r\n\"bfjiequhou\": \"空\",\r\n\"bfjiequshuzuqian\": \"class=\\\"play-btn-group\",\r\n\"bfjiequshuzuhou\": \"</div>\",\r\n\"zhuangtaiqian\": \"影片分类:<span>\",\r\n\"zhuangtaihou\": \"</p>\",\r\n\"daoyanqian\": \"更新时间:<span>\",\r\n\"daoyanhou\": \"</p>\",\r\n\"zhuyanqian\": \"class=\\\"data\\\">主演：\",\r\n\"zhuyanhou\": \"</p>\",\r\n\"juqingqian\": \"<h3\",\r\n\"juqinghou\": \"</h3>\",\r\n\"bfyshifouercijiequ\": \"0\",\r\n\"bfyjiequqian\": \"空\",\r\n\"bfyjiequhou\": \"空\",\r\n\"bfyjiequshuzuqian\": \"<a\",\r\n\"bfyjiequshuzuhou\": \"/a>\",\r\n\"bfbiaotiqian\": \">\",\r\n\"bfbiaotihou\": \"<\",\r\n\"bflianjieqian\": \"href=\\\"\",\r\n\"bflianjiehou\": \"\\\"\"}"
-    },
-    {
       "key": "csp_xBPQ_99",
       "name": "99资源网",
       "type": 3,
@@ -1109,15 +1044,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "*一本道资源",
-      "name": "*一本道资源",
-      "type": 0,
-      "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     }
   ],
   "lives": [
@@ -1127,7 +1053,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMzQwOS9zc3MvSHpiLmpzb24="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9KUy8xOC9BVi50eHQ="
           ]
         }
       ]
