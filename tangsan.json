@@ -850,10 +850,34 @@
       "quickSearch": 1
     },
     {
+      "key":"快车资源",
+      "name":"快车资源[CJ]",
+      "type":1,
+      "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"松鼠资源",
+      "name":"松鼠资源[CJ]",
+      "type":1,
+      "api":"https://m3u8.songshuzy.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
       "key":"量子资源",
       "name":"量子资源[CJ]",
       "type":1,
       "api":"http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"速更资源",
+      "name":"速更资源[CJ]",
+      "type":1,
+      "api":"https://sugengzy.cn/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
     },
