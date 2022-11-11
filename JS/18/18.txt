@@ -1423,5 +1423,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
-  "spider": ""
+  "spider": "https://wzs1973.github.io/JAR/xo.jar"
 }
