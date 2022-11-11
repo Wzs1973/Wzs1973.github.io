@@ -1132,27 +1132,28 @@ SNH48剧场[1280*720]],http://117.148.179.139/PLTV/88888888/224/3221231622/index
 热歌辣妹50,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9ueb4gUolq2JyQY.mp4
 
 测试频道_5566,#genre#
-松视1,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
-松视2,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-松视3,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
-彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
-彩虹电影,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
-HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
-Happy,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/de7580ba571440ae8478429afb39508a
-JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
-惊艳电影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
-K,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
-LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+彩虹e,mitv://ns2.hellotvvod.com:9906/abf66e1926ce4018b7b059016c3e2d9b.ts
+彩虹电影,mitv://ns2.hellotvvod.com:9906/d4c614b8b1e9426a858fb8331d47f4a4.ts
+LOOK TV,mitv://ns2.hellotvvod.com:9906/e94eb5756d7a42b3adf338b1a4a5344a.ts
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/22366d1ff0e64c5b870ff01b7e4bb8d4.ts
+惊艳成人电影,mitv://ns2.hellotvvod.com:9906/bcfdd9d57f1544dcaa10e84a2f239f19.ts
+松视1,mitv://ns2.hellotvvod.com:9906/2b2051e6c8a24f18a0ec7ca6f41ca840.ts
+松视2,mitv://ns2.hellotvvod.com:9906/b5eb6088e0bb4aa692bf7209bcf0c4b1.ts
+潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/6ffed66679ef45d9810f116e785a2a53.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/264546d06a06432bbbb39ed82934c78b.ts
+香蕉,mitv://ns2.hellotvvod.com:9906/7264623a28ba4b498d0d0c5b08154c28.ts
+HOT,mitv://ns2.hellotvvod.com:9906/88652a8699964209acf41b25e2c15094.ts
+松视3,mitv://ns2.hellotvvod.com:9906/7cda1cc3c22944f5be2d5cad8b44340d.ts
+JStar极限,mitv://ns2.hellotvvod.com:9906/47b422bd6c57400484fa154649963af0.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/bb9503e2799342cfbc406a8ee2783367.ts
+K,mitv://ns2.hellotvvod.com:9906/04538c5c882f4f34b22ae5342aa666b7.ts
+
 1#,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
 2#,https://video2.51daao.com/btt1/2021/01/20210128/3wDXV6Je/index.m3u8
 3#,https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
 4#,https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
 5#,https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
-限制級_5566,#genre#
+限制級,#genre#
 少妇偷情,http://m3u8.jiertai.cn/620504edd10558059c64c07a61a90003dc43eab4.m3u8
 少妇乱伦,http://m3u8.jiertai.cn/448c998cea804485e32a89a528f94f530974fef5.m3u8
 厚裤袜足交,http://m3u8.jiertai.cn/3b910095cb55663753a48dcaba6d9cf6c96764d4.m3u8
@@ -1214,7 +1215,7 @@ LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 女教师,http://m3u8.jiertai.cn/b9c9ac9b3cb2b51436151df141b3fb87.m3u8
 黑丝,https://video.km7p7.xyz/uploads/2022-02-04/31435887/4c8644db3375b21be8263921469d9a58_wm.mp4
 
-成人點播_5566,#genre#
+成人點播,#genre#
 叫雞叫到表姐-李蓉蓉[1280*720],https://1xp60.cdnedge.live/file/avple-images/hls/6219e6f5b9e8e9119a2f1fe1/playlist.m3u8
 鮑魚游戲-孟若羽[960*544][960*544],https://zo392.cdnedge.live/file/avple-images/hls/621731ea336b5d6ff709b379/playlist.m3u8
 肉感精油SPA-酒井愛[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/6219e9c6b9e8e9119a2f1fe8/playlist.m3u8
@@ -1264,7 +1265,7 @@ AV女優鄰居[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60b
 成人 4[1920*1080],http://125.227.210.55:9055/VideoInput/play.ts
 成人 5[1920*1080],http://125.227.210.55:9062/VideoInput/play.ts
 
-91(A片)_5566,#genre#
+91,#genre#
 黑丝女秘书-粉色情人[1280*720]],https://v4.jiufanrj.com/20220416/aoTAQDDg/2000kb/hls/index.m3u8
 淫肉搜查官[1280*720]],https://v4.jiufanrj.com/20220416/UJDWOX2u/2000kb/hls/index.m3u8
 网红中国零食体验[1280*720]],https://v4.jiufanrj.com/20220404/TQWfR8UC/2000kb/hls/index.m3u8
@@ -1489,7 +1490,7 @@ LAA-0004性愛瑜伽,https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/29199fe
 大合集,https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 美麗的奴隸,https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
 
-麻豆電影_5566,#genre#
+麻豆電影,#genre#
 補新01,https://u89ey.cdnedge.live/file/avple-images/hls/616f1059d8538c2d9f2164a0/playlist.m3u8
 補新02,https://47b61.cdnedge.live/file/avple-images/hls/616f0fe1d8538c2d9f21649f/playlist.m3u8
 補新03,https://e2fa6.cdnedge.live/file/avple-images/hls/616f0fa5d8538c2d9f21649e/playlist.m3u8
