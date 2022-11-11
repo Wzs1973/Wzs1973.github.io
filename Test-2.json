@@ -472,7 +472,7 @@
       "key": "drpy_js_独播库",
       "name": "独播库[JS]",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.js",
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/独播库.js"
     },
     {
@@ -896,7 +896,7 @@
       "ext": "998c79f4f189435090049164d503e4e3"
     }
   ],
-  "spider": "https://wzs1973.github.io/JAR/top.jar;md5;d8b7f7972ed65d9f20bcf8264c7579b7",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;521BBFFB1BB48F5D45E516A799DF9F44",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
