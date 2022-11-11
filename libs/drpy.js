@@ -1,25 +1,10 @@
 import './lib/util.js';
 import cheerio from 'assets://js/lib/cheerio.min.js';
 import 'assets://js/lib/crypto-js.js'
-// import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
-
-// const key = 'drpy_zbk';
-// eval(req('http://192.168.1.124:5705/libs/es6py.js').content);
 function init_test() {
     console.log("init_test_start");
     console.log(RKEY);
     console.log(JSON.stringify(rule));
-    // clearItem(RULE_CK);
-    // console.log(JSON.stringify(rule));
-    // let aa = base64Encode('编码测试一下')
-    // log(aa);
-    // let bb = base64Decode(aa);
-    // log('bb:' + bb);
-    // console.log(request('https://www.baidu.com',{withHeaders:true}));
-    // console.log(request('https://www.baidu.com/favicon.ico', { toBase64: true }));
-    // require('http://192.168.10.99:5705/txt/pluto/drT.js');
-    // console.log(typeof(drT));
-    // console.log(drT.renderText('{{fl.cate}},hi, {{fl}}哈哈.{{fl}}',{sort: 1,cate:'movie'},'fl'));
     console.log("init_test_end");
 }
 
@@ -68,7 +53,6 @@ var oheaders;
 var _pdfh;
 var _pdfa;
 var _pd;
-// const DOM_CHECK_ATTR = ['url', 'src', 'href', 'data-original', 'data-src'];
 const DOM_CHECK_ATTR = /(url|src|href|data-original|data-src)$/;
 const SELECT_REGEX = /:eq|:lt|:gt|#/g;
 const SELECT_REGEX_A = /:eq|:lt|:gt/g;
@@ -220,8 +204,6 @@ function pD(html, parse, uri) {
             ret = urljoin(MY_URL, ret)
         }
     }
-    // MY_URL = getItem('MY_URL',MY_URL);
-    // console.log(`规则${RKEY}打印MY_URL:${MY_URL},uri:${uri}`);
     return ret
 }
 
@@ -1153,8 +1135,6 @@ function detailParse(detailObj) {
                 // console.log('cheerio解析Text');
                 vodList.forEach(it => {
                     // 请注意,这里要固定pdfh解析body&&Text,不需要下划线,没写错
-                    // new_vod_list.push(pdfh(it,'body&&Text')+'$'+_pd(it,'a&&href',MY_URL));
-                    // new_vod_list.push(cheerio.load(it).text() + '$' + _pd(it, 'a&&href', MY_URL));
                     new_vod_list.push(_pdfh(it, 'body&&Text') + '$' + _pd(it, 'a&&href', MY_URL));
                 });
                 let vlist = new_vod_list.join('#');
