@@ -347,6 +347,16 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/菜狗.js"
+    },
+     {
+      "key": "drpy_js_xigua",
+      "name": "西瓜视频[JS]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/xigua.js"
     },   
     {
       "key": "drpy_js_独播库",
