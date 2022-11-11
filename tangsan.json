@@ -271,6 +271,29 @@
       "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
     },
     {
+      "key": "yisou",
+      "name": "宜搜[云盘]",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0,
+      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
+    },
+    {
+      "key": "upyunsou",
+      "name": "Up云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0,
+      "ext": "c3895f91c81741959c22feb5fe3a5def",
+      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
+    },   
+    {
       "key":"AList",
       "name": "AList[网盘]",
       "type": 3,
