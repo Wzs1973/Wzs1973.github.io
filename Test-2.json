@@ -202,16 +202,6 @@
       "filterable":1
     },
     {
-      "key":"csp_Jianying",
-      "name":"简影影视[SP]",
-      "api":"csp_JianYing",
-      "type":3,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"
-    },
-    {
       "key":"csp_EEEDY",
       "name":"三亿电影[SP]",
       "type":3,
@@ -394,7 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "1c3d324f1ab741689b0c787532cf065d"
+      "ext": "998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "csp_AliPS",
@@ -405,28 +395,28 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "1c3d324f1ab741689b0c787532cf065d"
+      "ext": "998c79f4f189435090049164d503e4e3"
     },
     {
-      "key":"csp_FindZY",
-      "name":"盘搜2",
+      "key":"csp_LocalFile",
+      "name":"本地[网盘]",
       "type":3,
-      "api":"csp_FindZY",
+      "api":"csp_LocalFile",
       "searchable":1,
       "quickSearch":1,
-      "filterable":0,
-      "ext": "1c3d324f1ab741689b0c787532cf065d"
+      "filterable":1,
+      "ext": ""
     },
     {
       "key": "csp_Upyunso",
-      "name": "云搜[网盘]",
+      "name": "云搜[云盘]",
       "type": 3,
       "api": "csp_Upyunso",
       "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "1c3d324f1ab741689b0c787532cf065d"
+      "ext": "998c79f4f189435090049164d503e4e3"
     },    
     {
       "key": "csp_Yisou",
@@ -437,7 +427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "1c3d324f1ab741689b0c787532cf065d"
+      "ext": "998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "csp_Zhaozy",
@@ -448,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "1c3d324f1ab741689b0c787532cf065d"
+      "ext": "998c79f4f189435090049164d503e4e3"
     },
     {
       "key": "drpy_js_听书网",
@@ -903,10 +893,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "69355eb2358747f49889c444126ef089"
+      "ext": "998c79f4f189435090049164d503e4e3"
     }
   ],
-  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;521bbffb1bb48f5d45e516a799df9f44",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
