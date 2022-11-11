@@ -248,7 +248,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E"    
+      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"    
     },
     {
       "key": "csp_QQ",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E"
+      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
     },
     {
       "key": "csp_MGTV",
@@ -268,7 +268,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/xo.jar;md5;8EE423CE3B796ADC63A483565281D75E"
+      "jar": "https://wzs1973.github.io/JAR/top98.jar;md5;D1D307E7322241BE105C92166CB527D1"
     },
     {
       "key":"AList",
@@ -401,17 +401,7 @@
       "quickSearch": 0,
       "filterable": 0,     
       "ext": "https://wzs1973.github.io/JS/天天视频.js"
-    },
-    {
-      "key": "drpy_js_鸭奈飞",
-      "name": "鸭奈飞[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,     
-      "ext": "https://wzs1973.github.io/JS/鸭奈飞.js"
-    },    
+    }, 
     {
       "key": "drpy_js_星辰(首图2)",
       "name": "星辰影视[JS]",
@@ -431,17 +421,7 @@
       "quickSearch": 0,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/金曼影视.js"
-    },    
-    {
-      "key": "drpy_js_大猪蹄子",
-      "name": "大猪蹄子[JS]",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,      
-      "ext": "https://wzs1973.github.io/JS/大猪蹄子.js"
-    },    
+    },       
     {
       "key": "drpy_js_凌云影视",
       "name": "凌云影视[JS]",
@@ -661,7 +641,17 @@
       "quickSearch": 0,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/落攻阁影视.js"
-    },    
+    },
+    {
+      "key": "csp_xb_libvio",
+      "name": "利奥影视[XBiu]",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+    },  
     {
       "key":"bdys",
       "name":"哔嘀磁力[BD]",
