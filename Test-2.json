@@ -384,7 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "1c3d324f1ab741689b0c787532cf065d"
     },
     {
       "key": "csp_AliPS",
@@ -395,7 +395,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "1c3d324f1ab741689b0c787532cf065d"
     },
     {
       "key":"csp_LocalFile",
@@ -416,7 +416,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "1c3d324f1ab741689b0c787532cf065d"
     },    
     {
       "key": "csp_Yisou",
@@ -427,7 +427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "1c3d324f1ab741689b0c787532cf065d"
     },
     {
       "key": "csp_Zhaozy",
@@ -438,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "1c3d324f1ab741689b0c787532cf065d"
     },
     {
       "key": "drpy_js_听书网",
@@ -894,7 +894,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "998c79f4f189435090049164d503e4e3"
+      "ext": "1c3d324f1ab741689b0c787532cf065d"
     }
   ],
   "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;89C9EAEC380DC16EC274B772346270BA",
