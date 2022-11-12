@@ -1,0 +1,57 @@
+//更新时间：2022/11/11 15:40
+{
+    "urls": [
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "🏡应用多多家庭版"
+        },
+        {
+            "url": "http://111.67.196.181/mtv/meow.txt",
+            "name": "🐹太阳线路"
+        },
+        {
+            "url": "http://xn--sss604efuw.ml/tvb/x",
+            "name": "🐹饭太硬线路"
+        },
+        {
+            "url": "http://byyds.top/w.txt",
+            "name": "🐹BYYDS线路"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "🐹分享者线路"
+        },
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "🐹冰河线路"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐹云星家庭"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "🐹云星哔哩"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "🐹云星阿里"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "🐹agit/abc线路"
+        },
+        {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "🐹zzz1线路"
+        },
+        {
+            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "name": "🐹小马线路"
+        },
+                {
+            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "name": "🐹蚂蚁论坛线路"
+        }
+    ]
+}
