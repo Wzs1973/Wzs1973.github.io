@@ -696,7 +696,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://wzs1973.github.io/XYQHiker/电视直播.json"
+      "ext":"https://wzs1973.github.io/XYQHiker/电视直播.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },    
     {
       "key":"csp_XYQHiker_魔戒影院",
@@ -706,7 +707,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://wzs1973.github.io/XYQHiker/魔戒影院.json"
+      "ext":"https://wzs1973.github.io/XYQHiker/魔戒影院.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },
     {
       "key":"csp_XYQHiker_影视之家",
@@ -716,7 +718,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://wzs1973.github.io/XYQHiker/影视之家.json"
+      "ext":"https://wzs1973.github.io/XYQHiker/影视之家.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },    
     {
       "key":"csp_XYQHiker_冷曦影视",
@@ -726,7 +729,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://wzs1973.github.io/XYQHiker/冷曦影视.json"
+      "ext":"https://wzs1973.github.io/XYQHiker/冷曦影视.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },
     {
       "key":"csp_XYQHiker_heihei",
@@ -736,7 +740,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://wzs1973.github.io/XYQHiker/嘿嘿视频.json"
+      "ext":"https://wzs1973.github.io/XYQHiker/嘿嘿视频.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },
     {
       "key":"csp_XYQBiu_凌云影视",
@@ -746,7 +751,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://wzs1973.github.io/XYQBiu/凌云影视.json"
+      "ext":"https://wzs1973.github.io/XYQBiu/凌云影视.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },
     {
       "key":"csp_XYQBiu_万能影院",
@@ -756,7 +762,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://wzs1973.github.io/XYQBiu/万能影院.json"
+      "ext":"https://wzs1973.github.io/XYQBiu/万能影院.json",
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar;md5;0EA9977DFB2F832CC917C5C32E380C37"
     },  
     {
       "key":"百度资源",
