@@ -1,0 +1,23 @@
+[
+    {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json",
+        "title": "线路1"
+    },
+    
+     {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+        "title": "线路2",
+    },
+    {
+        "url": "http://111.67.196.181/mtv/meow.txt",
+        "title": "线路3",
+    },
+    {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json",
+        "title": "线路4"
+    },
+     {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7l7n.json",
+        "title": "线路5"
+    }
+]
