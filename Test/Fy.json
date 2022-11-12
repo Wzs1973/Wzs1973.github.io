@@ -109,10 +109,9 @@
 {"name":"HF","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url="},
 {"name":"酷享","type":1,"url":"http://pandown.pro/app/kxjx.php?url="},
 {"name":"钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
-{"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"rx2","type":1,"url":" http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"tvjx","type":1,"url":"http://42.157.128.38:5612/tvjx/?url="},
-{"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="},
+{"name":"道长","type":1,"url":"https://80k.tv/jxplayer.php?v="},
 {"name":"8090","type":1,"url":"https://www.8090g.cn/?url="},
 {"name":"万能","type":1,"url":"https://json.legendwhb.cn/llq/?url="},  
 {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
@@ -133,7 +132,8 @@
 {"name":"诺讯解析","type":1,"url":"https://www.nxflv.com/?url="},  
 {"name":"vip视频在线","type":1,"url":"https://vip.agoni.top/?url="},  
 {"name":"公益1","type":1,"url":"http://3.37.195.161:54371/parse/api/江湖.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
+{"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}  
 ],
 "rules": [
 {"host":"*","rule":["default.365yg.com"]},{"host":"dyxs20.com","rule":[".m3u8"]},
