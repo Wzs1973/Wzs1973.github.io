@@ -1,5 +1,5 @@
 {
-"spider":"https://wzs1973.github.io/JAR/cs.jar;md5;f16e0facb2b93a7043ac21a96b45b610",
+"spider":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9aYnkvbGl2ZS0xLnR4dA=="]}]}],
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
