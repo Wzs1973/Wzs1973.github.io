@@ -56,6 +56,7 @@
 //js J版	
 {"key": "drpy_js_小 品 网","name": "小 品 网[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/小品网.js"},
 {"key": "drpy_js_DJ 音 乐","name": "DJ 音 乐[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/DJ音乐.js"},
+{"key": "drpy_js_抓饭体育","name": "抓饭体育[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/抓饭体育.js"},  
 {"key": "drpy_js_独 播 库","name": "独 播 库[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/独播库.js"},
 {"key": "drpy_js_菜    狗","name": "搜狗影视[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/菜狗.js"},
 {"key": "drpy_js_小宝影视","name": "小宝影视[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/小宝影视.js"},
