@@ -37,7 +37,8 @@ CCTV16[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/32212262
 CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
 CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
-
+1905电影网,http://mmitv.top/other/1905.php?id=1905
+CCTV6,http://mmitv.top/other/1905.php?id=cctv6
 ⚛️北京移动,#genre#
 北京IPTV淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8?blog.ntnas.top
 CCTV-1,http://111.13.42.234/PLTV/88888888/224/3221226431/1.m3u8?blog.ntnas.top
