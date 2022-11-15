@@ -1,20 +1,31 @@
 # Wzs1973.github.io
-TVBox
-配置接口设定 俊佬、T版等--> clan://localhost/文件路径/XX.json
-fonmi接口--->file://XX.json
-"spider":"clan://文件路径/XX.jar"(视情况自定义文件夹)
-takagen99 & q215613905 TVBox的本地设定(同原猫影视设定)
-1.设定>配置用路径 需多加localhost clan://localhost/TVBox/pluto.json 2.json的api或ext路径设定 则不用另外再加localhost "api":"clan://TVBox/libs/drpy.js" clan://TVBox/js/真不卡.js
+# TVBox
 
-pluto的本地设定
+#  配置接口设定 俊佬、T版等--> clan://localhost/文件路径/XX.json
+
+# fonmi接口--->file://XX.json
+
+# "spider":"clan://文件路径/XX.jar"(视情况自定义文件夹)
+
+# takagen99 & q215613905 TVBox的本地设定(同原猫影视设定)
+1.设定>配置用路径 需多加localhost
+clan://localhost/TVBox/pluto.json
+2.json的api或ext路径设定 则不用另外再加localhost
+"api":"clan://TVBox/libs/drpy.js"
+clan://TVBox/js/真不卡.js
+
+# pluto的本地设定
 file:///storage/emulated/0/TVBox/pluto.json
 
-FM影视的本地设定 (通用 二择一)
-clan://TVBox/pluto.json file://TVBox/pluto.json
+# FM影视的本地设定 (通用 二择一)
+clan://TVBox/pluto.json
+file://TVBox/pluto.json
 
-使用方法
-TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
-1、https://gitea.com/ 已开始限制，清理
+- [使用方法](./usage.md)
+
+### TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用，好不要用，有没有坑，自己测试。网上的东西，只是收集，不做测试推荐。
+
+1、https://gitea.com/  已开始限制，清理
 
 2、https://gitee.com/
 
@@ -60,16 +71,18 @@ TVBox资源接口外链托管网址：感觉哪个好用用哪个，能不能用
 
 23、吾爱云盘：http://52bsj.vip:81/login
 
-短链接制作网址：哪个稳定自己测试。
-https://gg.gg
 
-https://77url.com
+## 短链接制作网址：哪个稳定自己测试。
 
-https://qiu.moe x
+https://gg.gg 
+
+https://77url.com 
+
+https://qiu.moe     x
 
 https://www.c1n.cn
 
-http://pesc.pw x
+http://pesc.pw     x
 
 https://0dlj.cn
 
@@ -77,7 +90,7 @@ https://0a.fit
 
 http://mtw.so
 
-https://app.short.io x
+https://app.short.io    x
 
 https://sd4.cn
 
@@ -95,41 +108,55 @@ https://tshort.lfabu.com
 
 https://dwz.dk
 
-壁纸：
+## 壁纸：
+
 http://www.kf666888.cn/api/tvbox/img
 
 https://picsum.photos/1280/720/?blur=10
 
 https://qiu.moe/a723
 
-解析测试：
+
+## 解析测试：
+
 http://www.36nu.com/apiTest
 
-更新
-多jar链接写法，根据app版本来：
-Pluto Player版本：
-{"key":"","name":"","api":"","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http:///.jar"},
+### 更新
 
-这个：
-{"key":"","name":"","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1,"spider":"http:///.jar"},
+## 多jar链接写法，根据app版本来：
 
-俊佬版本多jar链接写法：
-{"key":"","name":"","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
+## Pluto Player版本：
 
-牛人制作网站：版本收集、接口收集、TG群收集，小白有这个网站能躺平了！
+{"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
+
+## 这个：
+
+{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://****/*.jar"},
+
+## 俊佬版本多jar链接写法：
+
+{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
+
+
+## 牛人制作网站：版本收集、接口收集、TG群收集，小白有这个网站能躺平了！
+
 https://maoyingshi.cc/
 
 这里边不少接口，自己扒拉一下。
 
 https://github.com/tv-player/TvBox
 
-TVBox配置编辑器：
+
+## TVBox配置编辑器：
+
 https://kvymin.github.io/CatVodTVJsonEditor/
 
-给TVbox站源添加符号:
+## 给TVbox站源添加符号:
+
 很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
 
-640
+
+![640](https://user-images.githubusercontent.com/102397160/181132511-1bfac13d-88bb-42ce-8d1a-94e253c8379d.png)
 
 这里推荐两个非常不错的网页符号复制粘贴地址。
 
@@ -137,10 +164,12 @@ https://funletu.com/emoji/
 
 https://www.emojiall.com/zh-hans
 
-Cloudreve个人网盘GitHub开源地址：
+## Cloudreve个人网盘GitHub开源地址：
+
 https://github.com/cloudreve/Cloudreve
 
-比较牛逼的仓库：
+## 比较牛逼的仓库：
+
 唐三大佬仓库地址：https://github.com/Tangsan99999/TvJar
 
 巧技大佬仓库地址：https://gitea.com/qiaoji
@@ -195,32 +224,55 @@ https://github.com/dlgt7/TVbox-interface/blob/main/%E8%BF%91%E6%9C%9F%E4%B8%8D%E
 
 https://github.com/dlgt7/TVbox-interface/blob/main/%E8%87%AA%E5%B7%B1%E6%94%B9%E4%BB%A3%E7%A0%81%E6%81%A2%E5%A4%8Dandroid_builder%E6%89%93%E5%8C%85apk.MD
 
-常用工具：
+## 常用工具：
+
 免魔法电报，也是个开源项目，用前自己上网查询这个怎么样。
 
 https://github.com/NekoX-Dev/NekoX
 
-文本比较、json格式化： https://tsq.lanzouf.com/b0c4rjpsb 密码:123
+文本比较、json格式化：
+https://tsq.lanzouf.com/b0c4rjpsb
+密码:123
 
-开发者工具箱： https://1024tools.com/
+开发者工具箱：
+https://1024tools.com/
 
-文本处理： http://www.txttool.com/
+文本处理：
+http://www.txttool.com/
 
-直播源批量检测工具： https://tsq.lanzouf.com/b0c4p2fba 密码:123
+直播源批量检测工具：
+https://tsq.lanzouf.com/b0c4p2fba
+密码:123
 
-MXPlayer-Pro-1.46.10高级解锁版： https://tsq.lanzouf.com/b0c4p1nyf 密码:123
+MXPlayer-Pro-1.46.10高级解锁版：
+https://tsq.lanzouf.com/b0c4p1nyf
+密码:123
 
 MD5获取小工具：http://www.metools.info/
 
 MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
-json内资源格式参数介绍
-{"key":"key_〔资源名称〕", "name":"资源名称", "type":0, "api":"csp_〔jar内文件名称〕", "searchable":1, "quickSearch":1, "filterable":0, "jar":"〔jar文件地址〕", "ext":"〔txt json文件地址〕", "playUrl": "〔播放解析地址〕", "categories":["〔自定义资源列表〕", "〔自定义资源列表〕"] }
+## json内资源格式参数介绍
 
-jar修改学习：要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住学习就行。
+{"key":"key_〔资源名称〕",
+"name":"资源名称",
+"type":0,
+"api":"csp_〔jar内文件名称〕",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"jar":"〔jar文件地址〕",
+"ext":"〔txt json文件地址〕",
+"playUrl": "〔播放解析地址〕", 
+"categories":["〔自定义资源列表〕",
+"〔自定义资源列表〕"] }
+
+## jar修改学习：要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住学习就行。
+
 jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-run workflow。和打包TVBOX一样。
 
 jar打包成功实例仓库：仅供参考，自行添加新的，删除或者修改失效的。https://github.com/dlgt7/TvJar
+
 
 Fork始点，地位特殊：https://github.com/Tangsan99999/TvJar
 
@@ -228,22 +280,23 @@ https://github.com/Kimlee-cmd/TvJar
 
 https://github.com/Kvymin/CatVodTVSpider
 
-https://github.com/Kvymin/CatVod
+https://github.com/Kvymin/CatVod  
 
 传说中的T4类型，仓库地址如下，自己研究。
 
 https://github.com/sec-an/TV_Spider
 
-电脑修改 apk 所需软件
+## 电脑修改 apk 所需软件 
+
 0、首推吾爱破解工具包：
 
 https://down.52pojie.cn/Tools/
 
-1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html
+ 1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html  
+ 
+2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm 
 
-2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm
-
-3、下载编码器，
+3、下载编码器， 
 
 改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
 ## jar包缝合教程：暴力缝合，非代码修改。
