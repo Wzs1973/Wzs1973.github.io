@@ -3,7 +3,7 @@
 //"spider":"https://wzs1973.github.io/JAR/oo.jar;md5;ec03f63796a909bce4c8ac16b938591b",  
 //"spider":"https://wzs1973.github.io/JAR/cs.jar;md5;FA8EBA716ABABBF6E24F9B5F0E00D810",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9aYnkvbGl2ZS0xLnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9aYnkvdGxpdmUudHh0"]}]}],
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
 {"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
