@@ -279,32 +279,57 @@ https://down.52pojie.cn/Tools/
 ![6](https://user-images.githubusercontent.com/102397160/182571468-3f15da3f-ac7b-45b0-9e37-c4959692d24d.png)
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
+
 试试吧，不一定对。
-今天看到一个新的教程：
-【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画
+
+## 今天看到一个新的教程：
+【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画 
 
 8款网盘可同时挂载到Kodi播放器，支持Mac和Windows平台
 
-教程在仓库里：https://github.com/dlgt7/TVbox-interface PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
+教程在仓库里：https://github.com/dlgt7/TVbox-interface  PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
 
-Stargazers over time
-Stargazers over time
+### Stargazers over time
 
-开源仓库 https://github.com/ https://gitlab.com/
+[![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
 
-https://gitee.com/ https://coding.net/
+开源仓库
+https://github.com/
+https://gitlab.com/
 
-https://gitcode.net/ https://gitea.com/ 仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单 https://agit.ai/ https://notabug.org/
+https://gitee.com/
+https://coding.net/
 
-EGP源 http://epg.51zmt.top:8000/e.xml https://epg.112114.xyz/pp.xml
+https://gitcode.net/
+https://gitea.com/ 仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
+https://agit.ai/
+https://notabug.org/
 
-给英文不好的朋友 GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208 Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
+EGP源
+http://epg.51zmt.top:8000/e.xml
+https://epg.112114.xyz/pp.xml
 
-Github RAW 加速服务 源码 https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json 香港 https://raw.iqiq.io/liu673cn/box/main/m.json 新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json 日本 https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json https://cdn.staticaly.com/gh/liu673cn/box/main/m.json https://raw.fastgit.org/liu673cn/box/main/m.json 韩国 https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+给英文不好的朋友
+GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208
+Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
 
-https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json https://raw.githubusercontents.com/liu673cn/box/main/m.json
+Github RAW 加速服务
+源码 https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json
+香港 https://raw.iqiq.io/liu673cn/box/main/m.json
+新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json
+日本
+https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+https://raw.fastgit.org/liu673cn/box/main/m.json
+韩国
+https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
 
-Github 静态加速 https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://raw.githubusercontents.com/liu673cn/box/main/m.json
+
+Github 静态加速
+https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
 
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
