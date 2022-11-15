@@ -301,7 +301,8 @@ https://down.52pojie.cn/Tools/
 改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
 ## jar包缝合教程：暴力缝合，非代码修改。
 
-准备工作：MT管理器或者NP管理器，B包要用的包，A包要导出的包。
+准备工作：MT管理器或者NP管理器（Android 版），Android 逆向助手（电脑版）
+，B包要用的包，A包要导出的包。
 
 开始：A包中merge重命名，展开重命名的merge，选中需要导出的文件，导出。打开B包，导入刚才导出的重命名的merge文件，保存退出。B包就是缝合好的包。
 
@@ -332,9 +333,9 @@ https://down.52pojie.cn/Tools/
 ![6](https://user-images.githubusercontent.com/102397160/182571468-3f15da3f-ac7b-45b0-9e37-c4959692d24d.png)
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
+2、 精简代码。在Android 逆向助手中。1 运行“jar转dex”。  2 运行“反编译dex”。3 运行“重打包dex”。4 运行“dex转jar”。这样就会得到廋身后的jar文件。
 
 试试吧，不一定对。
-
 ## 今天看到一个新的教程：
 【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画 
 
