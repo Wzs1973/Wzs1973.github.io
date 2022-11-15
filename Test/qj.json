@@ -3,7 +3,7 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9aYnkvbGl2ZS0xLnR4dA=="]}]}],
 "sites":[
-{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618"},
+{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"MiniYs_spider","name":"迷你影视","api":"csp_MiniYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"NoSearch_Bdys_spider","name":"哔滴影视","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
