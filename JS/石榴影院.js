@@ -13,7 +13,7 @@ var rule={
     },
     //class_parse:'.conch-nav&&ul&&li;a&&Text;a&&href;./(\\d+).html',
     //cate_exclude:'',
-    class_name:'电影&电视剧&综艺&动漫',
+    class_name:'电影&剧集&综艺&动漫&片库',
     class_url:'1&2&3&4',
     play_parse:true,
     lazy:'',
