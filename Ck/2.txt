@@ -2,17 +2,29 @@
 {
     "urls": [
         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "name": "🏡应用多多家庭版"
-        },
-        {
             "url": "http://111.67.196.181/mtv/meow.txt",
             "name": "🐹太阳线路"
         },
         {
-            "url": "http://xn--sss604efuw.ml/tvb/x",
+            "url": "http://饭太硬.ga/x/o.json",
             "name": "🐹饭太硬线路"
         },
+        {
+            "url": "https://pandora2277.github.io/tang.bmp",
+            "name": "🐹唐三线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🐹俊佬线路"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🐹猫友线路"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🐹菜妮线路"
+        },        
         {
             "url": "http://byyds.top/w.txt",
             "name": "🐹BYYDS线路"
