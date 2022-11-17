@@ -2,10 +2,6 @@
 {
     "urls": [
         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "name": "🏡应用多多家庭版"
-        },
-        {
             "url": "http://101.34.67.237/config/3",
             "name": "💎道长T4线路"
         },
@@ -30,32 +26,16 @@
             "name": "💎菜妮丝xBPQ"
         },
         {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "💎dxawi0线路"
-        },
-        {
             "url": "http://dxawi.github.io/0/1.json",
             "name": "💎dxawi1线路"
         },
         {
-            "url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
             "name": "💎一影视线路"
         },
         {
             "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
             "name": "💎佰欣园线路"
-        },
-        {
-            "url": "https://raw.iqiq.io.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-            "name": "💎FreeTV线路"
-        },
-        {
-            "url": "https://raw.iqiq.io.com/2hacc/TVBox/main/tvbox",
-            "name": "💎二哈线路"
-        },
-        {
-            "url": "https://raw.iqiq.io.com/chengxueli818913/TVBox/main/sc.json",
-            "name": "💎chengxueli线路"
         }
     ]
 }
