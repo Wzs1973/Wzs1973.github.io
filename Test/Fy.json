@@ -15,7 +15,6 @@
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],  
 "sites":[
-{"key":"douban","name":"🅱豆瓣荐片┃t4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"https://wzs1973.github.io/libs/drpy.min.js","ext":"https://wzs1973.github.io/JS/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili2","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://wzs1973.github.io/Bili/Bili.json"},
 {"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/alist.json"},
@@ -46,7 +45,7 @@
 {"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📺360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🦊茶杯狐","type":"3","api":"csp_Voflix","searchable":"1","quickSearch":"1","filterable":"1"},  
-{"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1"},
+{"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"ai","name":"🐨爱奇┃SP","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"MGT","name":"🍋芒果┃SP","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💯完美┃SP","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
@@ -105,11 +104,12 @@
 {"key":"新浪资源","name":"🌌新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"🌌樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":"🌌百度资源(切)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"北 斗 星","name":"🌌北 斗 星(切)","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
+{"key":"北 斗 星","name":"🌌北 斗 星(切)","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"速更资源","name":"🌌速更资源(切)","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},  
 {"key":"飘花资源","name":"🌌飘花资源(切)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"CK  资源","name":"🌌CK 资 源(切)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_Banana","name":"🈲Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wzs1973.github.io/JS/18/Banana.txt"},  
-{"key":"速更资源","name":"🌌速更资源(切)","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"影库资源","name":"🌌影库资源(切)","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"CK  资源","name":"🌌CK 资 源(切)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
+{"key":"csp_Banana","name":"🈲Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wzs1973.github.io/JS/18/Banana.txt"}
 ],
 //解析设置
 "parses":[
