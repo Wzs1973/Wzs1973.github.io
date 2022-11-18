@@ -1,6 +1,6 @@
 {
-//"spider":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610",
-"spider":"https://wzs1973.github.io/JAR/xxo.jar;md5;F452B228D8F55C3425D4E9CC78B9A922",  
+"spider":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610",
+//"spider":"https://wzs1973.github.io/JAR/xxo.jar;md5;F452B228D8F55C3425D4E9CC78B9A922",  
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[
 {"group": "redirect","channels": [
@@ -16,7 +16,6 @@
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "drives":[{"server":"","userName":"","password":"","type":"webdav"}],  
 "sites":[
-{"key":"douban","name":"🅱豆瓣荐片┃t4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"https://wzs1973.github.io/libs/drpy.min.js","ext":"https://wzs1973.github.io/JS/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Alist","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/alist.json"},
 {"key":"Bili","name":"哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/Bili/Bili.json"},
