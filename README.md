@@ -110,11 +110,27 @@ https://dwz.dk
 
 ## 壁纸：
 
-http://www.kf666888.cn/api/tvbox/img
+（1）https://bing.img.run/rand.php
 
-https://picsum.photos/1280/720/?blur=10
+（2）http://www.kf666888.cn/api/tvbox/img
 
-https://qiu.moe/a723
+（3）https://picsum.photos/1280/720/?blur=10
+
+（4）http://刚刚.live/图
+
+（5）http://饭太硬.ga/深色壁纸/api.php
+
+（6）https://www.dmoe.cc/random.php
+
+（7）https://api.btstu.cn/sjbz/zsy.php
+
+（8）https://api.btstu.cn/sjbz/?lx=dongman
+
+（9）http://api.btstu.cn/sjbz/?lx=meizi
+
+（10）http://api.btstu.cn/sjbz/?lx=suiji
+
+（11）https://pictures.catvod.eu.org/
 
 
 ## 解析测试：
