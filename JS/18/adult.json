@@ -45,15 +45,6 @@
       "searchable": 1,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key": "奈菲",
-      "name": "奈菲",
-      "type": 3,
-      "api": "csp_Nfyun",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": ""
     },    
     {
       "key": "Banana",
@@ -66,7 +57,7 @@
     },
     {
       "key": "Aidi",
-      "name": "Aidi",
+      "name": "爱迪",
       "type": 3,
       "api": "csp_Aidi",
       "searchable": 1,
@@ -141,15 +132,6 @@
       "name": "剧嗨",
       "type": 3,
       "api": "csp_Juhi",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "稀饭",
-      "name": "稀饭",
-      "type": 3,
-      "api": "csp_Xifanys",
       "searchable": 1,
       "filterable": 1,
       "ext": ""
@@ -411,7 +393,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext": "159594d3dcf74013932e64448cf9c279"
     }
   ]
 }
