@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/oo.jar;md5;ec03f63796a909bce4c8ac16b938591b",
+  "spider": "https://wzs1973.github.io/JS/18/custom_spider.jar;md5;43EAA63C62CFBEDE0954A3E990384871",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -29,6 +29,33 @@
       "ext": "1"
     },
     {
+      "key": "酷猫",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "1"
+    },
+    {
+      "key": "奈菲",
+      "name": "奈菲",
+      "type": 3,
+      "api": "csp_Nfyun",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "奈菲",
+      "name": "奈菲",
+      "type": 3,
+      "api": "csp_Nfyun",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },    
+    {
       "key": "Banana",
       "name": "Banana",
       "type": 3,
@@ -36,6 +63,114 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://wzs1973.github.io/JS/18/Banana.txt"
+    },
+    {
+      "key": "Aidi",
+      "name": "Aidi",
+      "type": 3,
+      "api": "csp_Aidi",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "Nekk",
+      "name": "Nekk",
+      "type": 3,
+      "api": "csp_Nekk",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "Ysdq",
+      "name": "Ysdq",
+      "type": 3,
+      "api": "csp_Ysdq",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },    
+    {
+      "key": "YydsAlil",
+      "name": "YydsAlil",
+      "type": 3,
+      "api": "csp_YydsAlil",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },   
+    {
+      "key": "Banana",
+      "name": "Banana2",
+      "type": 3,
+      "api": "csp_Banana2",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },    
+    {
+      "key": "EPang",
+      "name": "EPang",
+      "type": 3,
+      "api": "csp_EPang",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "Enlienli",
+      "name": "Enlienli",
+      "type": 3,
+      "api": "csp_Enlienli",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "Hu4",
+      "name": "Hu4",
+      "type": 3,
+      "api": "csp_Hu4",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "Juhi",
+      "name": "剧嗨",
+      "type": 3,
+      "api": "csp_Juhi",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "稀饭",
+      "name": "稀饭",
+      "type": 3,
+      "api": "csp_Xifanys",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "Jumi",
+      "name": "剧迷",
+      "type": 3,
+      "api": "csp_Jumi",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "香蕉",
+      "name": "香蕉",
+      "type": 3,
+      "api": "csp_Xiangjiao",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": ""
     },    
     {
       "key": "drpy_js_猫了个咪",
@@ -91,6 +226,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://wzs1973.github.io/xBPQ/xylhf.json"
+    },
+    {
+      "key": "影库资源",
+      "name": "影库资源",
+      "type": 1,
+      "api": "https://api.ykapi.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },    
     {
       "key": "ggmmzy.com",
