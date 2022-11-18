@@ -1,5 +1,6 @@
 {
-"spider":"https://wzs1973.github.io/JAR/top.jar;md5;EE354B1E054F3D886262484E2BBC2936", 
+"spider":"https://wzs1973.github.io/JAR/ox.jar;md5;C9D75E45B5787511F5F35981C72E225E",  
+//"spider":"https://wzs1973.github.io/JAR/top.jar;md5;EE354B1E054F3D886262484E2BBC2936", 
 //"spider":"https://wzs1973.github.io/JAR/oo.jar;md5;ec03f63796a909bce4c8ac16b938591b",  
 //"spider":"https://wzs1973.github.io/JAR/cs.jar;md5;FA8EBA716ABABBF6E24F9B5F0E00D810",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -30,6 +31,7 @@
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_apple","name":"🍎苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},  
 {"key":"csp_Cokemv","name":"📕Cok┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
