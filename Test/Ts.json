@@ -95,6 +95,7 @@
 {"key":"百度资源","name":"百度资源[切]","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"北 斗 星","name":"北 斗 星[切]","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
 {"key":"飘花资源","name":"飘花资源[切]","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"影库资源","name":"影库资源[切]","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":0}, 
 {"key":"CK  资源","name":"CK 资 源[切]","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
 {"key":"速更资源","name":"速更资源[切]","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
