@@ -110,29 +110,29 @@ https://dwz.dk
 
 ## 壁纸：
 
-（1）https://bing.img.run/rand.php
+https://bing.img.run/rand.php
 
-（2）http://www.kf666888.cn/api/tvbox/img
+http://www.kf666888.cn/api/tvbox/img
 
-（3）https://picsum.photos/1280/720/?blur=10
+https://picsum.photos/1280/720/?blur=10
 
-（4）http://刚刚.live/图
+http://刚刚.live/图
 
-（5）http://饭太硬.ga/深色壁纸/api.php
+http://饭太硬.ga/深色壁纸/api.php
 
-（6）https://www.dmoe.cc/random.php
+https://www.dmoe.cc/random.php
 
-（7）https://api.btstu.cn/sjbz/zsy.php
+https://api.btstu.cn/sjbz/zsy.php
 
-（8）https://api.btstu.cn/sjbz/?lx=dongman
+https://api.btstu.cn/sjbz/?lx=dongman
 
-（9）http://api.btstu.cn/sjbz/?lx=meizi
+http://api.btstu.cn/sjbz/?lx=meizi
 
-（10）http://api.btstu.cn/sjbz/?lx=suiji
+http://api.btstu.cn/sjbz/?lx=suiji
 
-（11）https://pictures.catvod.eu.org/
+https://pictures.catvod.eu.org/
 
-
+https://tuapi.eees.cc/api.php?category=fengjing&type=302
 ## 解析测试：
 
 http://www.36nu.com/apiTest
