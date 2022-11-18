@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JS/18/custom_spider.jar",
+  "spider": "https://wzs1973.github.io/JAR/oo.jar;md5;ec03f63796a909bce4c8ac16b938591b",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -29,64 +29,72 @@
       "ext": "1"
     },
     {
-      "key": "玩偶",
-      "name": "玩偶",
+      "key": "Banana",
+      "name": "Banana",
       "type": 3,
-      "api": "csp_Doll",
+      "api": "csp_Banana",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/JS/18/Banana.txt"
+    },    
+    {
+      "key": "drpy_js_猫了个咪",
+      "name": "猫了个咪[DRPY]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy2.min.js",
+      "ext": "https://wzs1973.github.io/JS/18/猫了个咪.js"
     },
     {
-      "key": "18AV",
-      "name": "18AV",
+      "key": "drpy_js_养端",
+      "name": "养端[DRPY]",
       "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "filterable": 1
+      "api": "https://wzs1973.github.io/libs/drpy2.min.js",
+      "ext": "https://wzs1973.github.io/JS/18/养端.js"
     },
     {
-      "key": "Jable",
-      "name": "Jable",
+      "key": "drpy_js_18av",
+      "name": "18AV[DRPY]",
       "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-      "filterable": 1
+      "api": "https://wzs1973.github.io/libs/drpy2.min.js",
+      "ext": "https://wzs1973.github.io/JS/18/18av.js"
     },
     {
-      "key": "PigAV",
-      "name": "PigAV",
+      "key": "drpy_js_吸瓜",
+      "name": "吸瓜[DRPY]",
       "type": 3,
-      "api": "csp_Pig",
+      "api": "https://wzs1973.github.io/libs/drpy2.min.js",
+      "ext": "https://wzs1973.github.io/JS/18/吸瓜.js"
+    },    
+    {
+      "key": "drpy_js_玩偶",
+      "name": "玩偶[DRPY]",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy2.min.js",
+      "ext": "https://wzs1973.github.io/JS/18/玩偶姐姐.js"
+    },   
+    {
+      "key": "csp_xBPQ_性欲轮回",
+      "name": "性欲轮回",
+      "type": 3,
+      "api": "csp_xBPQ",
       "searchable": 1,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/xylh.json"
     },
     {
-      "key": "MissAV",
-      "name": "MissAV",
+      "key": "csp_xBPQ_性欲轮回",
+      "name": "性欲轮回[分类]",
       "type": 3,
-      "api": "csp_Miss",
+      "api": "csp_xBPQ",
       "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Supjav",
-      "name": "Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "51smt4.xyz",
-      "name": "成人02",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/xylhf.json"
+    },    
     {
       "key": "ggmmzy.com",
-      "name": "成人03",
+      "name": "成人01",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
@@ -94,7 +102,7 @@
     },
     {
       "key": "cjmygzy.com",
-      "name": "成人05",
+      "name": "成人02",
       "type": 0,
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -102,7 +110,7 @@
     },
     {
       "key": "jcspcj8.com",
-      "name": "成人06",
+      "name": "成人03",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist",
       "searchable": 1,
@@ -110,7 +118,7 @@
     },
     {
       "key": "wmcj8.com",
-      "name": "成人07",
+      "name": "成人04",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 1,
@@ -118,7 +126,7 @@
     },
     {
       "key": "secj8.com",
-      "name": "成人08",
+      "name": "成人05",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -126,7 +134,7 @@
     },
     {
       "key": "dadiapi.com",
-      "name": "成人09",
+      "name": "成人06",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -134,7 +142,7 @@
     },
     {
       "key": "api.kudian70.com",
-      "name": "成人10",
+      "name": "成人07",
       "type": 1,
       "api": "http://api.kudian70.com/api.php/provide/vod/",
       "searchable": 1,
@@ -142,7 +150,7 @@
     },
     {
       "key": "zmcj88.com",
-      "name": "成人12",
+      "name": "成人08",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
@@ -150,7 +158,7 @@
     },
     {
       "key": "mygzycj.com",
-      "name": "成人14",
+      "name": "成人09",
       "type": 0,
       "api": "http://mygzycj.com/api.php?ac=list",
       "searchable": 1,
@@ -158,7 +166,7 @@
     },
     {
       "key": "llzxcj.com",
-      "name": "成人15",
+      "name": "成人10",
       "type": 0,
       "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
       "searchable": 1,
@@ -166,7 +174,7 @@
     },
     {
       "key": "99zywcj.com",
-      "name": "成人16",
+      "name": "成人11",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -174,7 +182,7 @@
     },
     {
       "key": "f2dcj6.com",
-      "name": "成人18",
+      "name": "成人12",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist",
       "searchable": 1,
@@ -182,7 +190,7 @@
     },
     {
       "key": "feifei67.com",
-      "name": "成人22",
+      "name": "成人13",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
@@ -190,7 +198,7 @@
     },
     {
       "key": "api.kdapi.info",
-      "name": "成人23",
+      "name": "成人14",
       "type": 1,
       "api": "http://api.kdapi.info/api.php/provide/vod/",
       "searchable": 1,
@@ -198,135 +206,23 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "成人32",
+      "name": "成人15",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "987caiji.com",
-      "name": "成人34",
-      "type": 0,
-      "api": "http://www.987caiji.com/api/max.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mgzyz1.com",
-      "name": "成人35",
-      "type": 1,
-      "api": "https://mgzyz1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "成人36",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mgav1.cc",
-      "name": "成人37",
-      "type": 0,
-      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "api.ykapi.net",
-      "name": "成人38",
+      "name": "成人16",
       "type": 1,
       "api": "https://api.ykapi.net/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "caiji07.com",
-      "name": "成人39",
-      "type": 0,
-      "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shayuapi.com",
-      "name": "成人40",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji02.com",
-      "name": "成人41",
-      "type": 0,
-      "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji.huakuiapi.com",
-      "name": "成人42",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji01.com",
-      "name": "成人43",
-      "type": 0,
-      "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "kxgav.com",
-      "name": "成人44",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji08.com",
-      "name": "成人45",
-      "type": 0,
-      "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "msnii.com",
-      "name": "成人46",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "apittzy.com",
-      "name": "成人47",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji09.com",
-      "name": "成人48",
-      "type": 0,
-      "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "dmmapi.com",
-      "name": "成人49",
+      "name": "成人17",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
       "searchable": 1,
@@ -334,71 +230,23 @@
     },
     {
       "key": "lbapi9.com",
-      "name": "成人50",
+      "name": "成人18",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "kkzy.me",
-      "name": "成人51",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji.caomeiapi.com",
-      "name": "成人52",
-      "type": 1,
-      "api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "caiji.naichaapi.com",
-      "name": "成人53",
+      "name": "成人19",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "caiji05.com",
-      "name": "成人54",
-      "type": 0,
-      "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "siwazyw.cc",
-      "name": "成人55",
-      "type": 1,
-      "api": "https://siwazyw.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji10.com",
-      "name": "成人56",
-      "type": 0,
-      "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "caiji03.com",
-      "name": "成人57",
-      "type": 0,
-      "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "kudouzy.com",
-      "name": "成人58",
+      "name": "成人20",
       "type": 1,
       "api": "https://kudouzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -406,7 +254,7 @@
     },
     {
       "key": "api.xiuseapi.com",
-      "name": "成人65",
+      "name": "成人21",
       "type": 1,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/",
       "searchable": 1,
