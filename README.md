@@ -71,42 +71,13 @@ file://TVBox/pluto.json
 
 23、吾爱云盘：http://52bsj.vip:81/login
 
+Dream 开发的微信小程序版 编辑器
 
-## 短链接制作网址：哪个稳定自己测试。
+https://wzs1973.github.io/Test/gh_16e4613251a6_258.jpg
 
-https://gg.gg 
+PC Web版
 
-https://77url.com 
-
-https://qiu.moe     x
-
-https://www.c1n.cn
-
-http://pesc.pw     x
-
-https://0dlj.cn
-
-https://0a.fit
-
-http://mtw.so
-
-https://app.short.io    x
-
-https://sd4.cn
-
-https://pqu.cn
-
-https://88d.cn
-
-https://loveer.win
-
-https://mtool.chinaz.com/dwz
-
-https://waurl.cn
-
-https://tshort.lfabu.com
-
-https://dwz.dk
+https://catvodtvofficial.github.io/CatVodTVJsonEditor/
 
 TVBox配置接口
 
