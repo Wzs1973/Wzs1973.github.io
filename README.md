@@ -71,11 +71,11 @@ file://TVBox/pluto.json
 
 23、吾爱云盘：http://52bsj.vip:81/login
 
-Dream 开发的微信小程序版 编辑器
+### Dream 开发的微信小程序版 编辑器
 
-https://wzs1973.github.io/Test/gh_16e4613251a6_258.jpg
+![logo](static/gh_16e4613251a6_258.jpg)
 
-PC Web版
+### PC Web版
 
 https://catvodtvofficial.github.io/CatVodTVJsonEditor/
 
