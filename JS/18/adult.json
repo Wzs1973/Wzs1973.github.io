@@ -313,6 +313,23 @@
       "filterable": 1
     },
     {
+      "key":"myg",
+      "name":"Myg资源",
+      "type":0,"api":"http://mygzycj.com/api.php?ac=videolist",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
+      "key":"f2d",
+      "name":"f2d采集",
+      "type":0,
+      "api":"http://f2dcj6.com/sapi?ac=videolist",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
       "key": "api.ykapi.net",
       "name": "影库",
       "type": 1,
