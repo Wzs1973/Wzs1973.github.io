@@ -21,7 +21,6 @@
 {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nianying","name":"念影","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name":"乐猪","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_EEEDY","name":"飘花","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
@@ -63,11 +62,11 @@
 {"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","plugin":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
 {"key":"push_agent","name":"推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","plugin":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
 //XB--XP
-{"key":"csp_xpath_冷曦影视","name": "冷曦影视[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/冷曦影视.json"},  
-{"key":"csp_xpath_九亿国语","name": "九亿国语[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"},
-{"key":"csp_biubiu_骚火电影","name":"骚火电影[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/骚火电影.json"},
-{"key":"csp_biubiu_酷云影院","name":"酷云影院[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷云影院.json"},
-{"key":"csp_biubiu_鸭 奈 菲","name":"鸭 奈 菲[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/鸭奈菲.json"},
+{"key":"csp_xpath_冷曦影视","name": "冷曦[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/冷曦影视.json"},  
+{"key":"csp_xpath_九亿国语","name": "九亿[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"},
+{"key":"csp_biubiu_骚火电影","name":"骚火[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/骚火电影.json"},
+{"key":"csp_biubiu_酷云影院","name":"酷云[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷云影院.json"},
+
 //js J版	
 {"key": "drpy_js_小 品 网","name": "小 品 网[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/小品网.js"},
 {"key": "drpy_js_DJ 音 乐","name": "DJ 音 乐[DRPY]","type": 3,"api": "https://wzs1973.github.io/libs/drpy.min.js","ext": "https://wzs1973.github.io/JS/DJ音乐.js"},
