@@ -6,6 +6,7 @@
 {"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby9aYnkvbGl2ZS0xLnR4dA=="]}]}],
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣[DRPY]","type":3,"api":"https://wzs1973.github.io/libs/drpy.min.js","ext":"https://wzs1973.github.io/JS/豆瓣.js"},
+{"key":"csp_XYQHiker","name":"电视直播","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wzs1973.github.io/XYQHiker/电视直播.json"}, 
 {"key":"csp_Bili","name":"哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://wzs1973.github.io/Bili/Bili.json"},
 {"key":"csp_搭讪","name":"搭讪","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://wzs1973.github.io/Bili/dashan.json"},
 {"key":"csp_搭配","name":"搭配","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://wzs1973.github.io/Bili/duodapei.json"},
