@@ -3,6 +3,10 @@
 {
     "urls": [
         {
+            "url": "https://wzs1973.github.io/pluto.json",
+            "name": "🏡自用"
+        },
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
             "name": "🏡ikbb"
         },
