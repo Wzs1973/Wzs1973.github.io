@@ -3,13 +3,21 @@
 {
     "urls": [
         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
-            "name": "🏡应用多多家庭版"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
+            "name": "🏡ikbb"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧记线路"
         },
+        {
+            "url": "https://agit.ai/Ltang/Tvsy/raw/branch/master/xq.json",
+            "name": "🚀xq线路"
+        },
+        {
+            "url": "https://agit.ai/fangzimo/TVBox/raw/branch/main/bgj66.json",
+            "name": "🚀bgj66线路"
+        },       
         {
             "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
             "name": "🚀公益线路"
