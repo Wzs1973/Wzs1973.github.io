@@ -18,8 +18,8 @@
             "name": "🐹俊佬线路"
         },
         {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "🐹猫友线路"
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "🐹潇洒线路"
         },
         {
             "url": "https://tvbox.cainisi.cf",
@@ -49,6 +49,10 @@
             "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
             "name": "🐹云星阿里"
         },
+        {
+            "url": "http://52bsj.vip:98/0805",
+            "name": "🐹吾爱有三"
+        },      
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "🐹agit/abc线路"
