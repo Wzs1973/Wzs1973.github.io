@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "{\r\n\"站名\":\"黄瓜TV\",\r\n\"主页url\":\"https://kkg51.com:33666/home/index.html\",\r\n\"直接播放\":\"1\",\r\n\"分类\":\"日韩无码$1316#欧美无码$1317#中文字幕$1318#日韩有码$1319#国产自拍$1320#国产偷拍$1321#卡通动漫$1322#三级剧情$1323#女优$1324#日韩女优$1325#欧美艳星$1347\",\r\n\"数组\":\"<a&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"/home/&&.html\\\"\",\r\n\"副标题\":\"<i>&&</i>\",\r\n\"简介\":\"https://j10.wnsimages.com/&&.jpg\",\r\n\"链接前缀\":\"https://kkg51.com:33666/home/\",\r\n\"链接后缀\":\".html\",\r\n\"分类url\":\"https://aaq48.com:33666/home/vodlist/38/{cateId}-{catePg}.html\",\r\n\"免嗅\":\"0\",\r\n\"嗅探词\":\".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma\"\r\n}"
+      "ext": "{\r\n\"站名\":\"黄瓜TV\",\r\n\"主页url\":\"https://kkg62.com:33666/home/index.html\",\r\n\"直接播放\":\"1\",\r\n\"分类\":\"日韩无码$1316#欧美无码$1317#中文字幕$1318#日韩有码$1319#国产自拍$1320#国产偷拍$1321#卡通动漫$1322#三级剧情$1323#女优$1324#日韩女优$1325#欧美艳星$1347\",\r\n\"数组\":\"<a&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"/home/&&.html\\\"\",\r\n\"副标题\":\"<i>&&</i>\",\r\n\"简介\":\"https://j10.wnsimages.com/&&.jpg\",\r\n\"链接前缀\":\"https://kkg51.com:33666/home/\",\r\n\"链接后缀\":\".html\",\r\n\"分类url\":\"https://aaq48.com:33666/home/vodlist/38/{cateId}-{catePg}.html\",\r\n\"免嗅\":\"0\",\r\n\"嗅探词\":\".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma\"\r\n}"
     },
     {
       "key": "csp_xBPQ_香蕉AV解说",
