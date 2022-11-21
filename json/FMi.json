@@ -2,9 +2,9 @@
 "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;D8E043B5E4D5806A4783F90EED8B4F78",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[
-{"name":"综合一","type":0,"url":"https://wzs1973.github.io/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"综合二","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},  
-{"name":"综合三","type":0,"url":"https://wzs1973.github.io/tv/tliveon.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+{"name":"直播一","type":0,"url":"https://wzs1973.github.io/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"直播二","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}  
+],
 // 字幕格式 (可选)
 "subtitle": {"color": "#FFFFFF", "size": "18"},
 // 启动密码
@@ -55,7 +55,6 @@
 {"key":"csp_Zjdr","name":"达人[SP]","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Bttoo","name":"Bttoo[SP]","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xxys","name":"小熊[SP]","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_ny","name":"念影[SP]","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "LIBVIO[SP]","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},  
 {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wzs1973.github.io/XPathMacFilter/Nmys.json"},
 {"key":"纸条","name":"纸条[SP]","type":"3","api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},  
@@ -87,17 +86,24 @@
 {"key":"Zhaozy","name":"资源[云盘]","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","jar":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
 {"key":"YiSo","name":"易搜[云盘]","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","jar":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
 {"key":"AliPS","name":"盘搜[云盘]","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","jar":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
-{"key":"push_agent","name":"推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","jar":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
+{"key":"push_agent","name":"推送[阿里]","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"a52cc59d21374117858c0dccb4b3c117","jar":"https://wzs1973.github.io/JAR/ts.jar;md5;f16e0facb2b93a7043ac21a96b45b610"},
 //XB--XP
 {"key":"csp_xpath_冷曦影视","name": "冷曦[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/冷曦影视.json"},  
 {"key":"csp_xpath_九亿国语","name": "九亿[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"},
 {"key":"csp_biubiu_骚火电影","name":"骚火[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/骚火电影.json"},
 {"key":"csp_biubiu_酷云影院","name":"酷云[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷云影院.json"},
-//xBQ	
-
+//XYQBiu--xBQ	
+{"key":"csp_XYQBiu_酷狗mv","name":"酷狗[XYQ]","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷狗mv.json"},
+{"key":"csp_XYQBiu_酷奇MV","name":"酷奇[XYQ]","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷奇MV.json"},  
+{"key":"csp_XBiu_回响影视","name":"回响[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
+{"key":"csp_xBPQ_石榴电影","name":"石榴[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/石榴电影.json"},
+{"key":"csp_xBPQ_热播库","name":"热播[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/热播库.json"},
+{"key":"csp_xBPQ_稀饭影院","name":"稀饭[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/稀饭影院.json"},
+{"key":"csp_xBPQ_秋霞电影","name":"秋霞[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/秋霞电影.json"},
+{"key":"csp_xBPQ_凌云影视","name":"凌云[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/凌云影视.json"},  
 //切片
 {"key":"百度资源","name":"百度[切]","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"快  播 云","name": "快播[切]","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
+{"key":"快 播 云","name":"快播[切]","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},  
 {"key":"诺迅资源","name":"诺迅[切]","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},  
 {"key":"无尽资源","name":"无尽[切]","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
 {"key":"松鼠资源","name":"松鼠[切]","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -107,7 +113,7 @@
 {"key":"红牛资源","name":"红牛[切]","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"新浪[切]","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"樱花[切]","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"北 斗 星", "name":"北斗[切]","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
+{"key":"北 斗 星","name":"北斗[切]","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
 {"key":"飘花资源","name":"飘花[切]","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"影库资源","name":"影库[切]","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":0}, 
 {"key":"CK  资源","name":"CK [切]","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
