@@ -96,7 +96,6 @@
 //XYQBiu--xBQ	
 {"key":"csp_XYQBiu_酷狗mv","name":"酷狗[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷狗mv.json"},
 {"key":"csp_XYQBiu_酷奇MV","name":"酷奇[XYQ]","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷奇MV.json"},
-{"key":"csp_XYQBiu_量子影视","name":"量子[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/量子影视.json"}, 
 {"key":"csp_XBiu_回响影视","name":"回响[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/石榴电影.json"},
 {"key":"csp_xBPQ_热播库","name":"热播[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/热播库.json"},
@@ -111,7 +110,7 @@
 {"key":"百度资源","name":"百度[切]","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"快 播 云","name":"快播[切]","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},  
 {"key":"诺迅资源","name":"诺迅[切]","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},  
-{"key":"无尽资源","name":"无尽[切]","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","国产剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","香港剧","台湾剧","韩国剧","日本剧","泰剧","美国剧","海外剧","悬疑片","动画片","犯罪片","奇幻片","伦理片","邵氏电影","体育赛事"]},  
+{"key":"无尽资源","name":"无尽[切]","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","国产剧","香港剧","台湾剧","韩国剧","日本剧","泰剧","美国剧","海外剧","悬疑片","动画片","犯罪片","奇幻片","伦理片","邵氏电影","体育赛事"]},  
 {"key":"松鼠资源","name":"松鼠[切]","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车[切]","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子[切]","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
