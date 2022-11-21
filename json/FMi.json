@@ -3,8 +3,8 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[
 {"name":"直播一","type":0,"url":"https://wzs1973.github.io/tv/TV.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},  
-{"name":"直播二","type":0,"url":"https://wzs1973.github.io/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"直播三","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],  
+{"name":"直播三","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+],  
 // 字幕格式 (可选)
 "subtitle": {"color": "#FFFFFF", "size": "18"},
 // 启动密码
@@ -109,7 +109,7 @@
 {"key":"百度资源","name":"百度[切]","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"快 播 云","name":"快播[切]","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},  
 {"key":"诺迅资源","name":"诺迅[切]","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},  
-{"key":"无尽资源","name":"无尽[切]","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0},  
+//{"key":"无尽资源","name":"无尽[切]","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0},  
 {"key":"松鼠资源","name":"松鼠[切]","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车[切]","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子[切]","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
