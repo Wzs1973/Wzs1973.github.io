@@ -7,20 +7,8 @@
       "type": 0,
       "url": "https://wzs1973.github.io/tv/18+.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby90di9saXZlLnR4dA=="
-          ]
-        }
-      ],
-      "epg":"http://epg.51zmt.top:8000/api/diyp/"
     }
-  ],
+  ],  
   "rules": [
     {
       "host": "www.6080dy1.com",
@@ -89,15 +77,6 @@
       "name": "360",
       "type": 3,
       "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nbys",
-      "name": "泥巴(墙)",
-      "type": 3,
-      "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -196,17 +175,6 @@
       "filterable": 0,
       "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
     },
-    {"key": "csp_biubiu_短视频","name": "️短视频(XB)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"},
-    {
-      "key": "csp_xb_zxzj",
-      "name": "在线之家(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://home.jundie.top:666/json/XBiu/zxzj.json"
-    },
     {
       "key": "csp_xb_auete",
       "name": "AUETE(XBiu)",
@@ -215,17 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://home.jundie.top:666/json/XBiu/auete.json"
-    },
-    {
-      "key": "csp_xb_lib",
-      "name": "LIB(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
+      "ext": "https://wzs1973.github.io/XBiu/auete.json"
     },
     {
       "key": "csp_xbpq_lgyy",
