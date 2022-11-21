@@ -93,9 +93,9 @@
 {"key":"csp_biubiu_骚火电影","name":"骚火[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/骚火电影.json"},
 {"key":"csp_biubiu_酷云影院","name":"酷云[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷云影院.json"},
 //XYQBiu--xBQ	
-{"key":"csp_XYQBiu_酷狗mv","name":"酷狗[XYQ]","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷狗mv.json"},
+{"key":"csp_XYQBiu_酷狗mv","name":"酷狗[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷狗mv.json"},
 {"key":"csp_XYQBiu_酷奇MV","name":"酷奇[XYQ]","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷奇MV.json"},
-{"key":"csp_XYQBiu_量子影视","name":"量子[XYQ]","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/量子影视.json"}, 
+{"key":"csp_XYQBiu_量子影视","name":"量子[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/量子影视.json"}, 
 {"key":"csp_XBiu_回响影视","name":"回响[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
 {"key":"csp_xBPQ_石榴电影","name":"石榴[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/石榴电影.json"},
 {"key":"csp_xBPQ_热播库","name":"热播[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/热播库.json"},
