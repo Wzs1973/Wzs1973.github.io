@@ -101,7 +101,11 @@
 {"key":"csp_xBPQ_热播库","name":"热播[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/热播库.json"},
 {"key":"csp_xBPQ_稀饭影院","name":"稀饭[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/稀饭影院.json"},
 {"key":"csp_xBPQ_秋霞电影","name":"秋霞[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/秋霞电影.json"},
-{"key":"csp_xBPQ_凌云影视","name":"凌云[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/凌云影视.json"},  
+{"key":"csp_xBPQ_凌云影视","name":"凌云[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/凌云影视.json"},
+{"key":"csp_xBPQ_兰花影院","name":"兰花[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/兰花影院.json"},
+{"key":"csp_xBPQ_黑狐影院","name":"黑狐[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/黑狐影院.json"},
+{"key":"csp_xBPQ_不休影院","name":"不休[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/不休影院.json"},
+{"key":"csp_xBPQ_纽约影院","name":"纽约[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/纽约影院.json"},  
 //切片
 {"key":"百度资源","name":"百度[切]","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"快 播 云","name":"快播[切]","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable": 0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},  
