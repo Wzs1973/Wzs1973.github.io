@@ -3,7 +3,7 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "lives":[
 {"name":"直播一","type":0,"url":"https://wzs1973.github.io/tv/TV.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},  
-{"name":"直播三","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+{"name":"直播二","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],  
 // 字幕格式 (可选)
 "subtitle": {"color": "#FFFFFF", "size": "18"},
@@ -34,7 +34,8 @@
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],  
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣热播","type":3,"api":"https://wzs1973.github.io/libs/drpy.min.js","ext":"https://wzs1973.github.io/JS/豆瓣.js"},
-{"key":"csp_XYQHiker","name":"柠檬直播","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wzs1973.github.io/XYQHiker/电视直播.json"},  
+{"key":"csp_XYQHiker","name":"柠檬直播","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wzs1973.github.io/XYQHiker/电视直播.json"},
+{"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://wzs1973.github.io/json/演唱会.json"},  
 {"key":"py_cctv","name":"央视[PY]","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wzs1973.github.io/plugin/py_cctv.py"},
 {"key":"py_bilimd","name":"影视[PY]","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wzs1973.github.io/plugin/py_bilimd.py"},
 {"key":"csp_Bili","name":"哔哩[SP]","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://wzs1973.github.io/Bili/Bili.json"},
