@@ -7,8 +7,12 @@
         },
         {
             "url": "http://饭太硬.ga/x/o.json",
-            "name": "🐹饭太硬线路"
+            "name": "🐹饭太硬a"
         },
+        {
+            "url": "http://cai999.tk/fty",
+            "name": "🐹饭太硬b"
+        },        
         {
             "url": "https://pandora2277.github.io/tang.bmp",
             "name": "🐹唐三线路"
