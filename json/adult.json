@@ -88,7 +88,7 @@
     },
     { 
       "key": "csp_XYQBiu_涩播",
-      "name": "涩播",
+      "name": "🔞涩播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -98,7 +98,7 @@
     },
     { 
       "key": "聚优直播",
-      "name": "聚优直播",
+      "name": "🔞聚优直播",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -108,7 +108,7 @@
     },
     {
       "key": "实时直播",
-      "name": "实时直播",
+      "name": "🔞实时直播",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -118,7 +118,7 @@
     },
     {
       "key": "18AV",
-      "name": "18AV",
+      "name": "🔞18AV",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -128,7 +128,7 @@
     },
     {
       "key": "AVIdeo",
-      "name": "AVIdeo",
+      "name": "🔞AVIdeo",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -138,7 +138,7 @@
     },
     {
       "key": "黄瓜TV",
-      "name": "黄瓜TV",
+      "name": "🔞黄瓜TV",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -148,7 +148,7 @@
     },
     {
       "key": "性欲轮回",
-      "name": "性欲轮回A",
+      "name": "🔞性欲轮回A",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -158,7 +158,7 @@
     },
     {
       "key": "性欲轮回",
-      "name": "性欲轮回B",
+      "name": "🔞性欲轮回B",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -168,7 +168,7 @@
     },
     {
       "key": "爱看影院",
-      "name": "爱看影院",
+      "name": "🔞爱看影院",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -178,7 +178,7 @@
     },
     {
       "key": "西瓜影视",
-      "name": "西瓜影视",
+      "name": "🔞西瓜影视",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -188,7 +188,7 @@
     },
     {
       "key": "爱爱影视",
-      "name": "爱爱影视",
+      "name": "🔞爱爱影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 0,
@@ -198,7 +198,7 @@
     },
     {
       "key": "api.kudian70.com",
-      "name": "酷伦理",
+      "name": "🔞酷伦理",
       "type": 1,
       "api": "http://api.kudian70.com/api.php/provide/vod/",
       "searchable": 1,
@@ -206,7 +206,7 @@
     },
     {
       "key": "feifei67.com",
-      "name": "CK资源",
+      "name": "🔞CK资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "playUrl": "https://ckm3u8.cc/?url=",
@@ -215,7 +215,7 @@
     },
     {
       "key": "api.kdapi.info",
-      "name": "酷豆资源",
+      "name": "🔞酷豆",
       "type": 1,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -223,7 +223,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "色猫资源",
+      "name": "🔞色猫",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "playUrl": "https://jiexi.99mao.xyz/m3u8/?url=",
@@ -232,7 +232,7 @@
     },
     {
       "key": "api.ykapi.net",
-      "name": "影库",
+      "name": "🔞影库",
       "type": 1,
       "api": "https://api.ykapi.net/api.php/provide/vod/",
       "searchable": 1,
@@ -240,7 +240,7 @@
     },
     {
       "key": "dmmapi.com",
-      "name": "大MM",
+      "name": "🔞大MM",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
       "searchable": 1,
@@ -248,15 +248,24 @@
     },
     {
       "key": "caiji.naichaapi.com",
-      "name": "奶茶网",
+      "name": "🔞奶茶网",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
       "filterable": 1
     },
     {
+      "key":"哥哥妹妹",
+      "name":"🔞哥妹资源",
+      "type":0,
+      "api":"http://www.ggmmzy.com:9999/inc/xml",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
       "key": "kudouzy.com",
-      "name": "酷豆网",
+      "name": "🔞酷豆网",
       "type": 1,
       "api": "https://kudouzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -264,7 +273,7 @@
     },
     {
       "key": "api.xiuseapi.com",
-      "name": "秀色资源",
+      "name": "🔞秀色资源",
       "type": 1,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/",
       "searchable": 1,
