@@ -35,7 +35,7 @@
 "sites":[
 {"key":"py_douban","name":"豆瓣影视","type":3,"api":"py_douban","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wzs1973.github.io/plugin/py_douban.py"},  
 {"key":"csp_XYQHiker","name":"柠檬直播","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wzs1973.github.io/XYQHiker/电视直播.json"},
-{"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://wzs1973.github.io/json/演唱会.json"},  
+{"key": "bilibili","name": "哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://wzs1973.github.io/json/bilibili.json"},  
 {"key":"py_cctv","name":"央视频道","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://wzs1973.github.io/plugin/py_cctv.py"},
 {"key":"py_bilibili","name":"哔哩哔哩","type":3,"api":"py_bilibili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wzs1973.github.io/plugin/py_bilibili.py"},  
 {"key":"py_bilimd","name":"哔哩影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wzs1973.github.io/plugin/py_bilimd.py"},
