@@ -93,7 +93,6 @@
 {"key":"csp_xpath_冷曦影视","name": "冷曦[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/冷曦影视.json"},  
 {"key":"csp_xpath_九亿国语","name": "九亿[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"},
 {"key":"csp_biubiu_骚火电影","name":"骚火[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/骚火电影.json"},
-{"key":"csp_biubiu_量子影视","name":"量子[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/量子影视.json"},  
 {"key":"csp_biubiu_酷云影院","name":"酷云[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷云影院.json"},
 //XYQBiu--xBQ	
 {"key":"csp_XYQBiu_酷狗mv","name":"酷狗[XYQ]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XYQBiu/酷狗mv.json"},
