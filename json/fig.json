@@ -18,12 +18,13 @@
       "searchable": 1,
       "filterable": 1,
       "ext": {
+        "杜比": "https://dubi.tk",
         "💢小雅":"http://alistxy.ganggang.live:5678",
         "🦀9T(Adult)": "https://drive.9t.ee",
         "🎭木偶":"https://www.kugutsu.ml",
-        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
-        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
-        "💂小兵组网盘影视": "https://6vv.app",
+        "🌤晴园": "https://alist.52qy.repl.co",
+        "🐭米奇": "https://anime.mqmmw.ga",
+        "💂小兵": "https://6vv.app",
         "🐋一只鱼": "https://alist.youte.ml",
         "🌊七米蓝": "https://al.chirmyram.com",
         "🥼帅盘": "https://hi.shuaipeng.wang",
@@ -133,54 +134,6 @@
       ]
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "PigAV",
-      "name": "PigAV",
-      "type": 3,
-      "api": "csp_PigAV",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MissAV",
-      "name": "MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Supjav",
-      "name": "Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_XYQBiu_涩播",
       "name": "涩播",
       "type": 3,
@@ -188,8 +141,129 @@
       "searchable": 1,
       "filterable": 1,
       "ext": "https://wzs1973.github.io/XYQBiu/涩播.json",
-      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar"
+      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar"      
     },
+    { 
+      "key": "聚优直播",
+      "name": "🔞聚优",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/聚优直播.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "实时直播",
+      "name": "🔞实时",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/实时直播.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.ja;md5;cbed3e092e72cf6a5daae15d3084bfcer"
+    },
+    {
+      "key": "18AV",
+      "name": "🔞18AV",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/18AV.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "AVIdeo",
+      "name": "🔞AVIdeo",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/AVideo.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "Banan",
+      "name": "🔞BananTV",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/banan.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },    
+    {
+      "key": "黄瓜TV",
+      "name": "🔞黄瓜TV",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/黄瓜TV.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "性欲轮回",
+      "name": "🔞性欲轮回A",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/性欲轮回.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "性欲轮回",
+      "name": "🔞性欲轮回B",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/性欲轮回[分类].json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "爱看影院",
+      "name": "🔞爱看",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/爱看影院.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "西瓜影视",
+      "name": "🔞西瓜",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/xBPQ/18/西瓜影视.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },
+    {
+      "key": "爱爱影视",
+      "name": "🔞爱爱",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/XB/18/爱爱影视.json",
+      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+    },    
     {
       "key": "api.ykapi.net",
       "name": "影库",
@@ -208,7 +282,7 @@
     },
     {
       "key": "api.kdapi.info",
-      "name": "酷豆资源",
+      "name": "酷豆",
       "type": 1,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -216,7 +290,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "色猫资源",
+      "name": "色猫",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "playUrl": "https://jiexi.99mao.xyz/m3u8/?url=",
@@ -233,7 +307,7 @@
     },
     {
       "key": "caiji.naichaapi.com",
-      "name": "奶茶网",
+      "name": "奶茶",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -241,7 +315,7 @@
     },
     {
       "key": "api.xiuseapi.com",
-      "name": "秀色资源",
+      "name": "秀色",
       "type": 1,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/",
       "searchable": 1,
