@@ -1244,38 +1244,6 @@
       "name": "钢铁侠",
       "type": 1,
       "url": "https://json.freejx.in/?url="
-    },
-    {
-      "name": "插萝莉慢",
-      "type": 1,
-      "url": "http://101.34.67.237/parse/api/插萝莉慢.js?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "leshi",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "xigua",
-          "fun",
-          "风行"
-        ],
-        "header": {"User-Agent": "Mozilla/5.0"}
     }, 
     {
       "name": "365",
