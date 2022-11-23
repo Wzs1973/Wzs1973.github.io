@@ -444,6 +444,15 @@
       "filterable": 1
     },
     {
+      "key":"哥哥妹妹",
+      "name":"🔞哥妹资源",
+      "type":0,
+      "api":"http://www.ggmmzy.com:9999/inc/xml",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
       "key": "櫻花",
       "name": "櫻花",
       "type": 3,
@@ -503,5 +512,81 @@
       "filterable": 0,
       "ext": "69355eb2358747f49889c444126ef089"
     }
-  ]
+  ],
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "插萝莉慢",
+      "type": 1,
+      "url": "http://101.34.67.237/parse/api/插萝莉慢.js?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "leshi",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {"User-Agent": "Mozilla/5.0"}},
+        "header": {"User-Agent": "Mozilla/5.0"}}
+    },       
 }
