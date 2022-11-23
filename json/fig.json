@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/custom_spider.jar;md5;2ea843631a94122807d0765131c5ccb5",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;D8E043B5E4D5806A4783F90EED8B4F78",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -274,8 +274,7 @@
       "api": "XYQBiu",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://wzs1973.github.io/XYQBiu/涩播.json",
-      "jar": "https://wzs1973.github.io/JAR/XYQPlugin_1016.jar"      
+      "ext": "https://wzs1973.github.io/XYQBiu/涩播.json"      
     },
     { 
       "key": "聚优直播",
@@ -285,8 +284,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/聚优直播.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/聚优直播.json"
     },
     {
       "key": "实时直播",
@@ -296,8 +294,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/实时直播.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.ja;md5;cbed3e092e72cf6a5daae15d3084bfcer"
+      "ext": "https://wzs1973.github.io/xBPQ/18/实时直播.json"
     },
     {
       "key": "18AV",
@@ -307,8 +304,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/18AV.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/18AV.json"
     },
     {
       "key": "AVIdeo",
@@ -318,8 +314,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/AVideo.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/AVideo.json"
     },
     {
       "key": "Banan",
@@ -329,8 +324,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/banan.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/banan.json"
     },    
     {
       "key": "黄瓜TV",
@@ -340,8 +334,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/黄瓜TV.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/黄瓜TV.json"
     },
     {
       "key": "性欲轮回",
@@ -351,8 +344,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/性欲轮回.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/性欲轮回.json"
     },
     {
       "key": "性欲轮回",
@@ -362,8 +354,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/性欲轮回[分类].json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/性欲轮回[分类].json"
     },
     {
       "key": "爱看影院",
@@ -373,8 +364,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/爱看影院.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/爱看影院.json"
     },
     {
       "key": "西瓜影视",
@@ -384,8 +374,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/xBPQ/18/西瓜影视.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/xBPQ/18/西瓜影视.json"
     },
     {
       "key": "爱爱影视",
@@ -395,8 +384,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/XB/18/爱爱影视.json",
-      "jar": "https://wzs1973.github.io/JAR/xBPQ.jar;md5;cbed3e092e72cf6a5daae15d3084bfce"
+      "ext": "https://wzs1973.github.io/XB/18/爱爱影视.json"
     },    
     {
       "key": "api.ykapi.net",
