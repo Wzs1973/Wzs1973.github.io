@@ -15,8 +15,9 @@
       "name": "Alist",
       "type": 3,
       "api": "csp_Alist",
-      "searchable": 1,
-      "filterable": 1,
+      "searchable": 0,
+      "quickSearch":0,
+      "filterable": 0,
       "ext": "https://wzs1973.github.io/json/alist1.json"
     },
     {
@@ -267,15 +268,6 @@
         "体育赛事"
       ]
     },    
-    {
-      "key": "csp_XYQBiu_涩播",
-      "name": "涩播",
-      "type": 3,
-      "api": "XYQBiu",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://wzs1973.github.io/XYQBiu/涩播.json"      
-    },
     { 
       "key": "聚优直播",
       "name": "🔞聚优",
@@ -375,20 +367,10 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://wzs1973.github.io/xBPQ/18/西瓜影视.json"
-    },
-    {
-      "key": "爱爱影视",
-      "name": "🔞爱爱",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://wzs1973.github.io/XB/18/爱爱影视.json"
     },    
     {
       "key": "api.ykapi.net",
-      "name": "影库",
+      "name": "🔞影库",
       "type": 1,
       "api": "https://api.ykapi.net/api.php/provide/vod/",
       "searchable": 1,
@@ -396,7 +378,7 @@
     },
     {
       "key": "api.kudian70.com",
-      "name": "酷伦理",
+      "name": "🔞酷伦理",
       "type": 1,
       "api": "http://api.kudian70.com/api.php/provide/vod/",
       "searchable": 1,
@@ -404,7 +386,7 @@
     },
     {
       "key": "api.kdapi.info",
-      "name": "酷豆",
+      "name": "🔞酷豆",
       "type": 1,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -412,7 +394,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "色猫",
+      "name": "🔞色猫",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "playUrl": "https://jiexi.99mao.xyz/m3u8/?url=",
@@ -421,7 +403,7 @@
     },
     {
       "key": "dmmapi.com",
-      "name": "大MM",
+      "name": "🔞大MM",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
       "searchable": 1,
@@ -429,7 +411,7 @@
     },
     {
       "key": "caiji.naichaapi.com",
-      "name": "奶茶",
+      "name": "🔞奶茶",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -437,7 +419,7 @@
     },
     {
       "key": "api.xiuseapi.com",
-      "name": "秀色",
+      "name": "🔞秀色",
       "type": 1,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/",
       "searchable": 1,
