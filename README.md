@@ -21,14 +21,6 @@ file:///storage/emulated/0/TVBox/pluto.json
 clan://TVBox/pluto.json
 file://TVBox/pluto.json
 
-### Dream 开发的微信小程序版 编辑器
-
-![logo](static/gh_16e4613251a6_258.jpg)
-
-### PC Web版
-
-https://catvodtvofficial.github.io/CatVodTVJsonEditor/
-
 TVBox配置接口
 
 唐三：https://白嫖.live/唐三
@@ -103,51 +95,26 @@ http://cai999.tk/
 
 https://github.com/tv-player/TvBox
 
+唐三图床jar下载：
 
-## TVBox配置编辑器：
+唐三接口网址：
+https://hutool.ml/tang 下载后是个图片，用编辑器转代码，http://cron.qiqiv.cn/cron/abc/123/ 
 
-https://kvymin.github.io/CatVodTVJsonEditor/
+从接口里找到jar的网址：img+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-8f718e33-92c3-4e6d-b76b-e8fb9d8e4006/9319545d-d769-4413-9810-27bac1ceab85.bmp
 
-## 给TVbox站源添加符号:
-
-很多人喜欢给TVbox的站源或者电视直播频道自定义一个符号，比如下面这类，实际上就是增加了网页符号。
-
-
-![640](https://user-images.githubusercontent.com/102397160/181132511-1bfac13d-88bb-42ce-8d1a-94e253c8379d.png)
-
-这里推荐两个非常不错的网页符号复制粘贴地址。
-
-https://funletu.com/emoji/
-
-https://www.emojiall.com/zh-hans
+复制img+后边的网址，下载下来还是个图片，在用编辑器转代码，http://cron.qiqiv.cn/cron/abc/123/ 转好后，改后缀为jar，ok。
 
 ## Cloudreve个人网盘GitHub开源地址：
 
 https://github.com/cloudreve/Cloudreve
 
-## 比较牛逼的仓库：
-
-唐三大佬仓库地址：https://github.com/Tangsan99999/TvJar
-
-巧技大佬仓库地址：https://gitea.com/qiaoji
-
-于俊大佬+唐三大佬+影魔大佬=官仓延续：
-
-https://github.com/q215613905/TVBoxOS
-
-TV猫盒：这个不赖
+## TV猫盒：这个不赖
 
 https://github.com/kensonmiao/CatVodTVOSC
 
 pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级，目前不支持低版本安卓。
 
 https://github.com/pluto-player/updates
-
-takagen99：
-
-https://github.com/takagen99/TVBoxOSC
-
-o0HalfLife0o：
 
 https://github.com/o0HalfLife0o/TVBoxOSC
 
