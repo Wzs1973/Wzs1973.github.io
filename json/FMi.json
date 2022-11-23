@@ -93,7 +93,8 @@
 {"key":"csp_xpath_冷曦影视","name": "冷曦[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/冷曦影视.json"},  
 {"key":"csp_xpath_九亿国语","name": "九亿[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/九亿国语.json"},
 {"key":"csp_xpath_独 播 库","name": "独播[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XPathMacFilter/独播库.json"},
-{"key":"csp_biubiu_酷我音乐","name":"酷我[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷我音乐.json"},  
+{"key":"csp_biubiu_酷我音乐","name":"酷我[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷我音乐.json"}, 
+{"key":"csp_biubiu_量子影视","name":"量子[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/量子影视.json"},   
 {"key":"csp_biubiu_搜狗影院","name":"搜狗[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/搜狗影院.json"},
 {"key":"csp_biubiu_骚火电影","name":"骚火[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/骚火电影.json"},  
 {"key":"csp_biubiu_酷云影院","name":"酷云[XB]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/XB/酷云影院.json"},
@@ -108,7 +109,7 @@
 {"key":"csp_xBPQ_凌云影视","name":"凌云[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/凌云影视.json"},
 {"key":"csp_xBPQ_兰花影院","name":"兰花[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/兰花影院.json"},
 {"key":"csp_xBPQ_黑狐影院","name":"黑狐[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/黑狐影院.json"},
-{"key":"csp_xBPQ_量子影视","name":"量子[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/量子影视.json"},  
+
 {"key":"csp_xBPQ_不休影院","name":"不休[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/不休影院.json"},
 {"key":"csp_xBPQ_纽约影院","name":"纽约[xBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wzs1973.github.io/xBPQ/纽约影院.json"},  
 //切片
