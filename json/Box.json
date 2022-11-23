@@ -4,10 +4,11 @@
 //-------------------------------------------------------------壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //-------------------------------------------------------------直播--------------------------------------------------------------------\\
-"lives":[
+  "lives":[
 {"name":"直播一","type":0,"url":"https://wzs1973.github.io/tv/TV.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"直播三","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
-],
+{"name":"直播二","type":0,"url":"https://wzs1973.github.io/tv/18+.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},    
+{"name":"YouTube","type":0,"url":"https://wzs1973.github.io/tv/youtube.m3u"},
+{"name":"MV","type":0,"url":"https://wzs1973.github.io/tv/MV.txt"}],    
 //-------------------------------------------------------------SP--------------------------------------------------------------------\\
   "sites": [
     {
