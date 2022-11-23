@@ -14,9 +14,13 @@
             "name": "🐹饭太硬b"
         },        
         {
-            "url": "https://pandora2277.github.io/tang.bmp",
+            "url": "https://白嫖.live/唐三",
             "name": "🐹唐三线路"
         },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🐹巧技线路"
+        },        
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🐹俊佬线路"
@@ -26,8 +30,12 @@
             "name": "🐹潇洒线路"
         },
         {
-            "url": "https://tvbox.cainisi.cf",
+            "url": "https://白嫖.live/莱妮丝",
             "name": "🐹菜妮线路"
+        },
+        {
+            "url": "http://drpy.site/js1",
+            "name": "🐹小雅js线路"
         },        
         {
             "url": "http://byyds.top/w.txt",
