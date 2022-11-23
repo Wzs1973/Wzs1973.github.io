@@ -248,6 +248,36 @@
       "ext": "https://wzs1973.github.io/XPathMacFilter/Nmys.json"
     },
     {
+      "key": "drpy_js_菜狗",
+      "name": "搜狗影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/JS/菜狗.js"
+    },
+    {
+      "key": "drpy_js_量子影视",
+      "name": "量子影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/量子影视.js"
+    },
+    {
+      "key": "drpy_js_小宝影视",
+      "name": "小宝影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/小宝影视.js"
+    },
+    {
       "key": "csp_Nkdy",
       "name": "南柯电影",
       "type": 3,
