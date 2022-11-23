@@ -453,52 +453,46 @@
       "filterable":0
     },
     {
-      "key": "櫻花",
-      "name": "櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "紙條",
       "name": "紙條",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "filterable": 1,
       "ext": "69355eb2358747f49889c444126ef089"
     },
     {
+      "key": "找资源",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "69355eb2358747f49889c444126ef089"
+    },    
+    {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
-      "api": "csp_YiSo",
+      "api": "csp_Yisou",
       "searchable": 1,
       "filterable": 0,
       "ext": "69355eb2358747f49889c444126ef089"
     },
     {
+      "key": "云搜",
+      "name": "云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "69355eb2358747f49889c444126ef089"
+    },    
+    {
       "key": "盤搜",
       "name": "盤搜",
       "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_AliPS",
       "searchable": 1,
       "filterable": 0,
       "ext": "69355eb2358747f49889c444126ef089"
@@ -507,7 +501,7 @@
       "key": "push_agent",
       "name": "推送",
       "type": 3,
-      "api": "csp_Push",
+      "api": "csp_PushAgent",
       "searchable": 1,
       "filterable": 0,
       "ext": "69355eb2358747f49889c444126ef089"
