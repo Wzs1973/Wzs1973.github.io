@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;D8E043B5E4D5806A4783F90EED8B4F78",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
@@ -589,4 +589,4 @@
         "header": {"User-Agent": "Mozilla/5.0"}},
         "header": {"User-Agent": "Mozilla/5.0"}}
     }       
-}
+]
