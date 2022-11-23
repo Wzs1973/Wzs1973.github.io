@@ -95,6 +95,10 @@ http://cai999.tk/
 
 https://github.com/tv-player/TvBox
 
+香雅情仓库
+
+https://framagit.org/lzk23559/tvbox
+
 唐三图床jar下载：
 
 唐三接口网址：
