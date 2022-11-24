@@ -202,7 +202,9 @@ jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-ru
 jar打包成功实例仓库：仅供参考，自行添加新的，删除或者修改失效的。https://github.com/dlgt7/TvJar
 
 
-Fork始点，地位特殊：https://github.com/Tangsan99999/TvJar
+Fork始点，地位特殊：
+
+https://github.com/Tangsan99999/TvJar
 
 https://github.com/Kimlee-cmd/TvJar
 
@@ -220,7 +222,7 @@ https://github.com/sec-an/TV_Spider
 
 https://down.52pojie.cn/Tools/
 
- 1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html  
+1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html  
  
 2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm 
 
