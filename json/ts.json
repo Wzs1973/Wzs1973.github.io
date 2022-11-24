@@ -199,7 +199,7 @@
       "name": "豆瓣热播",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "Wzs1973.github.io/JS/豆瓣.js",
+      "ext": "https://Wzs1973.github.io/JS/豆瓣.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
