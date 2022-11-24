@@ -62,6 +62,16 @@
       "ext": "https://wzs1973.github.io/json/alist1.json"
     },
     {
+      "key": "csp_XYQBiu_抓饭直播",
+      "name":"抓饭直播",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/XYQBiu/抓饭直播.json"
+    },    
+    {
       "key": "csp_kuaikan",
       "name":" 快看影视",
       "type": 3,
