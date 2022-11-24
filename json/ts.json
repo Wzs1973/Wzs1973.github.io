@@ -102,7 +102,119 @@
         "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
       ]
     }
-  ], 
+  ],
+// 驱动器 (可选)  
+  "drives": [
+    {
+      "name":"阿里云盘",
+      "password":"04e93560857c4839b8738691c087672d",
+      "type":"alidrive"
+    },
+    {
+      "name": "小棉袄",
+      "plugin": "alist",
+      "server": "http://pan.haikuoshijie.cn/",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "小雅",
+      "plugin": "alist",
+      "server": "http://alist.xiaoya.pro",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "晴园",
+      "plugin": "alist",
+      "server": "https://alist.52qy.repl.co",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "杜比",
+      "plugin": "alist",
+      "server": "https://dubi.tk",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "小兵",
+      "plugin": "alist",
+      "server": "https://6vv.app",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },    
+    {
+      "name": "菊花盘",
+      "plugin": "alist",
+      "server": "https://pan.142856.xyz",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "资源小站",
+      "plugin": "alist",
+      "server": "https://960303.xyz/",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "好汉吧",
+      "plugin": "alist",
+      "server": "https://8023.haohanba.cn",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },    
+    {
+      "name": "姬路白雪",
+      "plugin": "alist",
+      "server": "https://pan.jlbx.xyz/",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "触光",
+      "plugin": "alist",
+      "server": "https://pan.ichuguang.com",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },    
+    {
+      "name": "听闻",
+      "plugin": "alist",
+      "server": "https://wangpan.sangxuesheng.com/",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "9T",
+      "plugin": "alist",
+      "server": "https://drive.9t.ee/",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    },
+    {
+      "name": "木偶",
+      "plugin": "alist",
+      "server": "https://www.kugutsu.ml/",
+      "userName":"",
+      "password":"",
+      "type":"plugin"
+    }
+  ],
 //-------------------------------------------------------------SP--------------------------------------------------------------------\\
   "sites": [
     {
