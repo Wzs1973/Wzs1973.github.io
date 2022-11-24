@@ -109,8 +109,8 @@
       "key": "豆瓣",
       "name": "豆瓣热播",
       "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://Wzs1973.github.io/JS/豆瓣.js",
+      "api": "csp_XBiubiu",
+      "ext": "https://wzs1973.github.io/XB/豆瓣.json",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
