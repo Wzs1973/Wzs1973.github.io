@@ -1,6 +1,6 @@
 {
 //-------------------------------------------------------------JAR--------------------------------------------------------------------\\
-  "spider": "https://wzs1973.github.io/JAR/ts.jar;md5;45b1bee74341deaafbcf02616d1563f3",
+  "spider": "https://wzs1973.github.io/JAR/custom_spider.jar;md5;9A707A27CD95BFB2890630D7392BF1E2",
 //-------------------------------------------------------------壁纸--------------------------------------------------------------------\\
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //-------------------------------------------------------------直播--------------------------------------------------------------------\\
@@ -431,9 +431,39 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"    
     },
-
+//-------------------------------------------------------------drpy--------------------------------------------------------------------\\
+    {
+      "key": "drpy_js_菜狗",
+      "name": "搜狗影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/JS/菜狗.js"
+    },
+    {
+      "key": "drpy_js_量子影视",
+      "name": "量子影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/量子影视.js"
+    },
+    {
+      "key": "drpy_js_小宝影视",
+      "name": "小宝影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/小宝影视.js"
+    },    
 //-------------------------------------------------------------xBPQ--------------------------------------------------------------------\\
     {
       "key": "csp_xBPQ_zf",
