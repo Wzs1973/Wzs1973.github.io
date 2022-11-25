@@ -194,7 +194,7 @@
     },
     {
       "key": "csp_Alist1",
-      "name": "Alist网盘",
+      "name": "Alist",
       "type": 3,
       "api": "csp_Alist",
       "searchable": 0,
@@ -393,14 +393,15 @@
       "ext":"9248c57eb22ace4a3431fbd1a979465f"
     },
     {
-      "key":"Gitcafe",
-      "name":"纸条",
-      "type":"3",
-      "api":"csp_Gitcafe",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"https://wzs1973.github.io/token.txt"
+      "key": "csp_GitCafe",
+      "name": "纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key":"Lib",
