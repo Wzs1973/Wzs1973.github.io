@@ -1,6 +1,6 @@
 {
-  "spider": "http://cai999.tk/xo.jar",
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "spider": "https://wzs1973.github.io/JAR/to.jar",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "group": "redirect",
@@ -170,7 +170,7 @@
     },
     {
       "key": "csp_77",
-      "name": "👒七七┃SP",
+      "name": "酷云",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -207,7 +207,7 @@
     },
     {
       "key": "csp_Dy1010",
-      "name": "❤️双十┃SP",
+      "name": "双十",
       "type": 3,
       "api": "csp_Dy1010",
       "searchable": 1,
@@ -216,7 +216,7 @@
     },
     {
       "key": "csp_zxzj",
-      "name": "📗在线┃SP",
+      "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -225,7 +225,7 @@
     },
     {
       "key": "csp_Smdyy",
-      "name": "🐴神马┃SP",
+      "name": "神马",
       "type": 3,
       "api": "csp_Smdyy",
       "searchable": 1,
@@ -234,7 +234,7 @@
     },
     {
       "key": "csp_ny",
-      "name": "🐮念影┃SP",
+      "name": "念影",
       "type": 3,
       "api": "csp_Nianying",
       "searchable": 1,
@@ -326,7 +326,7 @@
     },
     {
       "key": "teng",
-      "name": "腾讯视频",
+      "name": "腾讯",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -344,7 +344,7 @@
     },
     {
       "key": "MGT",
-      "name": "芒果TV",
+      "name": "芒果",
       "type": 3,
       "api": "csp_Mgtv",
       "searchable": 1,
@@ -353,7 +353,7 @@
     },
     {
       "key": "csp_Wmkk",
-      "name": "完美看看",
+      "name": "完美",
       "type": 3,
       "api": "csp_Wmkk",
       "searchable": 1,
@@ -362,7 +362,7 @@
     },
     {
       "key": "csp_EEEDY",
-      "name": "💮飘花┃SP",
+      "name": "飘花",
       "type": 3,
       "api": "csp_EEEDY",
       "playerType": 2,
@@ -372,7 +372,7 @@
     },
     {
       "key": "csp_jihuang",
-      "name": "🚀剧荒┃SP",
+      "name": "剧荒",
       "type": 3,
       "api": "csp_Juhuang",
       "searchable": 1,
@@ -381,7 +381,7 @@
     },
     {
       "key": "csp_ZJMiao",
-      "name": "🐼追剧喵┃SP",
+      "name": "追剧喵",
       "type": 3,
       "api": "csp_ZJMiao",
       "searchable": 1,
@@ -390,7 +390,7 @@
     },
     {
       "key": "csp_Mjxq",
-      "name": "🌏美剧星球┃SP",
+      "name": "美剧",
       "type": 3,
       "api": "csp_Mjxq",
       "searchable": 1,
@@ -398,28 +398,10 @@
       "filterable": 1
     },
     {
-      "key": "csp_Yj1211",
-      "name": "📽️网红直播┃SP",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Dm84",
-      "name": "🚌动漫巴士┃SP",
+      "name": "动漫",
       "type": 3,
       "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🐾日本动漫┃SP",
-      "type": 3,
-      "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -516,7 +498,7 @@
     },
     {
       "key": "csp_xBPQ_zf",
-      "name": "🏀抓饭体育",
+      "name": "抓饭体育",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 0,
@@ -526,7 +508,7 @@
     },
     {
       "key": "csp_XYQBiu_酷奇",
-      "name": "🎤明星MTV",
+      "name": "🎤酷奇",
       "type": 3,
       "api": "XYQBiu",
       "searchable": 0,
@@ -536,7 +518,7 @@
     },
     {
       "key": "csp_XYQBiu_聚合短视频",
-      "name": "📽️聚短视频",
+      "name": "聚短视频",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -639,7 +621,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🛴推送┃手机",
+      "name": "推送",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": 1,
