@@ -24,7 +24,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby90di8lRTYlOUMlODglRTUlODUlODklRTUlQUUlOUQlRTclOUIlOTIudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby90di9UVi50eHQ="
           ]
         }
       ]
@@ -70,18 +70,28 @@
   ],        
   "sites":[
     {
-      "key": "豆瓣",
+      "key": "js_豆瓣",
       "name": "🅱豆瓣热播",
       "type": 3,
-      "api": "csp_XBiubiu",
-      "ext": "https://wzs1973.github.io/XB/豆瓣.json",
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/豆瓣.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
+      "key": "js_兔小贝",
+      "name": "📚儿童启蒙",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/兔小贝.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
       "key": "csp_Bili",
-      "name": "🅱哔哩合集",
+      "name": "哔哩合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -91,7 +101,7 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "🅱看演唱会",
+      "name": "演唱会",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -545,8 +555,9 @@
     {
       "key": "dr_兔小贝",
       "name": "📚儿童启蒙",
-      "type": 1,
-      "api": "http://dr.饭太硬.ml/vod?rule=兔小贝",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/兔小贝.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
