@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/custom_spider.jar;md5;9A707A27CD95BFB2890630D7392BF1E2",
+  "spider": "https://wzs1973.github.io/JAR/fo.jar;md5;4F40678F12BA9D6FCD06DD6B59C95F31",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //-------------------------------------------------------------直播--------------------------------------------------------------------\\
   "lives":[
@@ -82,7 +82,7 @@
   "drives": [
     {
       "name":"阿里云盘",
-      "password":"04e93560857c4839b8738691c087672d",
+      "password":"*",
       "type":"alidrive"
     },
     {
@@ -193,11 +193,13 @@
       "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/json/bilibili.json"
     },
     {
-      "key": "AList",
+      "key": "csp_Alist1",
       "name": "Alist网盘",
-      "type": "3",
-      "api": "csp_AList",
-      "searchable": "1",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
       "ext": "https://wzs1973.github.io/json/alist1.json"
     },
     {
@@ -431,54 +433,59 @@
       "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
-      "key":"Upso",
-      "name":"云搜",
-      "type":"3",
-      "api":"csp_Upso",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"https://wzs1973.github.io/token.txt"
+      "key": "Upyunso",
+      "name": "云搜┃搜索",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"Zhaozy",
-      "name":"资源",
-      "type":"3",
-      "api":"csp_Zhaozy",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"https://wzs1973.github.io/token.txt"
+      "key": "Zhaozy",
+      "name": "资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"YiSo",
-      "name":"易搜",
-      "type":"3",
-      "api":"csp_YiSo",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"https://wzs1973.github.io/token.txt"
+      "key": "Yisou",
+      "name": "易搜┃搜索",
+      "type": 3,
+      "api": "csp_Yisou",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"AliPS",
-      "name":"盘搜",
-      "type":"3",
-      "api":"csp_AliPS",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"https://wzs1973.github.io/token.txt"
+      "key": "Alips",
+      "name": "阿里┃搜索",
+      "type": 3,
+      "api": "csp_AliPS",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"push_agent",
-      "name":"PushAgent",
-      "type":"3",
-      "api":"csp_PushAgent",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"https://wzs1973.github.io/token.txt"    
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "playerType": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
 //-------------------------------------------------------------drpy--------------------------------------------------------------------\\
     {
@@ -520,7 +527,37 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/小宝影视.js"
+    },
+    {
+      "key": "drpy_js_布雷蓝光",
+      "name": "布雷蓝光",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/布雷蓝光.js"
+    },
+    {
+      "key": "drpy_js_回响影视",
+      "name": "回响影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/回响影视.js"
     },    
+    {
+      "key": "drpy_js_落攻阁",
+      "name": "落攻阁",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/落攻阁影视.js"
+    },   
 //-------------------------------------------------------------xBPQ--------------------------------------------------------------------\\
     {
       "key": "csp_xBPQ_zf",
@@ -531,36 +568,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/抓饭体育.json"
-    },
-    {
-      "key": "csp_xBPQ_胖虎影视",
-      "name": "胖虎影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/胖虎影视.json"
-    },
-    {
-      "key": "csp_xBPQ_石榴电影",
-      "name": "石榴电影",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/石榴电影.json"
-    },
-    {
-      "key": "csp_xBPQ_回响影视",
-      "name": "回响影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/回响影视.json"
     },
     {
       "key": "csp_xBPQ_吼吼影视",
@@ -671,26 +678,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/VOFLIX.json"
-    },
-    {
-      "key": "csp_xBPQ_鸭奈飞",
-      "name": "鸭奈飞",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/鸭奈飞.json"
-    },
-    {
-      "key": "csp_xBPQ_落攻阁",
-      "name": "落攻阁",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/落攻阁.json"
     },
     {
       "key": "csp_xBPQ_淘剧鸭",
