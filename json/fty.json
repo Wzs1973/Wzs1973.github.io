@@ -553,16 +553,6 @@
       "ext": "https://wzs1973.github.io/XYQBiu/酷奇MV.json"
     },
     {
-      "key": "dr_兔小贝",
-      "name": "📚儿童启蒙",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/兔小贝.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "Yisou",
       "name": "易搜┃搜索",
       "type": 3,
