@@ -315,16 +315,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Jianying",
-      "name": "简影",
-      "api": "csp_JianYing",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"
-    },
-    {
       "key": "csp_Lezhu",
       "name": "乐猪",
       "type": 3,
@@ -570,7 +560,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alitoken.json"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Zhaozy",
@@ -581,7 +571,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alitoken.json"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Upyunso",
@@ -592,7 +582,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alitoken.json"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "Alips",
@@ -603,7 +593,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alitoken.json"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "push_agent",
@@ -614,7 +604,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alitoken.json"
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
       "key": "csp_xBPQ_柠檬直播",
