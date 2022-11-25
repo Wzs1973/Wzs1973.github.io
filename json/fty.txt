@@ -1,10 +1,26 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/to.jar",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;9D768BE18080C6F5437BBE29AC6484BC",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "group": "redirect",
       "channels": [
+        {
+          "name":"直播一",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/TV.txt",
+          "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+          "name":"直播二",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/18.txt"
+        },
+        {
+          "name":"MTV",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/四万MV.txt"
+        },        
         {
           "name": "live",
           "urls": [
