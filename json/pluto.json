@@ -371,17 +371,6 @@
       "ext":"6deed4548c44b18d268a5d828f04d86e"
     },
     {
-      "key": "csp_GitCafe",
-      "name": "纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
-    {
       "key":"Gitcafe",
       "name":"纸条",
       "type":"3",
