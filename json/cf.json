@@ -383,16 +383,6 @@
       "ext":"6deed4548c44b18d268a5d828f04d86e"
     },
     {
-      "key":"SP360",
-      "name":"SP360",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"9248c57eb22ace4a3431fbd1a979465f"
-    },
-    {
       "key": "csp_GitCafe",
       "name": "纸条",
       "type": 3,
@@ -433,6 +423,43 @@
       "filterable":"1",
       "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
+    {
+      "key":"SP360",
+      "name":"360",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"9248c57eb22ace4a3431fbd1a979465f"
+    },    
+    {
+      "key": "腾讯",
+      "name": "腾讯",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ai",
+      "name": "爱奇艺",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "芒果",
+      "name": "芒果",
+      "type": 3,
+      "api": "csp_Mgtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
     {
       "key": "Upyunso",
       "name": "云搜┃搜索",
@@ -568,16 +595,6 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/私人影院.js"
-    },
-    {
-      "key": "drpy_js_爱猫影院",
-      "name": "爱猫影院",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://wzs1973.github.io/JS/爱猫影院.js"
     },    
     {
       "key": "drpy_js_落攻阁",
