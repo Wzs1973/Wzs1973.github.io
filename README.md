@@ -23,7 +23,7 @@ file://TVBox/pluto.json
 
 TVBox配置接口
 
-唐三：https://白嫖.live/唐三
+唐三：https://hutool.ml/tang
 
 FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
