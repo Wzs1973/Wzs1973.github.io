@@ -363,16 +363,6 @@
       "ext":"b88de1329655cca1beba45aa9776de70"
     },
     {
-      "key":"Czsapp",
-      "name":"厂长",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"8ee655f702d0d21f3643504783babbc3"
-    },
-    {
       "key":"LiteApple",
       "name":"苹果",
       "type":"3",
