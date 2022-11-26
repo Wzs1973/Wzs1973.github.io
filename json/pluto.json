@@ -553,6 +553,16 @@
       "ext": "https://wzs1973.github.io/JS/独播库.js"
     },
     {
+      "key": "drpy_js_布雷蓝光",
+      "name": "布雷蓝光",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/布雷蓝光.js"
+    },    
+    {
       "key": "drpy_js_优酷",
       "name": "优酷视频",
       "type": 3,
