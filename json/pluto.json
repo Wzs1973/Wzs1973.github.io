@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/fo.jar;md5;4F40678F12BA9D6FCD06DD6B59C95F31",
+  "spider": "https://wzs1973.github.io/JAR/cs.jar;md5;D5F107D08909A59C5100ED5CDA4569E8",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //-------------------------------------------------------------直播--------------------------------------------------------------------\\
   "lives":[
@@ -177,8 +177,8 @@
       "name":"演唱会",
       "type":"3",
       "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
+      "searchable":"0",
+      "quickSearch":"0",
       "filterable":"1",
       "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/json/演唱会.json"
     },
@@ -551,7 +551,47 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/独播库.js"
-    },    
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷视频",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/优酷.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "奇异果",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒果TV",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/百忙无果.js"
+    },
+     {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/腾云驾雾.js"
+    },   
 //-------------------------------------------------------------xBPQ--------------------------------------------------------------------\\
     {
       "key": "csp_xBPQ_zf",
@@ -1237,6 +1277,15 @@
         "伦理片"
       ]
     },
+    {
+      "key": "樱花",
+      "name": "樱花云",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },    
     {
       "key":"push_agent",
       "name":"推送",
