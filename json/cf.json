@@ -456,7 +456,7 @@
       "key": "芒果",
       "name": "芒果",
       "type": 3,
-      "api": "csp_Mgtv",
+      "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
