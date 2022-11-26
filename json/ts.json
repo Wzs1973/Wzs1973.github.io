@@ -540,6 +540,16 @@
       "ext": "https://wzs1973.github.io/JS/布雷蓝光.js"
     },
     {
+      "key": "drpy_js_兰花影院",
+      "name": "兰花影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/兰花影院.js"
+    },    
+    {
       "key": "drpy_js_回响影视",
       "name": "回响影视",
       "type": 3,
@@ -548,6 +558,26 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/回响影视.js"
+    },
+    {
+      "key": "drpy_js_私人影院",
+      "name": "私人影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/私人影院.js"
+    },
+    {
+      "key": "drpy_js_爱猫影院",
+      "name": "爱猫影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/爱猫影院.js"
     },    
     {
       "key": "drpy_js_落攻阁",
@@ -558,7 +588,37 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/落攻阁影视.js"
-    },   
+    },
+    {
+      "key": "drpy_js_898TV",
+      "name": "898影城",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/898TV.js"
+    },
+    {
+      "key": "drpy_js_看视界",
+      "name": "看视界",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/看视界.js"
+    },
+    {
+      "key": "drpy_js_独播库",
+      "name": "独播库",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/独播库.js"
+    },    
 //-------------------------------------------------------------xBPQ--------------------------------------------------------------------\\
     {
       "key": "csp_xBPQ_zf",
