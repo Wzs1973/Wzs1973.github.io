@@ -521,6 +521,16 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/兰花影院.js"
+    },
+    {
+      "key": "drpy_js_奇优影院",
+      "name": "奇优影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/奇优影院.js"
     },    
     {
       "key": "drpy_js_回响影视",
