@@ -644,16 +644,6 @@
       "ext": "https://Wzs1973.github.io/xBPQ/核桃影院.json"
     },
     {
-      "key": "csp_xBPQ_兰花影院",
-      "name": "兰花影院",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/兰花影院.json"
-    },
-    {
       "key": "csp_xBPQ_子子影视",
       "name": "子子影视",
       "type": 3,
@@ -692,16 +682,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/秋霞电影.json"
-    },
-    {
-      "key": "csp_xBPQ_LIBVIO",
-      "name": "LIBVIO",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/LIBVIO.json"
     },
     {
       "key": "csp_xBPQ_VOFLIX",
@@ -962,36 +942,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/疯狗电影.json"
-    },
-    {
-      "key": "csp_xBPQ_追剧达人",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/追剧达人.json"
-    },
-    {
-      "key": "csp_xBPQ_23影视",
-      "name": "23影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/23影视.json"
-    },
-    {
-      "key": "csp_xBPQ_爱看影视",
-      "name": "爱看影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/爱看影视.json"
     },
     {
       "key": "csp_xBPQ_城市电影",
