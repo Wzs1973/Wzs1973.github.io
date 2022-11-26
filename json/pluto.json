@@ -834,16 +834,6 @@
       "ext": "https://Wzs1973.github.io/xBPQ/冷曦影视.json"
     },
     {
-      "key": "csp_xBPQ_创意影视",
-      "name": "创意影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/创意影视.json"
-    },
-    {
       "key": "csp_xBPQ_瓜皮TV",
       "name": "瓜皮TV",
       "type": 3,
@@ -1266,10 +1256,9 @@
         "动作片",
         "喜剧片",
         "爱情片",
-        "喜剧片",
+        "剧情片",
         "科幻片",
         "恐怖片",
-        "剧情片",
         "战争片",
         "纪录片",
         "综艺",
@@ -1284,7 +1273,7 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
-      "categories": []
+      "categories": ["动作片","喜剧片","爱情片","剧情片","剧情片","科幻片","恐怖片","战争片","纪录片","犯罪片","国产剧","海外剧","动画片","伦理片"]
     },    
     {
       "key":"push_agent",
