@@ -22,7 +22,7 @@
     },
     {
       "key":"Yanet",
-      "name":"鸭奶飞",
+      "name":"鸭奈飞",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -229,14 +229,14 @@
       "ext":"f41992bd740145ed58cb212dc0876582"
     },
     {
-      "key":"Xiaoh",
-      "name":"Xiaoh",
+      "key":"Zxzj",
+      "name":"在线",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"0842c1d2a8534ec62fb3a3ed848851a7"
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
       "key":"If101",
@@ -249,6 +249,16 @@
       "ext":"13441dbe4dee12dafffb93c56ec3e9e4"
     },
     {
+      "key":"Upso",
+      "name":"云搜",
+      "type":"3",
+      "api":"csp_Upso",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+    },
+    {
       "key":"Zhaozy",
       "name":"资源",
       "type":"3",
@@ -256,7 +266,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"http://home.jundie.top:666/token.txt"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key":"YiSo",
@@ -266,7 +276,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"http://home.jundie.top:666/token.txt"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key":"AliPS",
@@ -276,17 +286,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"http://home.jundie.top:666/token.txt"
-    },
-    {
-      "key":"Zxzj",
-      "name":"在线",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key": "快播",
@@ -772,6 +772,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://Wzs1973.github.io/JAR/tang.jar;md5;A0BF61ADEDB4B8E2160A419D45E0C9F6",
+  "spider": "https://Wzs1973.github.io/JAR/tang.jar;md5;A3543C5D3DF3EAC2E6237BF7461A83D1",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
 }
