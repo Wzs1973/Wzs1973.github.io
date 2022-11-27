@@ -29,9 +29,13 @@
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🐹潇洒线路"
         },
+         {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🐹菜妮线路"
+        },       
         {
             "url": "https://白嫖.live/莱妮丝",
-            "name": "🐹菜妮线路"
+            "name": "🐹白嫖菜妮"
         },
         {
             "url": "http://drpy.site/js1",
