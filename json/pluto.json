@@ -382,7 +382,7 @@
       "playerType":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4;desc"
+      "ext":"52164c199a1740a9a38274421b074206;desc"
     },
     {
       "key":"Lib",
@@ -460,7 +460,7 @@
       "quickSearch":1,
       "playerType":1,
       "filterable":0,
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
+      "ext":"52164c199a1740a9a38274421b074206;asc"
     },
     {
       "key":"找资源",
@@ -471,17 +471,7 @@
       "playerType":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
-    },
-    {
-      "key":"YiSo",
-      "name":"易搜",
-      "type":"3",
-      "api":"csp_YiSo",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
+      "ext":"52164c199a1740a9a38274421b074206;asc"
     },
     {
       "key":"yisou",
@@ -492,7 +482,7 @@
       "quickSearch":1,
       "playerType":1,
       "filterable":0,
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"},
+      "ext":"52164c199a1740a9a38274421b074206;asc"},
     {
       "key":"AliPS",
       "name":"盘搜",
@@ -501,7 +491,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
+      "ext":"52164c199a1740a9a38274421b074206;asc"
     },
     {
       "key":"AliPS",
@@ -512,7 +502,7 @@
       "playerType":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
+      "ext":"52164c199a1740a9a38274421b074206;asc"
     },
 //-------------------------------------------------------------drpy--------------------------------------------------------------------\\
     {
