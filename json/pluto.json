@@ -482,20 +482,11 @@
       "quickSearch":1,
       "playerType":1,
       "filterable":0,
-      "ext":"52164c199a1740a9a38274421b074206;asc"},
-    {
-      "key":"AliPS",
-      "name":"盘搜",
-      "type":"3",
-      "api":"csp_AliPS",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
       "ext":"52164c199a1740a9a38274421b074206;asc"
     },
     {
       "key":"AliPS",
-      "name":"AliPS",
+      "name":"盘搜",
       "type":3,
       "api":"csp_AliPS",
       "searchable":1,
