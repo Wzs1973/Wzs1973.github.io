@@ -193,12 +193,15 @@
       "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/json/bilibili.json"
     },
     {
-      "key":"AList",
-      "name": "AList",
-      "type": "3",
-      "api":"csp_AList",
-      "searchable":"1",
-      "ext": "https://wzs1973.github.io/json/alist1.json"
+      "key":"csp_Alist",
+      "name":"Alist",
+      "type":3,
+      "api":"csp_Alist",
+      "searchable":0,
+      "playerType":2,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://wzs1973.github.io/json/alist1.json"
     },
     {
       "key":"Zjdr",
@@ -372,13 +375,14 @@
     },
     {
       "key":"Gitcafe",
-      "name":"纸条",
-      "type":"3",
+      "name":"小纸条",
+      "type":3,
       "api":"csp_Gitcafe",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"3ff852e661634f7bb2db527259877ee9"
+      "searchable":1,
+      "playerType":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4;desc"
     },
     {
       "key":"Lib",
@@ -419,26 +423,55 @@
       "quickSearch":"1",
       "filterable":"1",
       "ext":"9248c57eb22ace4a3431fbd1a979465f"
-    },       
-    {
-      "key":"Upso",
-      "name":"云搜",
-      "type":"3",
-      "api":"csp_Upso",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
-      "key":"Zhaozy",
+      "key":"腾讯",
+      "name":"腾讯",
+      "type": 3,
+      "api":"csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1
+    },
+    {
+      "key":"ai",
+      "name":"奇异果",
+      "type":3,
+      "api":"csp_IQIYI",
+      "quickSearch":1,
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"芒果",
+      "name":"芒果",
+      "type":3,
+      "api":"csp_MGTV",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"upyunsou",
+      "name":"云搜",
+      "type":3,
+      "api":"csp_Upyunso",
+      "searchable":1,
+      "quickSearch":1,
+      "playerType":1,
+      "filterable":0,
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
+    },
+    {
+      "key":"找资源",
       "name":"资源",
-      "type":"3",
+      "type":3,
       "api":"csp_Zhaozy",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
+      "searchable":1,
+      "playerType":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
     },
     {
       "key":"YiSo",
@@ -451,6 +484,16 @@
       "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
+      "key":"yisou",
+      "name":"宜搜",
+      "type":3,
+      "api":"csp_Yisou",
+      "searchable":1,
+      "quickSearch":1,
+      "playerType":1,
+      "filterable":0,
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"},
+    {
       "key":"AliPS",
       "name":"盘搜",
       "type":"3",
@@ -458,7 +501,18 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"23a412dda32885ae2bcb97b956cd7ad4"
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
+    },
+    {
+      "key":"AliPS",
+      "name":"AliPS",
+      "type":3,
+      "api":"csp_AliPS",
+      "searchable":1,
+      "playerType":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"23a412dda32885ae2bcb97b956cd7ad4;asc"
     },
 //-------------------------------------------------------------drpy--------------------------------------------------------------------\\
     {
