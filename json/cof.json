@@ -213,14 +213,22 @@
       "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://wzs1973.github.io/json/bilibili.json"
     },
     {
-      "key": "csp_Alist1",
-      "name": "Alist",
+      "key":"AList",
+      "name": "AList",
       "type": 3,
-      "api": "csp_Alist",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alist.json"
+      "api":"csp_AList",
+      "searchable":1,
+      "ext": "https://Wzs1973.github.io/json/alist.json"
+    },
+    {
+      "key":"世界杯",
+      "name":"世界杯",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"8e3aefcba838d8dc5102ac786719d837"
     },
     {
       "key":"Zjdr",
