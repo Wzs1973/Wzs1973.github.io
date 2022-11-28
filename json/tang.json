@@ -101,6 +101,16 @@
       "ext":"1cc92323700909e7d46623bc85b958d6"
     },
     {
+      "key":"世界杯",
+      "name":"世界杯",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"8e3aefcba838d8dc5102ac786719d837"
+    },    
+    {
       "key":"Dm84",
       "name":"动漫",
       "type":"3",
@@ -236,7 +246,7 @@
       "searchable":"1",
       "quickSearch":"1",
       "filterable":"1",
-      "ext":"http://home.jundie.top:666/token.txt"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key":"Lib",
