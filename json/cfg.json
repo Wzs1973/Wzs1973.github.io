@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d",
+  "spider": "https://wzs1973.github.io/JAR/top.jar;md5;9c76190dc4dc6b2977de6a8f4bc4741c",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -12,21 +12,12 @@
   "sites": [
     {
       "key": "AList",
-      "name": "AList",
+      "name": "Alist",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_Alist",
       "searchable": 1,
       "filterable": 1,
       "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
-    },
-    {
-      "key": "哔哩",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "./json/bili.json"
     },
     {
       "key": "泥巴",
@@ -35,6 +26,16 @@
       "api": "csp_Nbys",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key":"csp_Banana",
+      "name":"Banana",
+      "type":3,
+      "api":"csp_Banana",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/JS/18/Banana.txt"
     },
     {
       "key": "快播",
@@ -230,7 +231,46 @@
         "动漫",
         "伦理片"
       ]
-    }, 
+    },
+    {
+      "key":"csp_xBPQ_黄瓜TV",
+      "name":"黄瓜",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/xBPQ/18/黄瓜TV.json"
+    },
+    {
+      "key":"csp_xBPQ_西瓜影视",
+      "name":"西瓜",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/xBPQ/18/西瓜影视.json"
+    },    
+    {
+      "key":"csp_xBPQ_banan",
+      "name":"banan",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://wzs1973.github.io/xBPQ/18/banan.json"
+    },    
+    {
+      "key":"环亚",
+      "name":"环亚",
+      "type":0,
+      "api":"http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
     {
       "key": "api.ykapi.net",
       "name": "影库",
@@ -248,7 +288,7 @@
       "filterable": 1
     },
     {
-      "key": "api.kdapi.info",
+      "key": "酷豆",
       "name": "酷豆",
       "type": 1,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
@@ -256,7 +296,7 @@
       "filterable": 1
     },
     {
-      "key": "api.maozyapi.com",
+      "key": "色猫",
       "name": "色猫",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
@@ -265,7 +305,7 @@
       "filterable": 1
     },
     {
-      "key": "dmmapi.com",
+      "key": "MM",
       "name": "MM",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
@@ -273,7 +313,7 @@
       "filterable": 1
     },
     {
-      "key": "caiji.naichaapi.com",
+      "key": "奶茶",
       "name": "奶茶",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
@@ -281,7 +321,7 @@
       "filterable": 1
     },
     {
-      "key": "api.xiuseapi.com",
+      "key": "秀色",
       "name": "秀色",
       "type": 1,
       "api": "https://api.xiuseapi.com/api.php/provide/vod/",
@@ -298,64 +338,64 @@
       "filterable":0
     },
     {
-      "key": "櫻花",
-      "name": "櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "巴士",
-      "name": "巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "紙條",
       "name": "紙條",
       "type": 3,
-      "api": "csp_Paper",
+      "api": "csp_Gitcafe",
       "searchable": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "key":"Upyunso",
+      "name":"云搜",
+      "type":3,
+      "api":"csp_Upyunso",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://ali.饭太硬.ml/tok"
     },
     {
-      "key": "盤搜",
-      "name": "盤搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "key":"FindZY",
+      "name":"资源",
+      "type":3,
+      "api":"csp_Zhaozy",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://ali.饭太硬.ml/tok"
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "key":"AliPS",
+      "name":"盤搜",
+      "type":3,
+      "api":"csp_AliPS",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key":"csp_Yiso",
+      "name":"易搜",
+      "type":3,
+      "api":"csp_Yisou",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key":"push_agent",
+      "name":"推送",
+      "type":3,
+      "api":"csp_PushAgent",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://ali.饭太硬.ml/tok"
     }
   ],
   "parses": [
