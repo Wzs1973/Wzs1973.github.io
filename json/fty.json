@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/cf.jar;md5;A0BF61ADEDB4B8E2160A419D45E0C9F6",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;E80798750ECA57470F29D1942BCE39BB",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -117,7 +117,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wzs1973.github.io/json/alist1.json"
+      "ext": "https://wzs1973.github.io/json/alist.json"
     },
     {
       "key": "csp_kuaikan",
@@ -454,96 +454,6 @@
       "filterable": 1
     },
     {
-      "key":"Lib",
-      "name":"LIBVIO",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"78d057e4d03e47cb62dce13d69b41d6f"
-    },
-    {
-      "key":"AppTT",
-      "name":"图图",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"110c922de7d69804467fb83d3bb664b5"
-    },    
-    {
-      "key":"Tian",
-      "name":"天天",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"bdc1c75081e5e477189a463baa47e392"
-    },
-    {
-      "key":"Yanet",
-      "name":"鸭奈菲",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"a369b1f623fe86605f1b029f0cf66349"
-    },
-    {
-      "key":"Pang",
-      "name":"胖虎",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"c41fdb671b20925c76fa9b6ff8bad027"
-    },
-    {
-      "key":"Hei",
-      "name":"石榴",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"3bff500c8b1e06c052a1b0f1f7a62b45"
-    },
-    {
-      "key":"IKan",
-      "name":"爱看",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"
-    },
-    {
-      "key":"Tbook",
-      "name":"听书网",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"d16d1517e9eaad9909cb35c55ba0b784"
-    },    
-    {
-      "key":"555",
-      "name":"555",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"f41992bd740145ed58cb212dc0876582"
-    },
-    {
       "key": "csp_xBPQ_zf",
       "name": "抓饭体育",
       "type": 3,
@@ -618,6 +528,86 @@
       "filterable": 0,
       "ext": "http://ali.饭太硬.ml/tok"
     },
+    {
+      "key": "drpy_js_独播库",
+      "name": "独播库",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/独播库.js"
+    },
+    {
+      "key": "drpy_js_偲霖影视",
+      "name": "偲霖影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/偲霖影视.js"
+    },
+    {
+      "key": "drpy_js_看BZ影视",
+      "name": "看BZ影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/看BZ影视.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "搜狗影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/JS/菜狗.js"
+    },
+    {
+      "key": "drpy_js_土狗影院",
+      "name": "土狗影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/JS/土狗影院.js"
+    },    
+    {
+      "key": "drpy_js_量子影视",
+      "name": "量子影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/量子影视.js"
+    },
+    {
+      "key": "drpy_js_小宝影视",
+      "name": "小宝影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/小宝影视.js"
+    },
+    {
+      "key": "drpy_js_布雷蓝光",
+      "name": "布雷蓝光",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/布雷蓝光.js"
+    },    
     {
       "key": "csp_xBPQ_柠檬直播",
       "name": "柠檬直播",
