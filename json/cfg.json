@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;E80798750ECA57470F29D1942BCE39BB",
+  "spider": "https://wzs1973.github.io/JAR/custom_spider.jar;md5;F1009EECCD13AA7025CF8143BAEBF2EE",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -10,6 +10,15 @@
     }
   ],
   "sites": [
+    {
+      "key":"泥巴",
+      "name":"泥巴",
+      "type":3,
+      "api":"csp_Nbys",
+      "searchable":1,
+      "filterable":1,
+      "ext":"1"
+    },
     {
       "key": "AList",
       "name": "Alist",
@@ -330,64 +339,120 @@
       "filterable":0
     },
     {
+      "key":"玩偶",
+      "name":"玩偶",
+      "type":3,
+      "api":"csp_Doll",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"18AV",
+      "name":"18AV",
+      "type":3,
+      "api":"csp_Eighteen",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"Jable",
+      "name":"Jable",
+      "type":3,
+      "api":"csp_Jable",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"PigAV",
+      "name":"PigAV",
+      "type":3,
+      "api":"csp_Pig",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"MissAV",
+      "name":"MissAV",
+      "type":3,
+      "api":"csp_Miss",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"Supjav",
+      "name":"Supjav",
+      "type":3,
+      "api":"csp_Supjav",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key":"Hanime",
+      "name":"Hanime",
+      "type":3,
+      "api":"csp_Hanime",
+      "searchable":1,
+      "filterable":1
+    },
+    {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "紙條",
       "name": "紙條",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"Upyunso",
-      "name":"云搜",
-      "type":3,
-      "api":"csp_Upyunso",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://ali.饭太硬.ml/tok"
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"FindZY",
-      "name":"资源",
-      "type":3,
-      "api":"csp_Zhaozy",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://ali.饭太硬.ml/tok"
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     },
     {
-      "key":"AliPS",
-      "name":"盤搜",
-      "type":3,
-      "api":"csp_AliPS",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key":"csp_Yiso",
-      "name":"易搜",
-      "type":3,
-      "api":"csp_Yisou",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key":"push_agent",
-      "name":"推送",
-      "type":3,
-      "api":"csp_PushAgent",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"http://ali.饭太硬.ml/tok"
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
     }
   ],
   "parses": [
