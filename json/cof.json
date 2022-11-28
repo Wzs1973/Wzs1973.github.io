@@ -718,16 +718,6 @@
       "ext": "https://Wzs1973.github.io/xBPQ/秋霞电影.json"
     },
     {
-      "key": "csp_xBPQ_LIBVIO",
-      "name": "LIBVIO",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/LIBVIO.json"
-    },
-    {
       "key": "csp_xBPQ_VOFLIX",
       "name": "VOFLIX",
       "type": 3,
@@ -998,16 +988,6 @@
       "ext": "https://Wzs1973.github.io/xBPQ/疯狗电影.json"
     },
     {
-      "key": "csp_xBPQ_追剧达人",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/追剧达人.json"
-    },
-    {
       "key": "csp_xBPQ_23影视",
       "name": "23影视",
       "type": 3,
@@ -1036,16 +1016,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/城市电影.json"
-    },
-    {
-      "key": "csp_xBPQ_255TV影视",
-      "name": "255TV影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/255TV影视.json"
     },
     {
       "key": "csp_xBPQ_188影视",
