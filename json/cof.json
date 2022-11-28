@@ -26,7 +26,13 @@
           "name":"youtube",
           "type":0,
           "url":"https://wzs1973.github.io/tv/youtube.m3u"
-        }        
+        },        
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby90di9UVi50eHQ="
+          ]
+        }
       ]
     }
   ],
