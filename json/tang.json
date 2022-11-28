@@ -538,6 +538,66 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/真不卡.js"
+    },
+    {
+      "key": "csp_xBPQ_柠檬直播",
+      "name": "柠檬直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/电视直播.json"
+    },
+    {
+      "key": "csp_xBPQ_秋霞电影",
+      "name": "秋霞电影",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/秋霞电影.json"
+    },   
+    {
+      "key": "csp_xBPQ_速搜影院",
+      "name": "速搜影院",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/速搜影院.json"
+    },
+    {
+      "key": "csp_xBPQ_淘剧鸭",
+      "name": "淘剧鸭",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/淘剧鸭.json"
+    },
+    {
+      "key": "csp_xBPQ_热播库",
+      "name": "热播库",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/热播库.json"
+    },
+    {
+      "key": "csp_xBPQ_冷曦影视",
+      "name": "冷曦影视",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/冷曦影视.json"
     },    
     {
       "key": "快播",
