@@ -381,7 +381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "182d53af50c94c26b140db69f02f8d38"
     },
     {
       "key":"Lib",
@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "182d53af50c94c26b140db69f02f8d38"
     },
     {
       "key": "Zhaozy",
@@ -470,7 +470,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "182d53af50c94c26b140db69f02f8d38"
     },
     {
       "key": "Yisou",
@@ -481,7 +481,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "182d53af50c94c26b140db69f02f8d38"
     },
     {
       "key": "Alips",
@@ -492,7 +492,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "182d53af50c94c26b140db69f02f8d38"
     },
     {
       "key": "push_agent",
@@ -503,7 +503,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
+      "ext": "182d53af50c94c26b140db69f02f8d38"
     },
 //-------------------------------------------------------------drpy--------------------------------------------------------------------\\
     {
