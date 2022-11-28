@@ -1,5 +1,5 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/cf.jar;md5;A0BF61ADEDB4B8E2160A419D45E0C9F6",
+  "spider": "https://Wzs1973.github.io/JAR/tang.jar;md5;B2A6BC43E0B8C098D26948F519001159",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //-------------------------------------------------------------直播--------------------------------------------------------------------\\
   "lives":[
@@ -7,14 +7,23 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93enMxOTczLmdpdGh1Yi5pby90di9saXZlLnR4dA=="
-          ]
+          "name":"直播一",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/TV.txt",
+          "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+          "name":"直播二",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/18.txt"
+        },
+        {
+          "name":"MTV",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/四万MV.txt"
         }
-      ],
-      "epg":"http://epg.51zmt.top:8000/api/diyp/"   
-    }   
+      ]
+    }
   ],
   "rules": [
     {
@@ -373,15 +382,14 @@
       "ext":"6deed4548c44b18d268a5d828f04d86e"
     },
     {
-      "key": "csp_GitCafe",
-      "name": "纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "182d53af50c94c26b140db69f02f8d38"
+      "key":"Gitcafe",
+      "name":"纸条",
+      "type":"3",
+      "api":"csp_Gitcafe",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
       "key":"Lib",
@@ -414,6 +422,16 @@
       "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
+      "key":"Czsapp",
+      "name":"厂长",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"8ee655f702d0d21f3643504783babbc3"
+    },    
+    {
       "key":"SP360",
       "name":"360",
       "type":"3",
@@ -424,86 +442,44 @@
       "ext":"9248c57eb22ace4a3431fbd1a979465f"
     },    
     {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key":"Upso",
+      "name":"云搜",
+      "type":"3",
+      "api":"csp_Upso",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
-      "key": "ai",
-      "name": "爱奇艺",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
+      "key":"Zhaozy",
+      "name":"资源",
+      "type":"3",
+      "api":"csp_Zhaozy",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
-      "key": "芒果",
-      "name": "芒果",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
-    {
-      "key": "Upyunso",
-      "name": "云搜┃搜索",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38"
+      "key":"YiSo",
+      "name":"易搜",
+      "type":"3",
+      "api":"csp_YiSo",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
     {
-      "key": "Zhaozy",
-      "name": "资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38"
-    },
-    {
-      "key": "Yisou",
-      "name": "易搜┃搜索",
-      "type": 3,
-      "api": "csp_Yisou",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38"
-    },
-    {
-      "key": "Alips",
-      "name": "阿里┃搜索",
-      "type": 3,
-      "api": "csp_AliPS",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "playerType": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "182d53af50c94c26b140db69f02f8d38"
+      "key":"AliPS",
+      "name":"盘搜",
+      "type":"3",
+      "api":"csp_AliPS",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
 //-------------------------------------------------------------drpy--------------------------------------------------------------------\\
     {
@@ -1272,16 +1248,15 @@
       ]
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "playerType": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
-    }    
+      "key":"AliPS",
+      "name":"盘搜",
+      "type":"3",
+      "api":"csp_AliPS",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
+    }   
   ],
 //-------------------------------------------------------------解析--------------------------------------------------------------------\\
   "parses": [
