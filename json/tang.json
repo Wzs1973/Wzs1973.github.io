@@ -1,5 +1,35 @@
-{
-  "sites": [    
+{  
+  "sites": [
+    {
+      "key": "js_豆瓣",
+      "name": "🅱豆瓣热播",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/豆瓣.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "js_兔小贝",
+      "name": "📚儿童启蒙",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/兔小贝.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "js_小品网",
+      "name": "小品网",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "ext": "https://wzs1973.github.io/JS/小品网.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
     {
       "key":"Tian",
       "name":"天天",
@@ -190,7 +220,7 @@
     },
     {
       "key":"SP360",
-      "name":"SP360",
+      "name":"360",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -288,6 +318,227 @@
       "filterable":"1",
       "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"
     },
+//-------------------------------------------------------------drpy--------------------------------------------------------------------\\
+    {
+      "key": "drpy_js_抓饭体育",
+      "name": "抓饭体育",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/抓饭体育.js"
+    },    
+    {
+      "key": "drpy_js_菜狗",
+      "name": "搜狗影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/JS/菜狗.js"
+    },
+    {
+      "key": "drpy_js_土狗影院",
+      "name": "土狗影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://wzs1973.github.io/JS/土狗影院.js"
+    },    
+    {
+      "key": "drpy_js_量子影视",
+      "name": "量子影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/量子影视.js"
+    },
+    {
+      "key": "drpy_js_小宝影视",
+      "name": "小宝影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/小宝影视.js"
+    },
+    {
+      "key": "drpy_js_布雷蓝光",
+      "name": "布雷蓝光",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/布雷蓝光.js"
+    },
+    {
+      "key": "drpy_js_兰花影院",
+      "name": "兰花影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/兰花影院.js"
+    },    
+    {
+      "key": "drpy_js_回响影视",
+      "name": "回响影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/回响影视.js"
+    },
+    {
+      "key": "drpy_js_私人影院",
+      "name": "私人影院",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/私人影院.js"
+    },    
+    {
+      "key": "drpy_js_898TV",
+      "name": "898影城",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/898TV.js"
+    },
+    {
+      "key": "drpy_js_看视界",
+      "name": "看视界",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/看视界.js"
+    },
+    {
+      "key": "drpy_js_骚火电影",
+      "name": "骚火电影",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/骚火电影.js"
+    },    
+    {
+      "key": "drpy_js_独播库",
+      "name": "独播库",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/独播库.js"
+    },
+    {
+      "key": "drpy_js_偲霖影视",
+      "name": "偲霖影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/偲霖影视.js"
+    },
+    {
+      "key": "drpy_js_看BZ影视",
+      "name": "看BZ影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/看BZ影视.js"
+    },    
+    {
+      "key": "drpy_js_腾讯",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷视频",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/优酷.js"
+    },
+    {
+      "key": "drpy_js_奇异果",
+      "name": "奇异果",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_子子影视",
+      "name": "子子影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/子子影视.js"
+    },
+    {
+      "key": "drpy_js_双十电影",
+      "name": "双十电影",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/双十电影.js"
+    },
+    {
+      "key": "drpy_js_凌云影视",
+      "name": "凌云影视",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/凌云影视.js"
+    },
+    {
+      "key": "drpy_js_真不卡",
+      "name": "真不卡",
+      "type": 3,
+      "api": "https://wzs1973.github.io/libs/drpy.min.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://wzs1973.github.io/JS/真不卡.js"
+    },    
     {
       "key": "快播",
       "name": "快播云",
