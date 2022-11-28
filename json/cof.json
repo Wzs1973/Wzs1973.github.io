@@ -21,7 +21,12 @@
           "name":"MTV",
           "type":0,
           "url":"https://wzs1973.github.io/tv/四万MV.txt"
-        }
+        },
+        {
+          "name":"youtube",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/youtube.m3u"
+        }        
       ]
     }
   ],
@@ -622,16 +627,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/吼吼.json"
-    },
-    {
-      "key": "csp_xBPQ_骚火电影",
-      "name": "骚火电影",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/骚火电影.json"
     },
     {
       "key": "csp_xBPQ_黑狐影院",
