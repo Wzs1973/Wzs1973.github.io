@@ -20,6 +20,11 @@
           "name":"MTV",
           "type":0,
           "url":"https://wzs1973.github.io/tv/四万MV.txt"
+        },
+        {
+          "name":"youtube",
+          "type":0,
+          "url":"https://wzs1973.github.io/tv/youtube.m3u"
         },        
         {
           "name": "live",
