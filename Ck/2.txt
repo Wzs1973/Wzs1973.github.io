@@ -46,13 +46,29 @@
             "name": "🐹BYYDS线路"
         },
         {
+            "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0820.txt",
+            "name": "🐹chuqiuyu线路1"
+        },
+        {
+            "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0820.json",
+            "name": "🐹chuqiuyu线路2"
+        },
+        {
+            "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/0828.json",
+            "name": "🐹chuqiuyu线路3"
+        },       
+        {
             "url": "https://agit.ai/top752/ros/raw/branch/master/js.json",
             "name": "🐹top线路"
         },
         {
             "url": "https://agit.ai/top752/ros/raw/branch/master/jsv.json",
             "name": "🐹vip线路"
-        },      
+        },
+        {
+            "url": "https://agit.ai/chuqiuyu/gao/raw/branch/master/9918.json",
+            "name": "🐹chuqiuyu线路4"
+        },        
         {
             "url": "https://ju.binghe.ga/4.txt",
             "name": "🐹冰河线路"
