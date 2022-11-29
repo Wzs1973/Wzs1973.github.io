@@ -221,16 +221,6 @@
       "ext": "https://Wzs1973.github.io/json/alist.json"
     },
     {
-      "key":"世界杯",
-      "name":"世界杯",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"8e3aefcba838d8dc5102ac786719d837"
-    },
-    {
       "key":"Zjdr",
       "name":"达人",
       "type":"3",
