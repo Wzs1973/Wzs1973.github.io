@@ -884,6 +884,66 @@
       "ext": "https://Wzs1973.github.io/XPath3/电影吧.json"
     },
     {
+      "key": "csp_XYQ_hhsp",
+      "name": "吼吼视频",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://Wzs1973.github.io/XYQHiker/吼吼视频.json"
+    },    
+    {
+      "key": "csp_XYQ_ssdy",
+      "name": "双十电影",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://Wzs1973.github.io/XYQHiker/双十电影.json"
+    },    
+    {
+      "key": "csp_XYQ_wyyy",
+      "name": "午夜影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://Wzs1973.github.io/XYQHiker/午夜影院.json"
+    },
+    {
+      "key": "csp_XYQ_lxys",
+      "name": "冷曦影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://Wzs1973.github.io/XYQHiker/冷曦影视.json"
+    },    
+    {
+      "key": "csp_XYQ_nfyy",
+      "name": "奈菲影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://Wzs1973.github.io/XYQHiker/奈菲影院.json"
+    },
+    {
+      "key": "csp_XYQ_mmfl",
+      "name": "猫咪福利",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://Wzs1973.github.io/XYQHiker/猫咪福利.json"
+    },    
+    {
       "key": "快播",
       "name": "快播云",
       "type": 1,
