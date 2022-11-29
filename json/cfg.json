@@ -5,9 +5,18 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "https://Wzs1973.github.io/tv/18.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    }
+      "url": "https://Wzs1973.github.io/tv/18.txt"
+    },
+    {
+      "name": "10086",
+      "type": 0,
+      "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
+    },
+    {
+      "name": "Adult",
+      "type": 0,
+      "url": "https://agit.ai/wzs1973/Fu/raw/branch/master/Adult.m3u"
+    }    
   ],
   "sites": [
     {
