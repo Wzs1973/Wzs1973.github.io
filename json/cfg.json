@@ -20,10 +20,19 @@
       "ext":"1"
     },
     {
-      "key": "AList",
-      "name": "Alist",
+      "key": "哔哩",
+      "name": "哔哩",
       "type": 3,
-      "api": "csp_Alist",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "./json/bili.json"
+    },    
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
       "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
@@ -467,17 +476,17 @@
       "url": "Demo"
     },
     {
-      "name": "xmflv",
+      "name": "虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "freejson",
+      "name": "鸿途",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     },
     {
-      "name": "365",
+      "name": "m3u8",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url=",
       "ext": {
@@ -574,11 +583,6 @@
           "1905"
         ]
       }
-    },
-    {
-      "name": "parwix",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/?url="
     }
   ],
   "flags": [
