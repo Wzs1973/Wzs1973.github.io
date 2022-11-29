@@ -1,35 +1,5 @@
 {  
-  "sites": [
-    {
-      "key": "js_豆瓣",
-      "name": "🅱豆瓣热播",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/豆瓣.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "js_兔小贝",
-      "name": "📚儿童启蒙",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/兔小贝.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "js_小品网",
-      "name": "小品网",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/小品网.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
+  "sites": [   
     {
       "key":"Tian",
       "name":"天天",
@@ -267,16 +237,6 @@
       "quickSearch":"1",
       "filterable":"1",
       "ext":"23a412dda32885ae2bcb97b956cd7ad4"
-    },
-    {
-      "key":"If101",
-      "name":"101",
-      "type":"3",
-      "api":"csp_Dora",
-      "searchable":"1",
-      "quickSearch":"1",
-      "filterable":"1",
-      "ext":"13441dbe4dee12dafffb93c56ec3e9e4"
     },
     {
       "key":"Upso",
