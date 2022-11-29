@@ -38,13 +38,12 @@
       "ext": "./json/bili.json"
     },    
     {
-      "key": "AList",
+      "key":"AList",
       "name": "AList",
       "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
+      "api":"csp_AList",
+      "searchable":1,
+      "ext": "https://Wzs1973.github.io/json/alist.json"
     },
     {
       "key": "快播",
