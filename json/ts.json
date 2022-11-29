@@ -259,6 +259,36 @@
       "ext":"f41992bd740145ed58cb212dc0876582"
     },
     {
+      "key": "csp_xBPQ_淘剧鸭",
+      "name": "淘剧鸭",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/淘剧鸭.json"
+    },
+    {
+      "key": "csp_xBPQ_热播库",
+      "name": "热播库",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/热播库.json"
+    },
+    {
+      "key": "csp_xBPQ_冷曦影视",
+      "name": "冷曦影视",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/冷曦影视.json"
+    },    
+    {
       "key": "csp_XP_六度",
       "name": "六度",
       "type": 3,
@@ -288,16 +318,6 @@
       "filterable": 0,      
       "ext": "https://Wzs1973.github.io/XPathMacFilter/九亿国语.json"
     },   
-    {
-      "key": "csp_XP_冷曦影视",
-      "name": "冷曦影视",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XPathMacFilter/冷曦影视.json"
-    },
     {
       "key": "js_小品网",
       "name": "小品网",
@@ -437,107 +457,7 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://Wzs1973.github.io/XB/速搜影视.json"
-    },    
-    {
-      "key": "csp_XB_酷云影院",
-      "name": "酷云影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XB/酷云影院.json"
-    },   
-    {
-      "key": "csp_XYQBiu_抓饭直播",
-      "name": "抓饭直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQBiu/抓饭直播.json"
-    },    
-    {
-      "key": "csp_XYQBiu_凌云影视",
-      "name": "凌云影视",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQBiu/凌云影视.json"
-    },    
-    {
-      "key": "csp_XYQBiu_万能影院",
-      "name": "万能影院",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQBiu/万能影院.json"
-    },    
-    {
-      "key": "csp_XYQBiu_剧荒影院",
-      "name": "剧荒影院",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQBiu/剧荒影院.json"
-    },    
-    {
-      "key": "csp_XYQHiker_追剧达人",
-      "name": "追剧达人",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQHiker/追剧达人.json"
-    },
-    {
-      "key": "csp_XYQHiker_奈菲影院",
-      "name": "奈菲影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQHiker/奈菲影院.json"
-    },    
-    {
-      "key": "csp_XYQHiker_白嫖联盟",
-      "name": "白嫖联盟",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQHiker/白嫖联盟.json"
-    },
-    {
-      "key": "csp_XYQHiker_农民影视",
-      "name": "农民影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQHiker/农民影视.json"
-    },
-    {
-      "key": "csp_XYQHiker_魔戒影院",
-      "name": "魔戒影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XYQHiker/魔戒影院.json"
-    },
+    },        
     {
       "key": "快播",
       "name": "快播云",
