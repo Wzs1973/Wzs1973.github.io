@@ -145,7 +145,7 @@
     },
     {
       "key": "csp_Wybg",
-      "name": "Wybg",
+      "name": "影视之家",
       "type": 3,
       "api": "csp_Wybg",
       "searchable": 1,
@@ -155,7 +155,7 @@
     },
     {
       "key": "csp_Acg",
-      "name": "Acg",
+      "name": "acgNya",
       "type": 3,
       "api": "csp_Acg",
       "searchable": 1,
