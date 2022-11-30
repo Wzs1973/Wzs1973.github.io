@@ -124,18 +124,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_Kmys",
-      "name": "酷猫",
-      "type": 3,
-      "api": "csp_Kmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
-    },
-    {
       "key": "csp_Dy6080",
-      "name": "6080",
+      "name": "6080电影",
       "type": 3,
       "api": "csp_Dy6080",
       "searchable": 1,
