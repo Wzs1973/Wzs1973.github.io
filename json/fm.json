@@ -169,6 +169,16 @@
       "ext":"bdc1c75081e5e477189a463baa47e392"
     },
     {
+      "key":"世界杯",
+      "name":"世界杯",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"1",
+      "quickSearch":"1",
+      "filterable":"1",
+      "ext":"8e3aefcba838d8dc5102ac786719d837"
+    },    
+    {
       "key":"Yanet",
       "name":"鸭奈菲",
       "type":"3",
