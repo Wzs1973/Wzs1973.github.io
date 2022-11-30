@@ -124,6 +124,46 @@
       "filterable": 1
     },
     {
+      "key": "csp_Kmys",
+      "name": "酷猫",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
+    },
+    {
+      "key": "csp_Dy6080",
+      "name": "6080",
+      "type": 3,
+      "api": "csp_Dy6080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
+    },
+    {
+      "key": "csp_Wybg",
+      "name": "Wybg",
+      "type": 3,
+      "api": "csp_Wybg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
+    },
+    {
+      "key": "csp_Acg",
+      "name": "Acg",
+      "type": 3,
+      "api": "csp_Acg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
+    },    
+    {
       "key": "csp_GitCafe",
       "name": "纸条┃云盘",
       "type": 3,
@@ -133,7 +173,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ali.饭太硬.ml/tok"
-    },
+    },    
     {
       "key": "csp_Czsapp",
       "name": "厂长",
