@@ -259,6 +259,16 @@
       "ext":"f41992bd740145ed58cb212dc0876582"
     },
     {
+      "key": "csp_xBPQ_6080电影",
+      "name": "6080",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://Wzs1973.github.io/xBPQ/6080.json"
+    },    
+    {
       "key": "csp_xBPQ_淘剧鸭",
       "name": "淘剧鸭",
       "type": 3,
