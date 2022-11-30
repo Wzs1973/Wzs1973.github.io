@@ -22,7 +22,7 @@
     },
     {
       "key":"世界杯",
-      "name":"世界杯",
+      "name":"一起看",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -299,7 +299,7 @@
       "ext": "https://Wzs1973.github.io/XPathMacFilter/六度.json"
     },    
     {
-      "key": "csp_XP_独播库",
+      "key": "csp_XPM_独播库",
       "name": "独播库",
       "type": 3,
       "api": "csp_XPathMacFilter",
@@ -307,9 +307,19 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://Wzs1973.github.io/XPathMacFilter/独播库.json"
+    },
+    {
+      "key": "csp_XPM_冷曦影视",
+      "name": "冷曦影视",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://Wzs1973.github.io/XPathMacFilter/冷曦影视.json"
     },    
     {
-      "key": "csp_XP_九亿国语",
+      "key": "csp_XPM_九亿国语",
       "name": "九亿国语",
       "type": 3,
       "api": "csp_XPathMacFilter",
