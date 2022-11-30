@@ -1217,6 +1217,21 @@
       }
     },
     {
+      "name": "热播",
+      "type": 0,
+      "url": "https://rebozj.com/?url="
+    },    
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },    
+    {
+      "name": "OK",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },    
+    {
       "name": "💋So丶",
       "type": 0,
       "url": "https://tljiaqing.nde.tw/m3u8/?url="
@@ -1336,14 +1351,6 @@
         "header": {
           "User-Agent": "Mozilla/5.0"
         }
-      }
-    },
-    {
-      "name": "公益",
-      "type": 1,
-      "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0"
       }
     }
   ],
