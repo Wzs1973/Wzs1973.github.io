@@ -1193,12 +1193,12 @@
       "url": "https://json.freejx.in/?url="
     },    
     {
-      "name": "饭2",
+      "name": "1080",
       "type": 1,
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "饭3",
+      "name": "keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
@@ -1271,6 +1271,74 @@
       }
     },
     {
+      "name": "尘烟",
+      "type": 1,
+      "url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],  
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "FosiPlayer",
+      "type": 1,
+      "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],  
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },    
+    {
       "name": "扶风",
       "type": 1,
       "url": "https://www.1920lgzy.top/json.php?url=",
@@ -1281,20 +1349,7 @@
       }
     },
     {
-      "name": "宝盒TV",
-      "type": 1,
-      "url": "https://jx.52ruo.cc/json/?id=6&url="
-    },
-    {
-      "name": "公益1",
-      "type": 1,
-      "url": "http://3.37.195.161:54371/parse/api/江湖.js?url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
-      "name": "公益2",
+      "name": "公益",
       "type": 1,
       "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
       "header": {
