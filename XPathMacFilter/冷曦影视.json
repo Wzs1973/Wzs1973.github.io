@@ -10,13 +10,7 @@
         "电视剧": "tv",
         "综艺": "zongyi",
         "动漫": "dongman",
-	"福利": "fuli",
-	"直播": "zhibo",    
-	"电影解说":"dianyingjieshuo",    
-        "体育频道":"tiyupindao",
-        "音乐": "yinyue",
-        "明星":"mingxing",
-	"专题":"zhuanti"            
+	"福利": "fuli"           
     },
     "homeVodNode": "//div[contains(@class,'fed-part-layout')][2]/ul[contains(@class,'fed-list-info')]/li[contains(@class,'fed-list-item')]",
     "homeVodName": "/a[2]/text()",
