@@ -145,6 +145,11 @@ https://github.com/dlgt7/TVbox-interface/blob/main/%E8%87%AA%E5%B7%B1%E6%94%B9%E
 
 ## 常用工具：
 
+TVBox配置编辑器：
+https://kvymin.github.io/CatVodTVJsonEditor/
+
+http://cron.qiqiv.cn/cron/abc/123/
+
 免魔法电报，也是个开源项目，用前自己上网查询这个怎么样。
 
 https://github.com/NekoX-Dev/NekoX
