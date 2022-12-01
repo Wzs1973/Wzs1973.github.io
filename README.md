@@ -311,3 +311,24 @@ https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 https://purge.jsdelivr.net/gh/
 
 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集Box，自用请勿
+## 熊猫是肥猫：http://w.g9.pub:66/381203888/panda.jpg    图片接口
+
+下载后是个图片，用编辑器转代码，http://cron.qiqiv.cn/cron/abc/123/
+
+转完就是需要的明文json文件。
+
+## 熊猫是肥猫：http://我不是.肥猫.love:63  视频接口   （已改加密，此方法行不通了）
+
+网页打开http://我不是.肥猫.love:63，是个视频，点右键另存为，得到，下载.webm
+
+改文件后缀为.txt,打开后找到feimaoggzg**，删除feimaoggzg**以上的乱码文字，保存。
+
+保存完后，改后缀为.bmp。用编辑器转代码，http://cron.qiqiv.cn/cron/abc/123/，即得明文json。
+
+## 刚刚：http://刚刚.live/猫
+
+手机浏览器打开http://刚刚.live/猫，下载下来后是个1669873664484_unknown文件，添加后缀.txt
+
+，打开文件，找到feimaoggzg**，把它之前的乱码删除，保存，改后缀为.bmp
+
+用tvbox配置编辑器，http://cron.qiqiv.cn/cron/abc/123/。图片转代码，即得明文json。
