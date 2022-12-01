@@ -214,8 +214,8 @@
       "type": "3",
       "api":"csp_AList",
       "searchable":"1",
-      "ext": "https://Wzs1973.github.io/json/alist.json"
-    },
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    }, 
     {
       "key":"Cokemv",
       "name":"可乐",
@@ -258,7 +258,7 @@
     },
     {
       "key":"Lib",
-      "name":"Libvio",
+      "name":"LIB",
       "type":"3",
       "api":"csp_Dora",
       "searchable":"1",
@@ -275,16 +275,6 @@
       "quickSearch":"1",
       "filterable":"1",
       "ext":"f41992bd740145ed58cb212dc0876582"
-    },
-    {
-      "key": "csp_xBPQ_6080电影",
-      "name": "6080",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/6080.json"
     },    
     {
       "key": "csp_xBPQ_淘剧鸭",
@@ -305,16 +295,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://Wzs1973.github.io/xBPQ/热播库.json"
-    },
-    {
-      "key": "csp_xBPQ_冷曦影视",
-      "name": "冷曦影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://Wzs1973.github.io/xBPQ/冷曦影视.json"
     },    
     {
       "key": "csp_XP_六度",
@@ -338,7 +318,7 @@
     },
     {
       "key": "csp_XPM_冷曦影视",
-      "name": "冷曦影视",
+      "name": "冷曦",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -348,7 +328,7 @@
     },    
     {
       "key": "csp_XPM_九亿国语",
-      "name": "九亿国语",
+      "name": "九亿",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
