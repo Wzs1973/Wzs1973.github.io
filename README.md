@@ -35,11 +35,15 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 小雅js：http://drpy.site/js1
 
-莱妮丝xBPQ：https://白嫖.live/莱妮丝
+菜妮丝：https://tvbox.cainisi.cf
+
+熊猫是肥猫：http://我不是.肥猫.love:63
 
 神器：https://神器每日推送.tk/pz.json
 
 饭太硬：http://饭太硬.ga/x/o.json
+
+刚刚：http://刚刚.live/猫
 
 ## 壁纸：
 
@@ -70,23 +74,6 @@ https://tuapi.eees.cc/api.php?category=fengjing&type=302
 
 http://www.36nu.com/apiTest
 
-### 更新
-
-## 多jar链接写法，根据app版本来：
-
-## Pluto Player版本：
-
-{"key":"***","name":"***","api":"***","type":3,"filterable":1,"quickSearch":1,"searchable":1,"plugin":"http://****/*.jar"},
-
-## 这个：
-
-{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://****/*.jar"},
-
-## 俊佬版本多jar链接写法：
-
-{"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
-
-
 ## 白嫖天下！
 
 http://cai999.tk/
@@ -95,9 +82,13 @@ http://cai999.tk/
 
 https://github.com/tv-player/TvBox
 
-香雅情仓库
+##香雅情仓库
 
 https://framagit.org/lzk23559/tvbox
+
+##奇奇
+
+http://bbs.qiqiv.cn/thread-11973-1-1.html
 
 ## Cloudreve个人网盘GitHub开源地址：
 
@@ -146,6 +137,7 @@ https://github.com/dlgt7/TVbox-interface/blob/main/%E8%87%AA%E5%B7%B1%E6%94%B9%E
 ## 常用工具：
 
 TVBox配置编辑器：
+
 https://kvymin.github.io/CatVodTVJsonEditor/
 
 http://cron.qiqiv.cn/cron/abc/123/
@@ -261,7 +253,7 @@ https://down.52pojie.cn/Tools/
 
 2、 精简代码。在Android 逆向助手中。1 运行“jar转dex”。  2 运行“反编译dex”。3 运行“重打包dex”。4 运行“dex转jar”。这样就会得到廋身后的jar文件。
 
-试试吧，不一定对。
+
 ## 今天看到一个新的教程：
 【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画 
 
