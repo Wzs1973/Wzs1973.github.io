@@ -1,25 +1,12 @@
-{
-    "urls": [
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
-            "name": "JS一号线路"
-        },
-        
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json",
-            "name": "JS二号线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5tbo.json",
-            "name": "JS三号线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
-            "name": "JS四号线路"
-        },
-        {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7l7n.json",
-            "name": "JS五号线路"
-        }
-    ]
+{ 
+"storeHouse": [
+{ "sourceName": "🌹雨滴主仓库🌹", "sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=雨滴" },
+{ "sourceName": "🌷雨滴1号备用仓库🌷", "sourceUrl": "http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=雨滴" },
+{ "sourceName": "💐雨滴2号备用仓库💐", "sourceUrl": "http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=雨滴" },
+{ "sourceName": "🌸雨滴3号备用仓库🌸", "sourceUrl": "http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=雨滴" },
+{ "sourceName": "🌼雨滴4号备用仓库🌼", "sourceUrl": "http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=雨滴" },
+{ "sourceName": "🌻雨滴5号备用仓库🌻", "sourceUrl": "http://5.nxog.top/nxog/ou.php?url=http://5.nxog.top&b=雨滴" },
+{ "sourceName": "☘️本地仓库1☘️", "sourceUrl": "http://tv.nxog.top/nxog/bd.php?b=雨滴" },
+{ "sourceName": "🍁本地仓库2🍁", "sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/3b5913a0-8380-4054-aaca-68a63035732f.json" }
+] 
 }
