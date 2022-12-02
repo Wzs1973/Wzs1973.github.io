@@ -1,16 +1,11 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/custom_spider.jar;md5;F1009EECCD13AA7025CF8143BAEBF2EE",
+  "spider": "https://wzs1973.github.io/JAR/custom_spider.jar;md5;AF33335BE4C9FEC4A90DF80D417C7142",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
       "type": 0,
       "url": "https://Wzs1973.github.io/tv/18.txt"
-    },
-    {
-      "name": "10086",
-      "type": 0,
-      "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
     },
     {
       "name": "Adult",
@@ -239,6 +234,15 @@
         "动漫",
         "伦理片"
       ]
+    },
+    {
+      "key": "dr_玩偶姐姐",
+      "name":"玩偶姐姐",
+      "type": 1,
+      "api": "{{host}}/vod?{% if js0_password %}pwd={{js0_password}}&{% endif %}rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key":"csp_xBPQ_黄瓜TV",
