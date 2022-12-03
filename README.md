@@ -168,21 +168,6 @@ MD5获取小工具：http://www.metools.info/
 
 MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
-## json内资源格式参数介绍
-
-{"key":"key_〔资源名称〕",
-"name":"资源名称",
-"type":0,
-"api":"csp_〔jar内文件名称〕",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"jar":"〔jar文件地址〕",
-"ext":"〔txt json文件地址〕",
-"playUrl": "〔播放解析地址〕", 
-"categories":["〔自定义资源列表〕",
-"〔自定义资源列表〕"] }
-
 ## jar修改学习：要想实现jar包自由，多关注以下仓库，慢慢积累经验学习吧。看看谁常更新，盯住学习就行。
 
 jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-run workflow。和打包TVBOX一样。
@@ -252,18 +237,6 @@ https://down.52pojie.cn/Tools/
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
 2、 精简代码。在Android 逆向助手中。1 运行“jar转dex”。  2 运行“反编译dex”。3 运行“重打包dex”。4 运行“dex转jar”。这样就会得到廋身后的jar文件。
-
-
-## 今天看到一个新的教程：
-【教程】Pluto player影视软件新姿势_无密码挂载alist_免费观看原画 
-
-8款网盘可同时挂载到Kodi播放器，支持Mac和Windows平台
-
-教程在仓库里：https://github.com/dlgt7/TVbox-interface  PDF文件格式，需下载查看，感觉不清楚的话，文件里写有教程出处，都是公众号文章。
-
-### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/dlgt7/TVbox-interface.svg)](https://starchart.cc/dlgt7/TVbox-interface)
 
 开源仓库
 https://github.com/
