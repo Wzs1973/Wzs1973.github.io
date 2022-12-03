@@ -129,38 +129,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Dy6080",
-      "name": "6080电影",
-      "type": 3,
-      "api": "csp_Dy6080",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
-    },
-    {
-      "key": "csp_Wybg",
-      "name": "影视之家",
-      "type": 3,
-      "api": "csp_Wybg",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
-    },
-    {
-      "key": "csp_Acg",
-      "name": "Acg动漫",
-      "type": 3,
-      "api": "csp_Acg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://wzs1973.github.io/JAR/Wybg.jar"
     },    
     {
       "key": "csp_GitCafe",
