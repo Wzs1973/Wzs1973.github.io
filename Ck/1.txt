@@ -1,30 +1,65 @@
-{ 
-"urls": [
-{ "url": "https://神器每日推送.tk/pz.json", "name": "线路1" },
-
-{ "url": "http://饭太硬.ga/x/o.json", "name": "线路2" },
-
-{ "url": "http://我不是.肥猫.love:63", "name": "线路3" },
-
- { "url": "https://hutool.ml/tang", "name": "线路4" },
-
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", "name": "线路5" },
-
-{ "url": "http://home.jundie.top:81/top98.json", "name": "线路6" },
-
-{ "url": "https://tvbox.cainisi.cf", "name": "线路7" },
-
-{ "url": "https://dxawi.github.io/0/0.json", "name": "线路8" },
-
-{ "url": "https://raw.liucn.cc/box/m.json", "name": "线路9" },
-
-{ "url": "http://js.134584.xyz/json/pp87.json", "name": "线路10" },
-
-{ "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json", "name": "线路11"},
-
-{ "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json", "name": "线路12" },
-
-{ "url": "https://agit.ai/guozu616/TVbox/raw/branch/main/config.json", "name": "线路13" }
-]
+{
+    "urls": [
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "🚀多多"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63",
+            "name": "🚀肥猫"
+        },
+        { 
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🚀神器" 
+        },
+        { 
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "🚀饭太硬" 
+        },
+        { 
+            "url": "https://hutool.ml/tang",
+            "name": "🚀唐三" 
+        },
+        { 
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🚀FongMi" 
+        },
+        { 
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊佬" 
+        },        
+        {
+            "url": "http://drpy.site/js1",
+            "name": "🚀小雅dr"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🚀菜妮丝"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀巧技"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "🚀老刘备线路"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🚀吾爱"
+        },
+        {
+            "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
+            "name": "🚀星辰"
+        },
+        {
+            "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+            "name": "🚀潇洒"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🚀南风"
+        }
+    ]
 }
 
