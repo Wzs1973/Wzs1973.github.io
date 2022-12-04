@@ -1,4 +1,4 @@
-# Wzs1973.github.io
+
 # TVBox
 
 #  配置接口设定 俊佬、T版等--> clan://localhost/文件路径/XX.json
@@ -8,16 +8,22 @@
 # "spider":"clan://文件路径/XX.jar"(视情况自定义文件夹)
 
 # takagen99 & q215613905 TVBox的本地设定(同原猫影视设定)
+
 1.设定>配置用路径 需多加localhost
+
 clan://localhost/TVBox/pluto.json
+
 2.json的api或ext路径设定 则不用另外再加localhost
+
 "api":"clan://TVBox/libs/drpy.js"
 clan://TVBox/js/真不卡.js
 
 # pluto的本地设定
+
 file:///storage/emulated/0/TVBox/pluto.json
 
 # FM影视的本地设定 (通用 二择一)
+
 clan://TVBox/pluto.json
 file://TVBox/pluto.json
 
@@ -57,19 +63,8 @@ http://刚刚.live/图
 
 http://饭太硬.ga/深色壁纸/api.php
 
-https://www.dmoe.cc/random.php
-
-https://api.btstu.cn/sjbz/zsy.php
-
-https://api.btstu.cn/sjbz/?lx=dongman
-
-http://api.btstu.cn/sjbz/?lx=meizi
-
-http://api.btstu.cn/sjbz/?lx=suiji
-
-https://pictures.catvod.eu.org/
-
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
+
 ## 解析测试：
 
 http://www.36nu.com/apiTest
@@ -89,50 +84,6 @@ https://framagit.org/lzk23559/tvbox
 ##奇奇
 
 http://bbs.qiqiv.cn/thread-11973-1-1.html
-
-## Cloudreve个人网盘GitHub开源地址：
-
-https://github.com/cloudreve/Cloudreve
-
-## TV猫盒：这个不赖
-
-https://github.com/kensonmiao/CatVodTVOSC
-
-pluto-player：不开源 A佬。魔改，改动大，功能多，能在线升级，目前不支持低版本安卓。
-
-https://github.com/pluto-player/updates
-
-https://github.com/o0HalfLife0o/TVBoxOSC
-
-https://github.com/o0HalfLife0o/AlphaTV
-
-clanTV：
-
-https://github.com/clanTV/clanTV
-
-FongMi-TV:
-
-https://github.com/FongMi/TV
-
-BearTV:
-
-https://github.com/haha459862/BearTV
-
-官仓：终结于2022年7月18日。封仓。
-
-https://github.com/CatVodTVOfficial/TVBoxOSC
-
-多线路TV版本仓库：
-
-https://github.com/tv-player
-
-近期不能打包的临时解决办法：
-
-https://github.com/dlgt7/TVbox-interface/blob/main/%E8%BF%91%E6%9C%9F%E4%B8%8D%E8%83%BD%E6%89%93%E5%8C%85%E4%B8%B4%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md
-
-自己修改代码恢复android_builder打包apk
-
-https://github.com/dlgt7/TVbox-interface/blob/main/%E8%87%AA%E5%B7%B1%E6%94%B9%E4%BB%A3%E7%A0%81%E6%81%A2%E5%A4%8Dandroid_builder%E6%89%93%E5%8C%85apk.MD
 
 ## 常用工具：
 
@@ -172,36 +123,6 @@ MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
 jar打包：在jar仓库里依次点击：actions-workflows-spider jar gen cl-run workflow。和打包TVBOX一样。
 
-jar打包成功实例仓库：仅供参考，自行添加新的，删除或者修改失效的。https://github.com/dlgt7/TvJar
-
-
-Fork始点，地位特殊：
-
-https://github.com/Tangsan99999/TvJar
-
-https://github.com/Kimlee-cmd/TvJar
-
-https://github.com/Kvymin/CatVodTVSpider
-
-https://github.com/Kvymin/CatVod  
-
-传说中的T4类型，仓库地址如下，自己研究。
-
-https://github.com/sec-an/TV_Spider
-
-## 电脑修改 apk 所需软件 
-
-0、首推吾爱破解工具包：
-
-https://down.52pojie.cn/Tools/
-
-1、下载解压编译器 AndroidKiller https://mydown.yesky.com/pcsoft/413552646.html  
- 
-2、安装 java8 环境 http://soft.onlinedown.net/soft/10044859.htm 
-
-3、下载编码器， 
-
-改名为 ShakaApktool.jar 替换 AndroidKiller\bin\apktool\apktool https://bitbucket.org/iBotPeaches/apktool/downloads/
 ## jar包缝合教程：暴力缝合，非代码修改。
 
 准备工作：MT管理器或者NP管理器（Android 版），Android 逆向助手（电脑版）
@@ -236,69 +157,6 @@ https://down.52pojie.cn/Tools/
 ![6](https://user-images.githubusercontent.com/102397160/182571468-3f15da3f-ac7b-45b0-9e37-c4959692d24d.png)
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
 
-2、 精简代码。在Android 逆向助手中。1 运行“jar转dex”。  2 运行“反编译dex”。3 运行“重打包dex”。4 运行“dex转jar”。这样就会得到廋身后的jar文件。
-
-开源仓库
-https://github.com/
-https://gitlab.com/
-
-https://gitee.com/
-https://coding.net/
-
-https://gitcode.net/
-https://gitea.com/ 仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
-https://agit.ai/
-https://notabug.org/
-
-EGP源
-http://epg.51zmt.top:8000/e.xml
-https://epg.112114.xyz/pp.xml
-
 给英文不好的朋友
 GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208
 Github 增强 - 高速下载https://greasyfork.org/zh-CN/scripts/412245
-
-Github RAW 加速服务
-源码 https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json
-香港 https://raw.iqiq.io/liu673cn/box/main/m.json
-新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json
-日本
-https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-https://raw.fastgit.org/liu673cn/box/main/m.json
-韩国
-https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-
-https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://raw.githubusercontents.com/liu673cn/box/main/m.json
-
-Github 静态加速
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-
-https://purge.jsdelivr.net/gh/
-
-以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集Box，自用请勿
-## 熊猫是肥猫：http://w.g9.pub:66/381203888/panda.jpg    图片接口
-
-下载后是个图片，用编辑器转代码，http://cron.qiqiv.cn/cron/abc/123/
-
-转完就是需要的明文json文件。
-
-## 熊猫是肥猫：http://我不是.肥猫.love:63  视频接口   （已改加密，此方法行不通了）
-
-网页打开http://我不是.肥猫.love:63，是个视频，点右键另存为，得到，下载.webm
-
-改文件后缀为.txt,打开后找到feimaoggzg**，删除feimaoggzg**以上的乱码文字，保存。
-
-保存完后，改后缀为.bmp。用编辑器转代码，http://cron.qiqiv.cn/cron/abc/123/，即得明文json。
-
-## 刚刚：http://刚刚.live/猫
-
-手机浏览器打开http://刚刚.live/猫，下载下来后是个1669873664484_unknown文件，添加后缀.txt
-
-，打开文件，找到feimaoggzg**，把它之前的乱码删除，保存，改后缀为.bmp
-
-用tvbox配置编辑器，http://cron.qiqiv.cn/cron/abc/123/。图片转代码，即得明文json。
