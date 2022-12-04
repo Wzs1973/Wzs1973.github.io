@@ -1,31 +1,10 @@
 {
-  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;fa1981d675136061c6ba1a1f98966633",
+  "spider": "https://wzs1973.github.io/JAR/xo.jar;md5;EDAAC605B8F6C297B19D34464721F869",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "group": "redirect",
-      "channels": [
-        {
-          "name":"直播一",
-          "type":0,
-          "url":"https://wzs1973.github.io/tv/TV.txt",
-          "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-          "name":"直播二",
-          "type":0,
-          "url":"https://wzs1973.github.io/tv/18.txt"
-        },
-        {
-          "name":"MTV",
-          "type":0,
-          "url":"https://wzs1973.github.io/tv/四万MV.txt"
-        },
-        {
-          "name":"youtube",
-          "type":0,
-          "url":"https://wzs1973.github.io/tv/youtube.m3u"
-        },        
+      "channels": [        
         {
           "name": "live",
           "urls": [
@@ -78,6 +57,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key":"csp_Xinsj",
+      "name":"新视觉",
+      "type":3,
+      "api":"csp_Xinsj",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key": "csp_fant",
