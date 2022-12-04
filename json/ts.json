@@ -199,6 +199,16 @@
       "ext":"23a412dda32885ae2bcb97b956cd7ad4"
     },
     {
+      "key":"搭讪",
+      "name":"搭讪",
+      "type":"3",
+      "api":"csp_Dora",
+      "searchable":"0",
+      "quickSearch":"0",
+      "filterable":"0",
+      "ext":"85b2986381a134ba3ebbaf25ae8138e7#https://agit.ai/wzs1973/test/raw/branch/master/Bili/搭讪.json"
+    },    
+    {
       "key":"Bili",
       "name":"哔哩",
       "type":"3",
@@ -214,7 +224,7 @@
       "type": "3",
       "api":"csp_AList",
       "searchable":"1",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://wzs1973.github.io/json/alist.json"
     }, 
     {
       "key":"Cokemv",
@@ -288,7 +298,7 @@
     },    
     {
       "key": "csp_XPM_独播库",
-      "name": "独播库",
+      "name": "独播",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -318,27 +328,17 @@
     },   
     {
       "key": "js_小品网",
-      "name": "小品网",
+      "name": "小品",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "ext": "https://wzs1973.github.io/JS/小品网.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "js_哔哩影视",
-      "name": "哔哩影视",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "ext": "https://wzs1973.github.io/JS/哔哩影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },    
     {
       "key": "drpy_js_真不卡",
-      "name": "真不卡",
+      "name": "不卡",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
@@ -348,7 +348,7 @@
     },    
     {
       "key": "drpy_js_子子影视",
-      "name": "子子影视",
+      "name": "子子",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
@@ -358,7 +358,7 @@
     },    
     {
       "key": "drpy_js_土狗影院",
-      "name": "土狗影院",
+      "name": "土狗",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
@@ -368,7 +368,7 @@
     },    
     {
       "key": "drpy_js_量子影视",
-      "name": "量子影视",
+      "name": "量子",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
@@ -378,7 +378,7 @@
     },
     {
       "key": "drpy_js_小宝影视",
-      "name": "小宝影视",
+      "name": "小宝",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
@@ -388,7 +388,7 @@
     },    
     {
       "key": "drpy_js_兰花影院",
-      "name": "兰花影院",
+      "name": "兰花",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
@@ -398,47 +398,17 @@
     },    
     {
       "key": "drpy_js_回响影视",
-      "name": "回响影视",
+      "name": "回响",
       "type": 3,
       "api": "https://wzs1973.github.io/libs/drpy.min.js",
       "searchable": 2,
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://wzs1973.github.io/JS/回响影视.js"
-    },
-    {
-      "key": "drpy_js_腾讯",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://wzs1973.github.io/JS/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优酷视频",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://wzs1973.github.io/JS/优酷.js"
-    },
-    {
-      "key": "drpy_js_奇异果",
-      "name": "奇异果",
-      "type": 3,
-      "api": "https://wzs1973.github.io/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://wzs1973.github.io/JS/奇珍异兽.js"
     },    
     {
       "key": "csp_XB_搜狗影院",
-      "name": "搜狗影院",
+      "name": "搜狗",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -448,24 +418,44 @@
     },    
     {
       "key": "csp_XB_骚火电影",
-      "name": "骚火电影",
+      "name": "骚火",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://Wzs1973.github.io/XB/骚火电影.json"
+    },
+    {
+      "key":"影图",
+      "name":"影图",
+      "type":1,
+      "api":"https://cj.vodimg.top/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+      "categories": []
     },    
     {
-      "key": "csp_XB_速搜影视",
-      "name": "速搜影视",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://Wzs1973.github.io/XB/速搜影视.json"
-    },        
+      "key":"木子",
+      "name":"木子",
+      "type":1,
+      "api":"https://mzkj.maccms.cf/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+      "categories": []
+    },    
+    {
+      "key":"融兴",
+      "name":"融兴",
+      "type":1,
+      "api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+      "categories": []
+    },    
     {
       "key": "快播",
       "name": "快播云",
@@ -517,30 +507,6 @@
         "体育赛事",
         "伦理片"
       ]
-    },
-    {
-      "key": "北斗",
-      "name": "北斗星",
-      "type": 1,
-      "api": "https://api.bdxapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "奇幻片",
-        "灾难片",
-        "电影解说",
-        "大陆综艺",
-        "动漫片",
-        "伦理片"
-      ]
     },    
     {
       "key": "红牛",
@@ -567,6 +533,35 @@
         "伦理片"
       ]
     },
+    {
+      "key":"快车",
+      "name":"快车云",
+      "type":1,
+      "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+      "categories": []
+    },   
+    {
+      "key":"闪电",
+      "name":"闪电云",
+      "type":1,
+      "api":"http://sdzyapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 0,
+      "categories": []
+    },       
+    {
+      "key": "樱花",
+      "name": "樱花云",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": []
+    },    
     {
       "key": "量子",
       "name": "量子云",
@@ -680,7 +675,7 @@
     },
     {
       "key":"push_agent",
-      "name":"PushAgent",
+      "name":"推送",
       "type":"3",
       "api":"csp_PushAgent",
       "searchable":"1",
