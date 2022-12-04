@@ -224,7 +224,7 @@
       "type": "3",
       "api":"csp_AList",
       "searchable":"1",
-      "ext": "https://wzs1973.github.io/json/alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/alist.json"
     }, 
     {
       "key":"Cokemv",
@@ -699,16 +699,18 @@
     {"name":"Web解析聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
-    {"name":"解析1","type": 1,"url": "http://pandown.pro/app/kxjx.php?url="},
-    {"name":"解析2","type": 1,"url": "http://119.91.206.244:9999/jx/hfys.php?url="},
-    {"name":"解析3","type": 1,"url": "https://json.freejx.in/?url="},
-    {"name":"解析4","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-    {"name":"解析5","type": 1,"url": "http://lanlan.ckflv.cn/?url="},
-    {"name":"解析6","type": 0,"url": "https://chaxun.truechat365.com/?url="},
-    {"name":"解析7","type": 0,"url": "https://h5.freejson.xyz/player/?url="},
-    {"name":"解析8","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name":"虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
+    {"name":"钢铁侠","type": 1,"url": "https://json.freejx.in/?url="},
+    {"name":"懒懒","type": 1,"url": "http://lanlan.ckflv.cn/?url="},
+    {"name":"1080","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"header":{"User-Agent": "Mozilla/5.0"}}},
+    {"name":"FosiPlayer","type": 1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url=","ext":{"header":{"User-Agent": "Mozilla/5.0"}}},
+    {"name":"扶风","type": 1,"url": "https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent": "Mozilla/5.0"}}},
+    {"name":"尘烟","type": 1,"url": "https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=","ext":{"header":{"User-Agent": "Mozilla/5.0"}}},
+    {"name":"365","type": 0,"url": "https://chaxun.truechat365.com/?url="},
+    {"name":"鸿途","type": 0,"url": "https://h5.freejson.xyz/player/?url="},
+    {"name":"热播","type": 0,"url": "https://rebozj.com/?url="},
     {"name":"解析9","type": 0,"url": "https://rx.69mj.com/?url="},
-    {"name":"解析10","type": 0,"url": "https://www.8090g.cn/?url="}
+    {"name":"8090","type": 0,"url": "https://www.8090g.cn/?url="}    
   ],
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
   "ijk": [
